@@ -1,6 +1,9 @@
 import streamlit as st 
 import pandas as pd 
 import numpy as np     
+from streamlit_extras.app_logo import add_logo
+
+add_logo("streamlit/logo.png", height=180)
 title = st.title('Data Analysis') 
 caption = st.caption('-Team GeoNinjas')  
 tab1, tab2 = st.tabs(["About the project", "About the data"])  

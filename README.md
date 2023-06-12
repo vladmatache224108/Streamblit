@@ -1,0 +1,3 @@
+# Welcome to the GitHub repository of our group, traveller...
+## Here is the map of this place:
+![treasure map](Planning\folder_structure.png)

@@ -1,0 +1,68 @@
+﻿region,region_type,zip_code,inhabitants,addresses,houses
+Breda centrum,Borough,4811-4817,15265,11117,9314
+Valkenberg,Neighbourhood,4811-4817,2005,1407,1231
+Chassé,Neighbourhood,4811,3365,2487,1996
+Fellenoord,Neighbourhood,4811,1565,1023,946
+Schorsmolen,Neighbourhood,4811,3450,2483,2307
+Station,Neighbourhood,4811,2310,1483,1305
+City,Neighbourhood,4811,2575,2234,1529
+Breda noord,Borough,4811-4827,25460,14448,11574
+Belcrum,Neighbourhood,4811-4816,4005,2033,1695
+Doornbos-Linie,Neighbourhood,4815-4816,4435,2740,2195
+Biesdonk,Neighbourhood,4816-4826,4895,2801,2234
+Geeren-zuid,Neighbourhood,4827,3720,2055,1787
+Wisselaar,Neighbourhood,4826,4230,2253,1875
+Krogten,Neighbourhood,4815-4825,190,569,75
+Geeren-noord,Neighbourhood,4826-4827,2695,1489,1213
+Waterdonken,Neighbourhood,4827,1290,508,500
+Breda oost,Borough,4811-4834,24395,14143,11370
+Brabantpark,Neighbourhood,4811-4817,10560,6218,5102
+Sportpark,Neighbourhood,4818,3435,1807,1605
+Zandberg,Neighbourhood,4818,5135,2539,2186
+Heusdenhout,Neighbourhood,4817-4834,5160,2978,2439
+Moleneind-oost,Neighbourhood,4817,60,220,28
+Hoogeind,Neighbourhood,4817,45,381,10
+Breda zuid-oost,Borough,4834-4851,19310,10930,9045
+Blauwe Kei,Neighbourhood,4834-4835,3835,1979,1691
+Ypelaar,Neighbourhood,4834,5955,3776,3025
+Overakker,Neighbourhood,4834-4835,3295,1972,1636
+Ginneken,Neighbourhood,4834-4851,5440,2884,2456
+Mastbos,Neighbourhood,4836-4838,780,319,237
+Breda zuid,Borough,4811-4837,8280,4589,3854
+Boeimeer,Neighbourhood,4811-4819,5790,3172,2708
+Ruitersbos,Neighbourhood,4835-4837,2485,1417,1146
+Breda west,Borough,4811-4839,32320,17792,15547
+Haagpoort,Neighbourhood,4812-4814,2165,1118,1042
+Heuvel,Neighbourhood,4812-4819,7490,4286,3933
+Tuinzigt,Neighbourhood,4811-4815,7650,4562,4084
+Princenhage,Neighbourhood,4812-4838,8845,4300,3890
+Westerpark,Neighbourhood,4814,3430,1433,1388
+Heilaar,Neighbourhood,4814,570,647,208
+Hazeldonk,Neighbourhood,4836,50,131,20
+Steenakker,Neighbourhood,4815,480,557,326
+Effen-Rith,Neighbourhood,4836-4838,875,408,362
+Liesbos,Neighbourhood,4838-4839,760,350,294
+Breda noord-west,Borough,4815-4824,25425,12342,11052
+Gageldonk,Neighbourhood,4824,4620,2351,2072
+Kievitsloop,Neighbourhood,4824,4145,1933,1774
+Kesteren,Neighbourhood,4822-4823,3750,1787,1668
+Muizenberg,Neighbourhood,4822-4823,2860,1346,1240
+Heksenwiel,Neighbourhood,4822-4823,4370,2039,1965
+Overkroeten,Neighbourhood,4823,3125,1305,1302
+Kroeten,Neighbourhood,4823,2270,934,924
+Emer,Neighbourhood,4815-4824,75,558,27
+Hagebeemd,Neighbourhood,4822-4824,215,89,80
+Bavel,Borough,4854,8375,3586,3355
+Bavel,Neighbourhood,4854,5445,2446,2261
+Nieuw Wolfslaar,Neighbourhood,4854,2365,918,907
+Buitengebied Bavel,Neighbourhood,4854,570,222,187
+Ulvenhout,Borough,4851,5030,2344,2114
+Ulvenhout,Neighbourhood,4851,4740,2172,2016
+Buitengebied Ulvenhout,Neighbourhood,4851,295,172,98
+Prinsenbeek,Borough,4814-4841,12250,5576,5168
+Prinsenbeek,Neighbourhood,4814-4841,11350,5224,4852
+Buitengebied Prinsenbeek,Neighbourhood,4841,900,352,316
+Teteringen,Borough,4847,8565,3698,3476
+Teteringen,Neighbourhood,4847,8285,3592,3384
+Vuchtpolder,Neighbourhood,4847,105,43,39
+Buitengebied Teteringen,Neighbourhood,4847,165,63,53

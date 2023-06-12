@@ -1,0 +1,2857 @@
+,zones,catetgory,place,within,Value
+1,Bavel,Childcare,Daycare centres,Within 1 km,1.7
+2,Bavel,Childcare,Daycare centres,Within 3 km,5.5
+3,Bavel,Childcare,Daycare centres,Within 5 km,34.6
+5,Bavel,Childcare,Out-of-school care,Within 1 km,2.0
+6,Bavel,Childcare,Out-of-school care,Within 3 km,5.8
+7,Bavel,Childcare,Out-of-school care,Within 5 km,32.6
+10,Bavel,Education,Primary education,Within 1 km,1.8
+11,Bavel,Education,Primary education,Within 3 km,2.6
+12,Bavel,Education,Primary education,Within 5 km,13.7
+42,Bavel,Health and well-being,General Practitioner's Practice,Within 1 km,1.4
+43,Bavel,Health and well-being,General Practitioner's Practice,Within 3 km,3.5
+44,Bavel,Health and well-being,General Practitioner's Practice,Within 5 km,12.4
+46,Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+47,Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,4.0
+48,Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+50,Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+51,Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+52,Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+58,Bavel,Hospitality,Cafes etc.,Within 1 km,1.5
+59,Bavel,Hospitality,Cafes etc.,Within 3 km,3.7
+60,Bavel,Hospitality,Cafes etc.,Within 5 km,35.5
+62,Bavel,Hospitality,Cafeterias etc.,Within 1 km,0.8
+63,Bavel,Hospitality,Cafeterias etc.,Within 3 km,2.7
+64,Bavel,Hospitality,Cafeterias etc.,Within 5 km,55.6
+66,Bavel,Hospitality,Hotels etc.,Within 10 5km,18.3
+67,Bavel,Hospitality,Hotels etc.,Within 20 km,43.2
+68,Bavel,Hospitality,Hotels etc.,Within 5 km,5.2
+70,Bavel,Hospitality,Restaurants,Within 1 km,1.8
+71,Bavel,Hospitality,Restaurants,Within 3 km,4.3
+72,Bavel,Hospitality,Restaurants,Within 5 km,70.7
+74,Bavel,Leisure and culture,Cinema,Within 10 km,3.0
+75,Bavel,Leisure and culture,Cinema,Within 20 km,6.1
+76,Bavel,Leisure and culture,Cinema,Within 5 km,1.8
+79,Bavel,Leisure and culture,Museum,Within 10 km,1.8
+80,Bavel,Leisure and culture,Museum,Within 20 km,9.8
+81,Bavel,Leisure and culture,Museum,Within 5 km,0.4
+84,Bavel,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+85,Bavel,Leisure and culture,Performing arts (excl. festivals),Within 20 km,9.0
+86,Bavel,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.0
+90,Bavel,Leisure and culture,Recreation,Within 10 km,6.0
+91,Bavel,Leisure and culture,Recreation,Within 20 km,9.9
+92,Bavel,Leisure and culture,Recreation,Within 50 km,34.2
+96,Bavel,Retail,Department store,Within 10 km,5.0
+97,Bavel,Retail,Department store,Within 20 km,17.6
+98,Bavel,Retail,Department store,Within 5 km,1.3
+101,Bavel,Retail,Grocery stores,Within 1 km,0.9
+102,Bavel,Retail,Grocery stores,Within 3 km,2.5
+103,Bavel,Retail,Grocery stores,Within 5 km,16.0
+104,Bavel,Retail,Grocery stores,Within 1 km,6.1
+105,Bavel,Retail,Grocery stores,Within 3 km,13.3
+106,Bavel,Retail,Grocery stores,Within 5 km,63.2
+111,Belcrum,Childcare,Daycare centres,Within 1 km,4.3
+112,Belcrum,Childcare,Daycare centres,Within 3 km,32.4
+113,Belcrum,Childcare,Daycare centres,Within 5 km,79.3
+115,Belcrum,Childcare,Out-of-school care,Within 1 km,4.6
+116,Belcrum,Childcare,Out-of-school care,Within 3 km,21.6
+117,Belcrum,Childcare,Out-of-school care,Within 5 km,66.9
+120,Belcrum,Education,Primary education,Within 1 km,2.1
+121,Belcrum,Education,Primary education,Within 3 km,12.7
+122,Belcrum,Education,Primary education,Within 5 km,33.0
+152,Belcrum,Health and well-being,General Practitioner's Practice,Within 1 km,1.2
+153,Belcrum,Health and well-being,General Practitioner's Practice,Within 3 km,12.1
+154,Belcrum,Health and well-being,General Practitioner's Practice,Within 5 km,28.0
+156,Belcrum,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.3
+157,Belcrum,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+158,Belcrum,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+160,Belcrum,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.4
+161,Belcrum,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.3
+162,Belcrum,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+168,Belcrum,Hospitality,Cafes etc.,Within 1 km,5.7
+169,Belcrum,Hospitality,Cafes etc.,Within 3 km,98.9
+170,Belcrum,Hospitality,Cafes etc.,Within 5 km,112.6
+172,Belcrum,Hospitality,Cafeterias etc.,Within 1 km,12.3
+173,Belcrum,Hospitality,Cafeterias etc.,Within 3 km,128.2
+174,Belcrum,Hospitality,Cafeterias etc.,Within 5 km,170.5
+176,Belcrum,Hospitality,Hotels etc.,Within 10 5km,20.0
+177,Belcrum,Hospitality,Hotels etc.,Within 20 km,43.8
+178,Belcrum,Hospitality,Hotels etc.,Within 5 km,15.3
+180,Belcrum,Hospitality,Restaurants,Within 1 km,8.0
+181,Belcrum,Hospitality,Restaurants,Within 3 km,147.5
+182,Belcrum,Hospitality,Restaurants,Within 5 km,187.3
+184,Belcrum,Leisure and culture,Cinema,Within 10 km,3.0
+185,Belcrum,Leisure and culture,Cinema,Within 20 km,4.0
+186,Belcrum,Leisure and culture,Cinema,Within 5 km,2.0
+189,Belcrum,Leisure and culture,Museum,Within 10 km,3.2
+190,Belcrum,Leisure and culture,Museum,Within 20 km,9.9
+191,Belcrum,Leisure and culture,Museum,Within 5 km,1.0
+194,Belcrum,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+195,Belcrum,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.9
+196,Belcrum,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+200,Belcrum,Leisure and culture,Recreation,Within 10 km,5.1
+201,Belcrum,Leisure and culture,Recreation,Within 20 km,10.0
+202,Belcrum,Leisure and culture,Recreation,Within 50 km,41.8
+206,Belcrum,Retail,Department store,Within 10 km,7.0
+207,Belcrum,Retail,Department store,Within 20 km,15.3
+208,Belcrum,Retail,Department store,Within 5 km,5.0
+211,Belcrum,Retail,Grocery stores,Within 1 km,3.9
+212,Belcrum,Retail,Grocery stores,Within 3 km,26.4
+213,Belcrum,Retail,Grocery stores,Within 5 km,42.8
+214,Belcrum,Retail,Grocery stores,Within 1 km,7.1
+215,Belcrum,Retail,Grocery stores,Within 3 km,104.8
+216,Belcrum,Retail,Grocery stores,Within 5 km,167.9
+221,Biesdonk,Childcare,Daycare centres,Within 1 km,3.0
+222,Biesdonk,Childcare,Daycare centres,Within 3 km,17.5
+223,Biesdonk,Childcare,Daycare centres,Within 5 km,60.2
+225,Biesdonk,Childcare,Out-of-school care,Within 1 km,2.0
+226,Biesdonk,Childcare,Out-of-school care,Within 3 km,13.1
+227,Biesdonk,Childcare,Out-of-school care,Within 5 km,50.7
+230,Biesdonk,Education,Primary education,Within 1 km,2.9
+231,Biesdonk,Education,Primary education,Within 3 km,9.2
+232,Biesdonk,Education,Primary education,Within 5 km,29.0
+262,Biesdonk,Health and well-being,General Practitioner's Practice,Within 1 km,2.1
+263,Biesdonk,Health and well-being,General Practitioner's Practice,Within 3 km,7.5
+264,Biesdonk,Health and well-being,General Practitioner's Practice,Within 5 km,24.8
+266,Biesdonk,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.8
+267,Biesdonk,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+268,Biesdonk,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.3
+270,Biesdonk,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.8
+271,Biesdonk,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+272,Biesdonk,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.3
+278,Biesdonk,Hospitality,Cafes etc.,Within 1 km,0.2
+279,Biesdonk,Hospitality,Cafes etc.,Within 3 km,49.4
+280,Biesdonk,Hospitality,Cafes etc.,Within 5 km,106.6
+282,Biesdonk,Hospitality,Cafeterias etc.,Within 1 km,3.5
+283,Biesdonk,Hospitality,Cafeterias etc.,Within 3 km,71.0
+284,Biesdonk,Hospitality,Cafeterias etc.,Within 5 km,150.1
+286,Biesdonk,Hospitality,Hotels etc.,Within 10 5km,19.6
+287,Biesdonk,Hospitality,Hotels etc.,Within 20 km,42.1
+288,Biesdonk,Hospitality,Hotels etc.,Within 5 km,12.7
+290,Biesdonk,Hospitality,Restaurants,Within 1 km,2.6
+291,Biesdonk,Hospitality,Restaurants,Within 3 km,72.8
+292,Biesdonk,Hospitality,Restaurants,Within 5 km,174.0
+294,Biesdonk,Leisure and culture,Cinema,Within 10 km,3.0
+295,Biesdonk,Leisure and culture,Cinema,Within 20 km,4.0
+296,Biesdonk,Leisure and culture,Cinema,Within 5 km,2.0
+299,Biesdonk,Leisure and culture,Museum,Within 10 km,3.0
+300,Biesdonk,Leisure and culture,Museum,Within 20 km,8.4
+301,Biesdonk,Leisure and culture,Museum,Within 5 km,1.0
+304,Biesdonk,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+305,Biesdonk,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+306,Biesdonk,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+310,Biesdonk,Leisure and culture,Recreation,Within 10 km,5.4
+311,Biesdonk,Leisure and culture,Recreation,Within 20 km,10.0
+312,Biesdonk,Leisure and culture,Recreation,Within 50 km,41.8
+316,Biesdonk,Retail,Department store,Within 10 km,7.3
+317,Biesdonk,Retail,Department store,Within 20 km,15.0
+318,Biesdonk,Retail,Department store,Within 5 km,3.5
+321,Biesdonk,Retail,Grocery stores,Within 1 km,3.0
+322,Biesdonk,Retail,Grocery stores,Within 3 km,14.0
+323,Biesdonk,Retail,Grocery stores,Within 5 km,36.2
+324,Biesdonk,Retail,Grocery stores,Within 1 km,15.3
+325,Biesdonk,Retail,Grocery stores,Within 3 km,53.4
+326,Biesdonk,Retail,Grocery stores,Within 5 km,143.6
+331,Blauwe Kei,Childcare,Daycare centres,Within 1 km,5.9
+332,Blauwe Kei,Childcare,Daycare centres,Within 3 km,34.3
+333,Blauwe Kei,Childcare,Daycare centres,Within 5 km,68.0
+335,Blauwe Kei,Childcare,Out-of-school care,Within 1 km,6.9
+336,Blauwe Kei,Childcare,Out-of-school care,Within 3 km,29.3
+337,Blauwe Kei,Childcare,Out-of-school care,Within 5 km,57.4
+340,Blauwe Kei,Education,Primary education,Within 1 km,2.3
+341,Blauwe Kei,Education,Primary education,Within 3 km,11.3
+342,Blauwe Kei,Education,Primary education,Within 5 km,29.6
+372,Blauwe Kei,Health and well-being,General Practitioner's Practice,Within 1 km,2.8
+373,Blauwe Kei,Health and well-being,General Practitioner's Practice,Within 3 km,12.1
+374,Blauwe Kei,Health and well-being,General Practitioner's Practice,Within 5 km,25.3
+376,Blauwe Kei,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+377,Blauwe Kei,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+378,Blauwe Kei,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+380,Blauwe Kei,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+381,Blauwe Kei,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+382,Blauwe Kei,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+388,Blauwe Kei,Hospitality,Cafes etc.,Within 1 km,2.9
+389,Blauwe Kei,Hospitality,Cafes etc.,Within 3 km,84.5
+390,Blauwe Kei,Hospitality,Cafes etc.,Within 5 km,117.2
+392,Blauwe Kei,Hospitality,Cafeterias etc.,Within 1 km,6.1
+393,Blauwe Kei,Hospitality,Cafeterias etc.,Within 3 km,110.0
+394,Blauwe Kei,Hospitality,Cafeterias etc.,Within 5 km,166.9
+396,Blauwe Kei,Hospitality,Hotels etc.,Within 10 5km,18.1
+397,Blauwe Kei,Hospitality,Hotels etc.,Within 20 km,43.1
+398,Blauwe Kei,Hospitality,Hotels etc.,Within 5 km,15.1
+400,Blauwe Kei,Hospitality,Restaurants,Within 1 km,6.5
+401,Blauwe Kei,Hospitality,Restaurants,Within 3 km,140.4
+402,Blauwe Kei,Hospitality,Restaurants,Within 5 km,195.1
+404,Blauwe Kei,Leisure and culture,Cinema,Within 10 km,3.0
+405,Blauwe Kei,Leisure and culture,Cinema,Within 20 km,4.0
+406,Blauwe Kei,Leisure and culture,Cinema,Within 5 km,3.0
+409,Blauwe Kei,Leisure and culture,Museum,Within 10 km,2.0
+410,Blauwe Kei,Leisure and culture,Museum,Within 20 km,8.9
+411,Blauwe Kei,Leisure and culture,Museum,Within 5 km,1.0
+414,Blauwe Kei,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.1
+415,Blauwe Kei,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+416,Blauwe Kei,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+420,Blauwe Kei,Leisure and culture,Recreation,Within 10 km,6.2
+421,Blauwe Kei,Leisure and culture,Recreation,Within 20 km,10.0
+422,Blauwe Kei,Leisure and culture,Recreation,Within 50 km,35.6
+426,Blauwe Kei,Retail,Department store,Within 10 km,7.0
+427,Blauwe Kei,Retail,Department store,Within 20 km,15.9
+428,Blauwe Kei,Retail,Department store,Within 5 km,3.8
+431,Blauwe Kei,Retail,Grocery stores,Within 1 km,2.2
+432,Blauwe Kei,Retail,Grocery stores,Within 3 km,21.6
+433,Blauwe Kei,Retail,Grocery stores,Within 5 km,40.7
+434,Blauwe Kei,Retail,Grocery stores,Within 1 km,10.6
+435,Blauwe Kei,Retail,Grocery stores,Within 3 km,94.3
+436,Blauwe Kei,Retail,Grocery stores,Within 5 km,163.7
+441,Boeimeer,Childcare,Daycare centres,Within 1 km,6.5
+442,Boeimeer,Childcare,Daycare centres,Within 3 km,41.0
+443,Boeimeer,Childcare,Daycare centres,Within 5 km,68.4
+445,Boeimeer,Childcare,Out-of-school care,Within 1 km,5.5
+446,Boeimeer,Childcare,Out-of-school care,Within 3 km,35.6
+447,Boeimeer,Childcare,Out-of-school care,Within 5 km,59.0
+450,Boeimeer,Education,Primary education,Within 1 km,2.9
+451,Boeimeer,Education,Primary education,Within 3 km,14.1
+452,Boeimeer,Education,Primary education,Within 5 km,27.9
+482,Boeimeer,Health and well-being,General Practitioner's Practice,Within 1 km,2.0
+483,Boeimeer,Health and well-being,General Practitioner's Practice,Within 3 km,13.6
+484,Boeimeer,Health and well-being,General Practitioner's Practice,Within 5 km,27.1
+486,Boeimeer,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+487,Boeimeer,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+488,Boeimeer,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+490,Boeimeer,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+491,Boeimeer,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+492,Boeimeer,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+498,Boeimeer,Hospitality,Cafes etc.,Within 1 km,6.0
+499,Boeimeer,Hospitality,Cafes etc.,Within 3 km,106.1
+500,Boeimeer,Hospitality,Cafes etc.,Within 5 km,114.9
+502,Boeimeer,Hospitality,Cafeterias etc.,Within 1 km,12.9
+503,Boeimeer,Hospitality,Cafeterias etc.,Within 3 km,134.5
+504,Boeimeer,Hospitality,Cafeterias etc.,Within 5 km,171.3
+506,Boeimeer,Hospitality,Hotels etc.,Within 10 5km,20.1
+507,Boeimeer,Hospitality,Hotels etc.,Within 20 km,43.5
+508,Boeimeer,Hospitality,Hotels etc.,Within 5 km,14.2
+510,Boeimeer,Hospitality,Restaurants,Within 1 km,18.3
+511,Boeimeer,Hospitality,Restaurants,Within 3 km,158.8
+512,Boeimeer,Hospitality,Restaurants,Within 5 km,193.5
+514,Boeimeer,Leisure and culture,Cinema,Within 10 km,3.0
+515,Boeimeer,Leisure and culture,Cinema,Within 20 km,4.0
+516,Boeimeer,Leisure and culture,Cinema,Within 5 km,2.3
+519,Boeimeer,Leisure and culture,Museum,Within 10 km,3.0
+520,Boeimeer,Leisure and culture,Museum,Within 20 km,10.0
+521,Boeimeer,Leisure and culture,Museum,Within 5 km,1.0
+524,Boeimeer,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.3
+525,Boeimeer,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+526,Boeimeer,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+530,Boeimeer,Leisure and culture,Recreation,Within 10 km,5.7
+531,Boeimeer,Leisure and culture,Recreation,Within 20 km,10.0
+532,Boeimeer,Leisure and culture,Recreation,Within 50 km,38.3
+536,Boeimeer,Retail,Department store,Within 10 km,6.3
+537,Boeimeer,Retail,Department store,Within 20 km,16.0
+538,Boeimeer,Retail,Department store,Within 5 km,3.9
+541,Boeimeer,Retail,Grocery stores,Within 1 km,3.8
+542,Boeimeer,Retail,Grocery stores,Within 3 km,27.0
+543,Boeimeer,Retail,Grocery stores,Within 5 km,39.8
+544,Boeimeer,Retail,Grocery stores,Within 1 km,17.0
+545,Boeimeer,Retail,Grocery stores,Within 3 km,106.0
+546,Boeimeer,Retail,Grocery stores,Within 5 km,157.3
+551,Brabantpark,Childcare,Daycare centres,Within 1 km,3.7
+552,Brabantpark,Childcare,Daycare centres,Within 3 km,35.5
+553,Brabantpark,Childcare,Daycare centres,Within 5 km,70.2
+555,Brabantpark,Childcare,Out-of-school care,Within 1 km,1.6
+556,Brabantpark,Childcare,Out-of-school care,Within 3 km,28.0
+557,Brabantpark,Childcare,Out-of-school care,Within 5 km,61.1
+560,Brabantpark,Education,Primary education,Within 1 km,0.7
+561,Brabantpark,Education,Primary education,Within 3 km,16.9
+562,Brabantpark,Education,Primary education,Within 5 km,29.8
+592,Brabantpark,Health and well-being,General Practitioner's Practice,Within 1 km,1.7
+593,Brabantpark,Health and well-being,General Practitioner's Practice,Within 3 km,13.5
+594,Brabantpark,Health and well-being,General Practitioner's Practice,Within 5 km,26.4
+596,Brabantpark,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+597,Brabantpark,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.2
+598,Brabantpark,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.9
+600,Brabantpark,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+601,Brabantpark,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.2
+602,Brabantpark,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.9
+608,Brabantpark,Hospitality,Cafes etc.,Within 1 km,2.1
+609,Brabantpark,Hospitality,Cafes etc.,Within 3 km,84.3
+610,Brabantpark,Hospitality,Cafes etc.,Within 5 km,113.3
+612,Brabantpark,Hospitality,Cafeterias etc.,Within 1 km,7.1
+613,Brabantpark,Hospitality,Cafeterias etc.,Within 3 km,114.0
+614,Brabantpark,Hospitality,Cafeterias etc.,Within 5 km,162.8
+616,Brabantpark,Hospitality,Hotels etc.,Within 10 5km,19.0
+617,Brabantpark,Hospitality,Hotels etc.,Within 20 km,43.5
+618,Brabantpark,Hospitality,Hotels etc.,Within 5 km,14.0
+620,Brabantpark,Hospitality,Restaurants,Within 1 km,6.9
+621,Brabantpark,Hospitality,Restaurants,Within 3 km,131.8
+622,Brabantpark,Hospitality,Restaurants,Within 5 km,186.4
+624,Brabantpark,Leisure and culture,Cinema,Within 10 km,3.0
+625,Brabantpark,Leisure and culture,Cinema,Within 20 km,4.1
+626,Brabantpark,Leisure and culture,Cinema,Within 5 km,3.0
+629,Brabantpark,Leisure and culture,Museum,Within 10 km,3.0
+630,Brabantpark,Leisure and culture,Museum,Within 20 km,8.6
+631,Brabantpark,Leisure and culture,Museum,Within 5 km,1.1
+634,Brabantpark,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+635,Brabantpark,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.4
+636,Brabantpark,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+640,Brabantpark,Leisure and culture,Recreation,Within 10 km,6.0
+641,Brabantpark,Leisure and culture,Recreation,Within 20 km,10.3
+642,Brabantpark,Leisure and culture,Recreation,Within 50 km,38.0
+646,Brabantpark,Retail,Department store,Within 10 km,8.0
+647,Brabantpark,Retail,Department store,Within 20 km,15.9
+648,Brabantpark,Retail,Department store,Within 5 km,3.4
+651,Brabantpark,Retail,Grocery stores,Within 1 km,2.5
+652,Brabantpark,Retail,Grocery stores,Within 3 km,21.9
+653,Brabantpark,Retail,Grocery stores,Within 5 km,39.4
+654,Brabantpark,Retail,Grocery stores,Within 1 km,10.1
+655,Brabantpark,Retail,Grocery stores,Within 3 km,98.2
+656,Brabantpark,Retail,Grocery stores,Within 5 km,157.7
+661,Buitengebied Bavel,Childcare,Daycare centres,Within 1 km,0.2
+662,Buitengebied Bavel,Childcare,Daycare centres,Within 3 km,6.2
+663,Buitengebied Bavel,Childcare,Daycare centres,Within 5 km,25.5
+665,Buitengebied Bavel,Childcare,Out-of-school care,Within 1 km,0.1
+666,Buitengebied Bavel,Childcare,Out-of-school care,Within 3 km,6.4
+667,Buitengebied Bavel,Childcare,Out-of-school care,Within 5 km,24.8
+670,Buitengebied Bavel,Education,Primary education,Within 1 km,0.1
+671,Buitengebied Bavel,Education,Primary education,Within 3 km,3.3
+672,Buitengebied Bavel,Education,Primary education,Within 5 km,10.7
+702,Buitengebied Bavel,Health and well-being,General Practitioner's Practice,Within 1 km,0.1
+703,Buitengebied Bavel,Health and well-being,General Practitioner's Practice,Within 3 km,3.1
+704,Buitengebied Bavel,Health and well-being,General Practitioner's Practice,Within 5 km,9.7
+706,Buitengebied Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.1
+707,Buitengebied Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,4.1
+708,Buitengebied Bavel,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.9
+710,Buitengebied Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.1
+711,Buitengebied Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.1
+712,Buitengebied Bavel,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.9
+718,Buitengebied Bavel,Hospitality,Cafes etc.,Within 1 km,0.3
+719,Buitengebied Bavel,Hospitality,Cafes etc.,Within 3 km,3.7
+720,Buitengebied Bavel,Hospitality,Cafes etc.,Within 5 km,29.6
+722,Buitengebied Bavel,Hospitality,Cafeterias etc.,Within 1 km,0.0
+723,Buitengebied Bavel,Hospitality,Cafeterias etc.,Within 3 km,4.0
+724,Buitengebied Bavel,Hospitality,Cafeterias etc.,Within 5 km,40.9
+726,Buitengebied Bavel,Hospitality,Hotels etc.,Within 10 5km,17.7
+727,Buitengebied Bavel,Hospitality,Hotels etc.,Within 20 km,44.0
+728,Buitengebied Bavel,Hospitality,Hotels etc.,Within 5 km,4.8
+730,Buitengebied Bavel,Hospitality,Restaurants,Within 1 km,0.7
+731,Buitengebied Bavel,Hospitality,Restaurants,Within 3 km,5.4
+732,Buitengebied Bavel,Hospitality,Restaurants,Within 5 km,52.0
+734,Buitengebied Bavel,Leisure and culture,Cinema,Within 10 km,3.0
+735,Buitengebied Bavel,Leisure and culture,Cinema,Within 20 km,6.4
+736,Buitengebied Bavel,Leisure and culture,Cinema,Within 5 km,1.0
+739,Buitengebied Bavel,Leisure and culture,Museum,Within 10 km,1.9
+740,Buitengebied Bavel,Leisure and culture,Museum,Within 20 km,10.0
+741,Buitengebied Bavel,Leisure and culture,Museum,Within 5 km,0.2
+744,Buitengebied Bavel,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+745,Buitengebied Bavel,Leisure and culture,Performing arts (excl. festivals),Within 20 km,9.9
+746,Buitengebied Bavel,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.5
+750,Buitengebied Bavel,Leisure and culture,Recreation,Within 10 km,5.7
+751,Buitengebied Bavel,Leisure and culture,Recreation,Within 20 km,10.0
+752,Buitengebied Bavel,Leisure and culture,Recreation,Within 50 km,35.6
+756,Buitengebied Bavel,Retail,Department store,Within 10 km,5.5
+757,Buitengebied Bavel,Retail,Department store,Within 20 km,17.5
+758,Buitengebied Bavel,Retail,Department store,Within 5 km,1.0
+761,Buitengebied Bavel,Retail,Grocery stores,Within 1 km,0.1
+762,Buitengebied Bavel,Retail,Grocery stores,Within 3 km,2.7
+763,Buitengebied Bavel,Retail,Grocery stores,Within 5 km,11.7
+764,Buitengebied Bavel,Retail,Grocery stores,Within 1 km,0.7
+765,Buitengebied Bavel,Retail,Grocery stores,Within 3 km,12.5
+766,Buitengebied Bavel,Retail,Grocery stores,Within 5 km,49.7
+771,Buitengebied Prinsenbeek,Childcare,Daycare centres,Within 1 km,0.2
+772,Buitengebied Prinsenbeek,Childcare,Daycare centres,Within 3 km,5.6
+773,Buitengebied Prinsenbeek,Childcare,Daycare centres,Within 5 km,14.7
+775,Buitengebied Prinsenbeek,Childcare,Out-of-school care,Within 1 km,0.3
+776,Buitengebied Prinsenbeek,Childcare,Out-of-school care,Within 3 km,4.9
+777,Buitengebied Prinsenbeek,Childcare,Out-of-school care,Within 5 km,12.9
+780,Buitengebied Prinsenbeek,Education,Primary education,Within 1 km,0.0
+781,Buitengebied Prinsenbeek,Education,Primary education,Within 3 km,1.9
+782,Buitengebied Prinsenbeek,Education,Primary education,Within 5 km,6.2
+812,Buitengebied Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+813,Buitengebied Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 3 km,0.7
+814,Buitengebied Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 5 km,3.1
+816,Buitengebied Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,1.8
+817,Buitengebied Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+818,Buitengebied Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+820,Buitengebied Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.8
+821,Buitengebied Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+822,Buitengebied Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.2
+828,Buitengebied Prinsenbeek,Hospitality,Cafes etc.,Within 1 km,0.1
+829,Buitengebied Prinsenbeek,Hospitality,Cafes etc.,Within 3 km,4.8
+830,Buitengebied Prinsenbeek,Hospitality,Cafes etc.,Within 5 km,9.5
+832,Buitengebied Prinsenbeek,Hospitality,Cafeterias etc.,Within 1 km,0.0
+833,Buitengebied Prinsenbeek,Hospitality,Cafeterias etc.,Within 3 km,3.2
+834,Buitengebied Prinsenbeek,Hospitality,Cafeterias etc.,Within 5 km,13.1
+836,Buitengebied Prinsenbeek,Hospitality,Hotels etc.,Within 10 5km,21.2
+837,Buitengebied Prinsenbeek,Hospitality,Hotels etc.,Within 20 km,38.9
+838,Buitengebied Prinsenbeek,Hospitality,Hotels etc.,Within 5 km,1.8
+840,Buitengebied Prinsenbeek,Hospitality,Restaurants,Within 1 km,0.1
+841,Buitengebied Prinsenbeek,Hospitality,Restaurants,Within 3 km,5.5
+842,Buitengebied Prinsenbeek,Hospitality,Restaurants,Within 5 km,16.6
+844,Buitengebied Prinsenbeek,Leisure and culture,Cinema,Within 10 km,2.9
+845,Buitengebied Prinsenbeek,Leisure and culture,Cinema,Within 20 km,4.0
+846,Buitengebied Prinsenbeek,Leisure and culture,Cinema,Within 5 km,0.0
+849,Buitengebied Prinsenbeek,Leisure and culture,Museum,Within 10 km,2.9
+850,Buitengebied Prinsenbeek,Leisure and culture,Museum,Within 20 km,9.8
+851,Buitengebied Prinsenbeek,Leisure and culture,Museum,Within 5 km,0.3
+854,Buitengebied Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+855,Buitengebied Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.6
+856,Buitengebied Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+860,Buitengebied Prinsenbeek,Leisure and culture,Recreation,Within 10 km,3.2
+861,Buitengebied Prinsenbeek,Leisure and culture,Recreation,Within 20 km,9.7
+862,Buitengebied Prinsenbeek,Leisure and culture,Recreation,Within 50 km,39.2
+866,Buitengebied Prinsenbeek,Retail,Department store,Within 10 km,7.5
+867,Buitengebied Prinsenbeek,Retail,Department store,Within 20 km,13.1
+868,Buitengebied Prinsenbeek,Retail,Department store,Within 5 km,1.1
+871,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 1 km,0.0
+872,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 3 km,2.3
+873,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 5 km,5.6
+874,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 1 km,0.0
+875,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 3 km,8.2
+876,Buitengebied Prinsenbeek,Retail,Grocery stores,Within 5 km,16.2
+881,Buitengebied Teteringen,Childcare,Daycare centres,Within 1 km,0.8
+882,Buitengebied Teteringen,Childcare,Daycare centres,Within 3 km,11.4
+883,Buitengebied Teteringen,Childcare,Daycare centres,Within 5 km,35.9
+885,Buitengebied Teteringen,Childcare,Out-of-school care,Within 1 km,1.5
+886,Buitengebied Teteringen,Childcare,Out-of-school care,Within 3 km,10.0
+887,Buitengebied Teteringen,Childcare,Out-of-school care,Within 5 km,26.7
+890,Buitengebied Teteringen,Education,Primary education,Within 1 km,0.3
+891,Buitengebied Teteringen,Education,Primary education,Within 3 km,5.9
+892,Buitengebied Teteringen,Education,Primary education,Within 5 km,19.3
+922,Buitengebied Teteringen,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+923,Buitengebied Teteringen,Health and well-being,General Practitioner's Practice,Within 3 km,3.0
+924,Buitengebied Teteringen,Health and well-being,General Practitioner's Practice,Within 5 km,14.2
+926,Buitengebied Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+927,Buitengebied Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.1
+928,Buitengebied Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.9
+930,Buitengebied Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+931,Buitengebied Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.1
+932,Buitengebied Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.9
+938,Buitengebied Teteringen,Hospitality,Cafes etc.,Within 1 km,0.0
+939,Buitengebied Teteringen,Hospitality,Cafes etc.,Within 3 km,1.6
+940,Buitengebied Teteringen,Hospitality,Cafes etc.,Within 5 km,27.4
+942,Buitengebied Teteringen,Hospitality,Cafeterias etc.,Within 1 km,0.0
+943,Buitengebied Teteringen,Hospitality,Cafeterias etc.,Within 3 km,5.0
+944,Buitengebied Teteringen,Hospitality,Cafeterias etc.,Within 5 km,55.1
+946,Buitengebied Teteringen,Hospitality,Hotels etc.,Within 10 5km,19.9
+947,Buitengebied Teteringen,Hospitality,Hotels etc.,Within 20 km,44.4
+948,Buitengebied Teteringen,Hospitality,Hotels etc.,Within 5 km,5.3
+950,Buitengebied Teteringen,Hospitality,Restaurants,Within 1 km,0.5
+951,Buitengebied Teteringen,Hospitality,Restaurants,Within 3 km,8.4
+952,Buitengebied Teteringen,Hospitality,Restaurants,Within 5 km,65.4
+954,Buitengebied Teteringen,Leisure and culture,Cinema,Within 10 km,3.0
+955,Buitengebied Teteringen,Leisure and culture,Cinema,Within 20 km,4.0
+956,Buitengebied Teteringen,Leisure and culture,Cinema,Within 5 km,0.6
+959,Buitengebied Teteringen,Leisure and culture,Museum,Within 10 km,3.5
+960,Buitengebied Teteringen,Leisure and culture,Museum,Within 20 km,7.2
+961,Buitengebied Teteringen,Leisure and culture,Museum,Within 5 km,1.6
+964,Buitengebied Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+965,Buitengebied Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.8
+966,Buitengebied Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.7
+970,Buitengebied Teteringen,Leisure and culture,Recreation,Within 10 km,5.7
+971,Buitengebied Teteringen,Leisure and culture,Recreation,Within 20 km,9.6
+972,Buitengebied Teteringen,Leisure and culture,Recreation,Within 50 km,36.5
+976,Buitengebied Teteringen,Retail,Department store,Within 10 km,7.6
+977,Buitengebied Teteringen,Retail,Department store,Within 20 km,15.1
+978,Buitengebied Teteringen,Retail,Department store,Within 5 km,1.4
+981,Buitengebied Teteringen,Retail,Grocery stores,Within 1 km,0.0
+982,Buitengebied Teteringen,Retail,Grocery stores,Within 3 km,2.5
+983,Buitengebied Teteringen,Retail,Grocery stores,Within 5 km,16.7
+984,Buitengebied Teteringen,Retail,Grocery stores,Within 1 km,0.0
+985,Buitengebied Teteringen,Retail,Grocery stores,Within 3 km,8.2
+986,Buitengebied Teteringen,Retail,Grocery stores,Within 5 km,66.8
+991,Buitengebied Ulvenhout,Childcare,Daycare centres,Within 1 km,0.5
+992,Buitengebied Ulvenhout,Childcare,Daycare centres,Within 3 km,3.2
+993,Buitengebied Ulvenhout,Childcare,Daycare centres,Within 5 km,21.1
+995,Buitengebied Ulvenhout,Childcare,Out-of-school care,Within 1 km,0.5
+996,Buitengebied Ulvenhout,Childcare,Out-of-school care,Within 3 km,4.6
+997,Buitengebied Ulvenhout,Childcare,Out-of-school care,Within 5 km,21.0
+1000,Buitengebied Ulvenhout,Education,Primary education,Within 1 km,0.5
+1001,Buitengebied Ulvenhout,Education,Primary education,Within 3 km,2.0
+1002,Buitengebied Ulvenhout,Education,Primary education,Within 5 km,8.5
+1032,Buitengebied Ulvenhout,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+1033,Buitengebied Ulvenhout,Health and well-being,General Practitioner's Practice,Within 3 km,1.0
+1034,Buitengebied Ulvenhout,Health and well-being,General Practitioner's Practice,Within 5 km,6.8
+1036,Buitengebied Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1037,Buitengebied Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1038,Buitengebied Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+1040,Buitengebied Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+1041,Buitengebied Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+1042,Buitengebied Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+1048,Buitengebied Ulvenhout,Hospitality,Cafes etc.,Within 1 km,0.0
+1049,Buitengebied Ulvenhout,Hospitality,Cafes etc.,Within 3 km,2.2
+1050,Buitengebied Ulvenhout,Hospitality,Cafes etc.,Within 5 km,12.0
+1052,Buitengebied Ulvenhout,Hospitality,Cafeterias etc.,Within 1 km,0.2
+1053,Buitengebied Ulvenhout,Hospitality,Cafeterias etc.,Within 3 km,4.0
+1054,Buitengebied Ulvenhout,Hospitality,Cafeterias etc.,Within 5 km,20.9
+1056,Buitengebied Ulvenhout,Hospitality,Hotels etc.,Within 10 5km,16.8
+1057,Buitengebied Ulvenhout,Hospitality,Hotels etc.,Within 20 km,34.7
+1058,Buitengebied Ulvenhout,Hospitality,Hotels etc.,Within 5 km,0.7
+1060,Buitengebied Ulvenhout,Hospitality,Restaurants,Within 1 km,0.8
+1061,Buitengebied Ulvenhout,Hospitality,Restaurants,Within 3 km,8.0
+1062,Buitengebied Ulvenhout,Hospitality,Restaurants,Within 5 km,29.9
+1064,Buitengebied Ulvenhout,Leisure and culture,Cinema,Within 10 km,3.0
+1065,Buitengebied Ulvenhout,Leisure and culture,Cinema,Within 20 km,4.0
+1066,Buitengebied Ulvenhout,Leisure and culture,Cinema,Within 5 km,0.0
+1069,Buitengebied Ulvenhout,Leisure and culture,Museum,Within 10 km,1.0
+1070,Buitengebied Ulvenhout,Leisure and culture,Museum,Within 20 km,7.0
+1071,Buitengebied Ulvenhout,Leisure and culture,Museum,Within 5 km,0.0
+1074,Buitengebied Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+1075,Buitengebied Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 20 km,5.0
+1076,Buitengebied Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+1080,Buitengebied Ulvenhout,Leisure and culture,Recreation,Within 10 km,5.0
+1081,Buitengebied Ulvenhout,Leisure and culture,Recreation,Within 20 km,7.2
+1082,Buitengebied Ulvenhout,Leisure and culture,Recreation,Within 50 km,31.5
+1086,Buitengebied Ulvenhout,Retail,Department store,Within 10 km,4.0
+1087,Buitengebied Ulvenhout,Retail,Department store,Within 20 km,14.7
+1088,Buitengebied Ulvenhout,Retail,Department store,Within 5 km,1.0
+1091,Buitengebied Ulvenhout,Retail,Grocery stores,Within 1 km,0.4
+1092,Buitengebied Ulvenhout,Retail,Grocery stores,Within 3 km,2.1
+1093,Buitengebied Ulvenhout,Retail,Grocery stores,Within 5 km,9.0
+1094,Buitengebied Ulvenhout,Retail,Grocery stores,Within 1 km,0.7
+1095,Buitengebied Ulvenhout,Retail,Grocery stores,Within 3 km,4.2
+1096,Buitengebied Ulvenhout,Retail,Grocery stores,Within 5 km,33.5
+1101,Chassé,Childcare,Daycare centres,Within 1 km,6.8
+1102,Chassé,Childcare,Daycare centres,Within 3 km,45.0
+1103,Chassé,Childcare,Daycare centres,Within 5 km,74.3
+1105,Chassé,Childcare,Out-of-school care,Within 1 km,5.1
+1106,Chassé,Childcare,Out-of-school care,Within 3 km,38.3
+1107,Chassé,Childcare,Out-of-school care,Within 5 km,63.1
+1110,Chassé,Education,Primary education,Within 1 km,1.8
+1111,Chassé,Education,Primary education,Within 3 km,16.2
+1112,Chassé,Education,Primary education,Within 5 km,30.9
+1142,Chassé,Health and well-being,General Practitioner's Practice,Within 1 km,0.6
+1143,Chassé,Health and well-being,General Practitioner's Practice,Within 3 km,17.5
+1144,Chassé,Health and well-being,General Practitioner's Practice,Within 5 km,29.0
+1146,Chassé,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1147,Chassé,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1148,Chassé,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+1150,Chassé,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.4
+1151,Chassé,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.7
+1152,Chassé,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+1158,Chassé,Hospitality,Cafes etc.,Within 1 km,52.4
+1159,Chassé,Hospitality,Cafes etc.,Within 3 km,108.3
+1160,Chassé,Hospitality,Cafes etc.,Within 5 km,115.6
+1162,Chassé,Hospitality,Cafeterias etc.,Within 1 km,62.3
+1163,Chassé,Hospitality,Cafeterias etc.,Within 3 km,147.5
+1164,Chassé,Hospitality,Cafeterias etc.,Within 5 km,174.4
+1166,Chassé,Hospitality,Hotels etc.,Within 10 5km,20.0
+1167,Chassé,Hospitality,Hotels etc.,Within 20 km,44.0
+1168,Chassé,Hospitality,Hotels etc.,Within 5 km,15.4
+1170,Chassé,Hospitality,Restaurants,Within 1 km,83.1
+1171,Chassé,Hospitality,Restaurants,Within 3 km,168.1
+1172,Chassé,Hospitality,Restaurants,Within 5 km,196.1
+1174,Chassé,Leisure and culture,Cinema,Within 10 km,3.0
+1175,Chassé,Leisure and culture,Cinema,Within 20 km,4.0
+1176,Chassé,Leisure and culture,Cinema,Within 5 km,3.0
+1179,Chassé,Leisure and culture,Museum,Within 10 km,2.8
+1180,Chassé,Leisure and culture,Museum,Within 20 km,10.0
+1181,Chassé,Leisure and culture,Museum,Within 5 km,1.0
+1184,Chassé,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.1
+1185,Chassé,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+1186,Chassé,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1190,Chassé,Leisure and culture,Recreation,Within 10 km,5.1
+1191,Chassé,Leisure and culture,Recreation,Within 20 km,10.0
+1192,Chassé,Leisure and culture,Recreation,Within 50 km,40.1
+1196,Chassé,Retail,Department store,Within 10 km,7.0
+1197,Chassé,Retail,Department store,Within 20 km,15.7
+1198,Chassé,Retail,Department store,Within 5 km,4.0
+1201,Chassé,Retail,Grocery stores,Within 1 km,7.7
+1202,Chassé,Retail,Grocery stores,Within 3 km,31.6
+1203,Chassé,Retail,Grocery stores,Within 5 km,40.5
+1204,Chassé,Retail,Grocery stores,Within 1 km,38.2
+1205,Chassé,Retail,Grocery stores,Within 3 km,124.7
+1206,Chassé,Retail,Grocery stores,Within 5 km,159.8
+1211,City,Childcare,Daycare centres,Within 1 km,2.5
+1212,City,Childcare,Daycare centres,Within 3 km,43.8
+1213,City,Childcare,Daycare centres,Within 5 km,75.8
+1215,City,Childcare,Out-of-school care,Within 1 km,1.6
+1216,City,Childcare,Out-of-school care,Within 3 km,36.2
+1217,City,Childcare,Out-of-school care,Within 5 km,64.1
+1220,City,Education,Primary education,Within 1 km,0.2
+1221,City,Education,Primary education,Within 3 km,17.5
+1222,City,Education,Primary education,Within 5 km,31.2
+1252,City,Health and well-being,General Practitioner's Practice,Within 1 km,1.5
+1253,City,Health and well-being,General Practitioner's Practice,Within 3 km,16.4
+1254,City,Health and well-being,General Practitioner's Practice,Within 5 km,29.8
+1256,City,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1257,City,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1258,City,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+1260,City,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.4
+1261,City,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.9
+1262,City,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+1268,City,Hospitality,Cafes etc.,Within 1 km,76.2
+1269,City,Hospitality,Cafes etc.,Within 3 km,107.4
+1270,City,Hospitality,Cafes etc.,Within 5 km,115.7
+1272,City,Hospitality,Cafeterias etc.,Within 1 km,77.0
+1273,City,Hospitality,Cafeterias etc.,Within 3 km,147.0
+1274,City,Hospitality,Cafeterias etc.,Within 5 km,173.7
+1276,City,Hospitality,Hotels etc.,Within 10 5km,20.8
+1277,City,Hospitality,Hotels etc.,Within 20 km,43.9
+1278,City,Hospitality,Hotels etc.,Within 5 km,16.6
+1280,City,Hospitality,Restaurants,Within 1 km,102.0
+1281,City,Hospitality,Restaurants,Within 3 km,166.1
+1282,City,Hospitality,Restaurants,Within 5 km,195.2
+1284,City,Leisure and culture,Cinema,Within 10 km,3.0
+1285,City,Leisure and culture,Cinema,Within 20 km,4.0
+1286,City,Leisure and culture,Cinema,Within 5 km,2.9
+1289,City,Leisure and culture,Museum,Within 10 km,3.4
+1290,City,Leisure and culture,Museum,Within 20 km,10.0
+1291,City,Leisure and culture,Museum,Within 5 km,1.0
+1294,City,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.8
+1295,City,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+1296,City,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1300,City,Leisure and culture,Recreation,Within 10 km,5.3
+1301,City,Leisure and culture,Recreation,Within 20 km,10.0
+1302,City,Leisure and culture,Recreation,Within 50 km,41.4
+1306,City,Retail,Department store,Within 10 km,7.0
+1307,City,Retail,Department store,Within 20 km,15.9
+1308,City,Retail,Department store,Within 5 km,4.0
+1311,City,Retail,Grocery stores,Within 1 km,8.2
+1312,City,Retail,Grocery stores,Within 3 km,29.5
+1313,City,Retail,Grocery stores,Within 5 km,40.5
+1314,City,Retail,Grocery stores,Within 1 km,41.3
+1315,City,Retail,Grocery stores,Within 3 km,122.8
+1316,City,Retail,Grocery stores,Within 5 km,158.9
+1321,Doornbos-Linie,Childcare,Daycare centres,Within 1 km,3.1
+1322,Doornbos-Linie,Childcare,Daycare centres,Within 3 km,29.7
+1323,Doornbos-Linie,Childcare,Daycare centres,Within 5 km,70.9
+1325,Doornbos-Linie,Childcare,Out-of-school care,Within 1 km,3.7
+1326,Doornbos-Linie,Childcare,Out-of-school care,Within 3 km,21.6
+1327,Doornbos-Linie,Childcare,Out-of-school care,Within 5 km,58.3
+1330,Doornbos-Linie,Education,Primary education,Within 1 km,3.2
+1331,Doornbos-Linie,Education,Primary education,Within 3 km,14.4
+1332,Doornbos-Linie,Education,Primary education,Within 5 km,28.3
+1362,Doornbos-Linie,Health and well-being,General Practitioner's Practice,Within 1 km,1.6
+1363,Doornbos-Linie,Health and well-being,General Practitioner's Practice,Within 3 km,10.7
+1364,Doornbos-Linie,Health and well-being,General Practitioner's Practice,Within 5 km,26.5
+1366,Doornbos-Linie,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+1367,Doornbos-Linie,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1368,Doornbos-Linie,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+1370,Doornbos-Linie,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+1371,Doornbos-Linie,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+1372,Doornbos-Linie,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+1378,Doornbos-Linie,Hospitality,Cafes etc.,Within 1 km,2.2
+1379,Doornbos-Linie,Hospitality,Cafes etc.,Within 3 km,88.4
+1380,Doornbos-Linie,Hospitality,Cafes etc.,Within 5 km,109.6
+1382,Doornbos-Linie,Hospitality,Cafeterias etc.,Within 1 km,4.8
+1383,Doornbos-Linie,Hospitality,Cafeterias etc.,Within 3 km,116.9
+1384,Doornbos-Linie,Hospitality,Cafeterias etc.,Within 5 km,161.6
+1386,Doornbos-Linie,Hospitality,Hotels etc.,Within 10 5km,19.0
+1387,Doornbos-Linie,Hospitality,Hotels etc.,Within 20 km,42.6
+1388,Doornbos-Linie,Hospitality,Hotels etc.,Within 5 km,14.1
+1390,Doornbos-Linie,Hospitality,Restaurants,Within 1 km,6.7
+1391,Doornbos-Linie,Hospitality,Restaurants,Within 3 km,135.5
+1392,Doornbos-Linie,Hospitality,Restaurants,Within 5 km,179.7
+1394,Doornbos-Linie,Leisure and culture,Cinema,Within 10 km,3.0
+1395,Doornbos-Linie,Leisure and culture,Cinema,Within 20 km,4.0
+1396,Doornbos-Linie,Leisure and culture,Cinema,Within 5 km,2.3
+1399,Doornbos-Linie,Leisure and culture,Museum,Within 10 km,3.0
+1400,Doornbos-Linie,Leisure and culture,Museum,Within 20 km,8.6
+1401,Doornbos-Linie,Leisure and culture,Museum,Within 5 km,1.0
+1404,Doornbos-Linie,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+1405,Doornbos-Linie,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+1406,Doornbos-Linie,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1410,Doornbos-Linie,Leisure and culture,Recreation,Within 10 km,6.0
+1411,Doornbos-Linie,Leisure and culture,Recreation,Within 20 km,10.0
+1412,Doornbos-Linie,Leisure and culture,Recreation,Within 50 km,42.0
+1416,Doornbos-Linie,Retail,Department store,Within 10 km,7.2
+1417,Doornbos-Linie,Retail,Department store,Within 20 km,15.1
+1418,Doornbos-Linie,Retail,Department store,Within 5 km,3.4
+1421,Doornbos-Linie,Retail,Grocery stores,Within 1 km,1.2
+1422,Doornbos-Linie,Retail,Grocery stores,Within 3 km,21.8
+1423,Doornbos-Linie,Retail,Grocery stores,Within 5 km,38.6
+1424,Doornbos-Linie,Retail,Grocery stores,Within 1 km,10.2
+1425,Doornbos-Linie,Retail,Grocery stores,Within 3 km,90.3
+1426,Doornbos-Linie,Retail,Grocery stores,Within 5 km,152.1
+1431,Effen-Rith,Childcare,Daycare centres,Within 1 km,0.0
+1432,Effen-Rith,Childcare,Daycare centres,Within 3 km,1.2
+1433,Effen-Rith,Childcare,Daycare centres,Within 5 km,16.3
+1435,Effen-Rith,Childcare,Out-of-school care,Within 1 km,0.5
+1436,Effen-Rith,Childcare,Out-of-school care,Within 3 km,2.6
+1437,Effen-Rith,Childcare,Out-of-school care,Within 5 km,17.2
+1440,Effen-Rith,Education,Primary education,Within 1 km,0.5
+1441,Effen-Rith,Education,Primary education,Within 3 km,1.6
+1442,Effen-Rith,Education,Primary education,Within 5 km,6.8
+1472,Effen-Rith,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+1473,Effen-Rith,Health and well-being,General Practitioner's Practice,Within 3 km,0.4
+1474,Effen-Rith,Health and well-being,General Practitioner's Practice,Within 5 km,6.0
+1476,Effen-Rith,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1477,Effen-Rith,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1478,Effen-Rith,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.8
+1480,Effen-Rith,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.9
+1481,Effen-Rith,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+1482,Effen-Rith,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.8
+1488,Effen-Rith,Hospitality,Cafes etc.,Within 1 km,0.0
+1489,Effen-Rith,Hospitality,Cafes etc.,Within 3 km,1.8
+1490,Effen-Rith,Hospitality,Cafes etc.,Within 5 km,17.6
+1492,Effen-Rith,Hospitality,Cafeterias etc.,Within 1 km,0.0
+1493,Effen-Rith,Hospitality,Cafeterias etc.,Within 3 km,2.7
+1494,Effen-Rith,Hospitality,Cafeterias etc.,Within 5 km,29.6
+1496,Effen-Rith,Hospitality,Hotels etc.,Within 10 5km,20.9
+1497,Effen-Rith,Hospitality,Hotels etc.,Within 20 km,37.7
+1498,Effen-Rith,Hospitality,Hotels etc.,Within 5 km,2.9
+1500,Effen-Rith,Hospitality,Restaurants,Within 1 km,0.4
+1501,Effen-Rith,Hospitality,Restaurants,Within 3 km,3.2
+1502,Effen-Rith,Hospitality,Restaurants,Within 5 km,30.0
+1504,Effen-Rith,Leisure and culture,Cinema,Within 10 km,3.7
+1505,Effen-Rith,Leisure and culture,Cinema,Within 20 km,4.0
+1506,Effen-Rith,Leisure and culture,Cinema,Within 5 km,0.0
+1509,Effen-Rith,Leisure and culture,Museum,Within 10 km,3.1
+1510,Effen-Rith,Leisure and culture,Museum,Within 20 km,8.7
+1511,Effen-Rith,Leisure and culture,Museum,Within 5 km,0.0
+1514,Effen-Rith,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+1515,Effen-Rith,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.1
+1516,Effen-Rith,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+1520,Effen-Rith,Leisure and culture,Recreation,Within 10 km,4.9
+1521,Effen-Rith,Leisure and culture,Recreation,Within 20 km,8.0
+1522,Effen-Rith,Leisure and culture,Recreation,Within 50 km,31.1
+1526,Effen-Rith,Retail,Department store,Within 10 km,6.4
+1527,Effen-Rith,Retail,Department store,Within 20 km,13.1
+1528,Effen-Rith,Retail,Department store,Within 5 km,1.0
+1531,Effen-Rith,Retail,Grocery stores,Within 1 km,0.0
+1532,Effen-Rith,Retail,Grocery stores,Within 3 km,0.3
+1533,Effen-Rith,Retail,Grocery stores,Within 5 km,7.9
+1534,Effen-Rith,Retail,Grocery stores,Within 1 km,0.0
+1535,Effen-Rith,Retail,Grocery stores,Within 3 km,2.0
+1536,Effen-Rith,Retail,Grocery stores,Within 5 km,29.5
+1541,Emer,Childcare,Daycare centres,Within 1 km,0.3
+1542,Emer,Childcare,Daycare centres,Within 3 km,15.3
+1543,Emer,Childcare,Daycare centres,Within 5 km,50.7
+1545,Emer,Childcare,Out-of-school care,Within 1 km,0.0
+1546,Emer,Childcare,Out-of-school care,Within 3 km,13.4
+1547,Emer,Childcare,Out-of-school care,Within 5 km,41.4
+1550,Emer,Education,Primary education,Within 1 km,0.0
+1551,Emer,Education,Primary education,Within 3 km,7.1
+1552,Emer,Education,Primary education,Within 5 km,23.7
+1582,Emer,Health and well-being,General Practitioner's Practice,Within 1 km,0.2
+1583,Emer,Health and well-being,General Practitioner's Practice,Within 3 km,6.8
+1584,Emer,Health and well-being,General Practitioner's Practice,Within 5 km,19.3
+1586,Emer,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1587,Emer,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1588,Emer,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.8
+1590,Emer,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.7
+1591,Emer,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.6
+1592,Emer,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.8
+1598,Emer,Hospitality,Cafes etc.,Within 1 km,0.2
+1599,Emer,Hospitality,Cafes etc.,Within 3 km,32.6
+1600,Emer,Hospitality,Cafes etc.,Within 5 km,100.7
+1602,Emer,Hospitality,Cafeterias etc.,Within 1 km,0.9
+1603,Emer,Hospitality,Cafeterias etc.,Within 3 km,42.5
+1604,Emer,Hospitality,Cafeterias etc.,Within 5 km,133.6
+1606,Emer,Hospitality,Hotels etc.,Within 10 5km,18.1
+1607,Emer,Hospitality,Hotels etc.,Within 20 km,41.7
+1608,Emer,Hospitality,Hotels etc.,Within 5 km,10.3
+1610,Emer,Hospitality,Restaurants,Within 1 km,0.5
+1611,Emer,Hospitality,Restaurants,Within 3 km,45.5
+1612,Emer,Hospitality,Restaurants,Within 5 km,145.4
+1614,Emer,Leisure and culture,Cinema,Within 10 km,3.0
+1615,Emer,Leisure and culture,Cinema,Within 20 km,4.0
+1616,Emer,Leisure and culture,Cinema,Within 5 km,1.2
+1619,Emer,Leisure and culture,Museum,Within 10 km,2.6
+1620,Emer,Leisure and culture,Museum,Within 20 km,9.7
+1621,Emer,Leisure and culture,Museum,Within 5 km,0.7
+1624,Emer,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.7
+1625,Emer,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.7
+1626,Emer,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.2
+1630,Emer,Leisure and culture,Recreation,Within 10 km,5.0
+1631,Emer,Leisure and culture,Recreation,Within 20 km,10.0
+1632,Emer,Leisure and culture,Recreation,Within 50 km,38.6
+1636,Emer,Retail,Department store,Within 10 km,6.2
+1637,Emer,Retail,Department store,Within 20 km,14.9
+1638,Emer,Retail,Department store,Within 5 km,4.0
+1641,Emer,Retail,Grocery stores,Within 1 km,0.2
+1642,Emer,Retail,Grocery stores,Within 3 km,9.5
+1643,Emer,Retail,Grocery stores,Within 5 km,32.1
+1644,Emer,Retail,Grocery stores,Within 1 km,0.5
+1645,Emer,Retail,Grocery stores,Within 3 km,31.5
+1646,Emer,Retail,Grocery stores,Within 5 km,120.5
+1651,Fellenoord,Childcare,Daycare centres,Within 1 km,4.0
+1652,Fellenoord,Childcare,Daycare centres,Within 3 km,42.4
+1653,Fellenoord,Childcare,Daycare centres,Within 5 km,72.8
+1655,Fellenoord,Childcare,Out-of-school care,Within 1 km,2.7
+1656,Fellenoord,Childcare,Out-of-school care,Within 3 km,36.8
+1657,Fellenoord,Childcare,Out-of-school care,Within 5 km,62.2
+1660,Fellenoord,Education,Primary education,Within 1 km,1.0
+1661,Fellenoord,Education,Primary education,Within 3 km,16.7
+1662,Fellenoord,Education,Primary education,Within 5 km,29.7
+1692,Fellenoord,Health and well-being,General Practitioner's Practice,Within 1 km,1.0
+1693,Fellenoord,Health and well-being,General Practitioner's Practice,Within 3 km,15.5
+1694,Fellenoord,Health and well-being,General Practitioner's Practice,Within 5 km,28.5
+1696,Fellenoord,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1697,Fellenoord,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1698,Fellenoord,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+1700,Fellenoord,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+1701,Fellenoord,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+1702,Fellenoord,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+1708,Fellenoord,Hospitality,Cafes etc.,Within 1 km,65.6
+1709,Fellenoord,Hospitality,Cafes etc.,Within 3 km,108.8
+1710,Fellenoord,Hospitality,Cafes etc.,Within 5 km,115.7
+1712,Fellenoord,Hospitality,Cafeterias etc.,Within 1 km,62.9
+1713,Fellenoord,Hospitality,Cafeterias etc.,Within 3 km,149.4
+1714,Fellenoord,Hospitality,Cafeterias etc.,Within 5 km,173.5
+1716,Fellenoord,Hospitality,Hotels etc.,Within 10 5km,20.7
+1717,Fellenoord,Hospitality,Hotels etc.,Within 20 km,43.1
+1718,Fellenoord,Hospitality,Hotels etc.,Within 5 km,15.1
+1720,Fellenoord,Hospitality,Restaurants,Within 1 km,81.6
+1721,Fellenoord,Hospitality,Restaurants,Within 3 km,166.2
+1722,Fellenoord,Hospitality,Restaurants,Within 5 km,195.5
+1724,Fellenoord,Leisure and culture,Cinema,Within 10 km,3.0
+1725,Fellenoord,Leisure and culture,Cinema,Within 20 km,4.0
+1726,Fellenoord,Leisure and culture,Cinema,Within 5 km,2.0
+1729,Fellenoord,Leisure and culture,Museum,Within 10 km,3.0
+1730,Fellenoord,Leisure and culture,Museum,Within 20 km,10.0
+1731,Fellenoord,Leisure and culture,Museum,Within 5 km,1.0
+1734,Fellenoord,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.3
+1735,Fellenoord,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+1736,Fellenoord,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1740,Fellenoord,Leisure and culture,Recreation,Within 10 km,5.0
+1741,Fellenoord,Leisure and culture,Recreation,Within 20 km,10.0
+1742,Fellenoord,Leisure and culture,Recreation,Within 50 km,38.8
+1746,Fellenoord,Retail,Department store,Within 10 km,6.9
+1747,Fellenoord,Retail,Department store,Within 20 km,16.0
+1748,Fellenoord,Retail,Department store,Within 5 km,4.3
+1751,Fellenoord,Retail,Grocery stores,Within 1 km,8.4
+1752,Fellenoord,Retail,Grocery stores,Within 3 km,29.7
+1753,Fellenoord,Retail,Grocery stores,Within 5 km,40.9
+1754,Fellenoord,Retail,Grocery stores,Within 1 km,39.3
+1755,Fellenoord,Retail,Grocery stores,Within 3 km,118.9
+1756,Fellenoord,Retail,Grocery stores,Within 5 km,158.7
+1761,Gageldonk,Childcare,Daycare centres,Within 1 km,3.4
+1762,Gageldonk,Childcare,Daycare centres,Within 3 km,12.6
+1763,Gageldonk,Childcare,Daycare centres,Within 5 km,56.2
+1765,Gageldonk,Childcare,Out-of-school care,Within 1 km,2.0
+1766,Gageldonk,Childcare,Out-of-school care,Within 3 km,8.2
+1767,Gageldonk,Childcare,Out-of-school care,Within 5 km,49.2
+1770,Gageldonk,Education,Primary education,Within 1 km,1.0
+1771,Gageldonk,Education,Primary education,Within 3 km,4.1
+1772,Gageldonk,Education,Primary education,Within 5 km,26.5
+1802,Gageldonk,Health and well-being,General Practitioner's Practice,Within 1 km,2.3
+1803,Gageldonk,Health and well-being,General Practitioner's Practice,Within 3 km,4.5
+1804,Gageldonk,Health and well-being,General Practitioner's Practice,Within 5 km,21.0
+1806,Gageldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+1807,Gageldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1808,Gageldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+1810,Gageldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.9
+1811,Gageldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+1812,Gageldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+1818,Gageldonk,Hospitality,Cafes etc.,Within 1 km,0.0
+1819,Gageldonk,Hospitality,Cafes etc.,Within 3 km,7.6
+1820,Gageldonk,Hospitality,Cafes etc.,Within 5 km,110.2
+1822,Gageldonk,Hospitality,Cafeterias etc.,Within 1 km,0.8
+1823,Gageldonk,Hospitality,Cafeterias etc.,Within 3 km,17.9
+1824,Gageldonk,Hospitality,Cafeterias etc.,Within 5 km,152.0
+1826,Gageldonk,Hospitality,Hotels etc.,Within 10 5km,19.3
+1827,Gageldonk,Hospitality,Hotels etc.,Within 20 km,42.0
+1828,Gageldonk,Hospitality,Hotels etc.,Within 5 km,10.9
+1830,Gageldonk,Hospitality,Restaurants,Within 1 km,1.5
+1831,Gageldonk,Hospitality,Restaurants,Within 3 km,14.8
+1832,Gageldonk,Hospitality,Restaurants,Within 5 km,168.5
+1834,Gageldonk,Leisure and culture,Cinema,Within 10 km,3.0
+1835,Gageldonk,Leisure and culture,Cinema,Within 20 km,4.0
+1836,Gageldonk,Leisure and culture,Cinema,Within 5 km,1.9
+1839,Gageldonk,Leisure and culture,Museum,Within 10 km,3.0
+1840,Gageldonk,Leisure and culture,Museum,Within 20 km,10.3
+1841,Gageldonk,Leisure and culture,Museum,Within 5 km,1.0
+1844,Gageldonk,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.7
+1845,Gageldonk,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+1846,Gageldonk,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1850,Gageldonk,Leisure and culture,Recreation,Within 10 km,5.0
+1851,Gageldonk,Leisure and culture,Recreation,Within 20 km,10.0
+1852,Gageldonk,Leisure and culture,Recreation,Within 50 km,39.5
+1856,Gageldonk,Retail,Department store,Within 10 km,6.0
+1857,Gageldonk,Retail,Department store,Within 20 km,15.0
+1858,Gageldonk,Retail,Department store,Within 5 km,4.9
+1861,Gageldonk,Retail,Grocery stores,Within 1 km,0.7
+1862,Gageldonk,Retail,Grocery stores,Within 3 km,7.6
+1863,Gageldonk,Retail,Grocery stores,Within 5 km,35.3
+1864,Gageldonk,Retail,Grocery stores,Within 1 km,1.4
+1865,Gageldonk,Retail,Grocery stores,Within 3 km,15.8
+1866,Gageldonk,Retail,Grocery stores,Within 5 km,134.9
+1871,Geeren-noord,Childcare,Daycare centres,Within 1 km,3.5
+1872,Geeren-noord,Childcare,Daycare centres,Within 3 km,15.6
+1873,Geeren-noord,Childcare,Daycare centres,Within 5 km,50.7
+1875,Geeren-noord,Childcare,Out-of-school care,Within 1 km,1.2
+1876,Geeren-noord,Childcare,Out-of-school care,Within 3 km,12.0
+1877,Geeren-noord,Childcare,Out-of-school care,Within 5 km,40.9
+1880,Geeren-noord,Education,Primary education,Within 1 km,2.0
+1881,Geeren-noord,Education,Primary education,Within 3 km,9.5
+1882,Geeren-noord,Education,Primary education,Within 5 km,22.7
+1912,Geeren-noord,Health and well-being,General Practitioner's Practice,Within 1 km,2.3
+1913,Geeren-noord,Health and well-being,General Practitioner's Practice,Within 3 km,7.0
+1914,Geeren-noord,Health and well-being,General Practitioner's Practice,Within 5 km,18.4
+1916,Geeren-noord,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+1917,Geeren-noord,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+1918,Geeren-noord,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+1920,Geeren-noord,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+1921,Geeren-noord,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+1922,Geeren-noord,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+1928,Geeren-noord,Hospitality,Cafes etc.,Within 1 km,0.0
+1929,Geeren-noord,Hospitality,Cafes etc.,Within 3 km,10.1
+1930,Geeren-noord,Hospitality,Cafes etc.,Within 5 km,99.7
+1932,Geeren-noord,Hospitality,Cafeterias etc.,Within 1 km,3.0
+1933,Geeren-noord,Hospitality,Cafeterias etc.,Within 3 km,29.3
+1934,Geeren-noord,Hospitality,Cafeterias etc.,Within 5 km,139.6
+1936,Geeren-noord,Hospitality,Hotels etc.,Within 10 5km,19.0
+1937,Geeren-noord,Hospitality,Hotels etc.,Within 20 km,42.0
+1938,Geeren-noord,Hospitality,Hotels etc.,Within 5 km,13.0
+1940,Geeren-noord,Hospitality,Restaurants,Within 1 km,1.4
+1941,Geeren-noord,Hospitality,Restaurants,Within 3 km,26.7
+1942,Geeren-noord,Hospitality,Restaurants,Within 5 km,161.8
+1944,Geeren-noord,Leisure and culture,Cinema,Within 10 km,3.0
+1945,Geeren-noord,Leisure and culture,Cinema,Within 20 km,4.0
+1946,Geeren-noord,Leisure and culture,Cinema,Within 5 km,2.0
+1949,Geeren-noord,Leisure and culture,Museum,Within 10 km,3.0
+1950,Geeren-noord,Leisure and culture,Museum,Within 20 km,8.0
+1951,Geeren-noord,Leisure and culture,Museum,Within 5 km,1.0
+1954,Geeren-noord,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+1955,Geeren-noord,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+1956,Geeren-noord,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+1960,Geeren-noord,Leisure and culture,Recreation,Within 10 km,5.7
+1961,Geeren-noord,Leisure and culture,Recreation,Within 20 km,9.7
+1962,Geeren-noord,Leisure and culture,Recreation,Within 50 km,40.7
+1966,Geeren-noord,Retail,Department store,Within 10 km,7.0
+1967,Geeren-noord,Retail,Department store,Within 20 km,14.8
+1968,Geeren-noord,Retail,Department store,Within 5 km,2.8
+1971,Geeren-noord,Retail,Grocery stores,Within 1 km,2.2
+1972,Geeren-noord,Retail,Grocery stores,Within 3 km,9.0
+1973,Geeren-noord,Retail,Grocery stores,Within 5 km,30.9
+1974,Geeren-noord,Retail,Grocery stores,Within 1 km,8.7
+1975,Geeren-noord,Retail,Grocery stores,Within 3 km,37.9
+1976,Geeren-noord,Retail,Grocery stores,Within 5 km,123.9
+1981,Geeren-zuid,Childcare,Daycare centres,Within 1 km,4.5
+1982,Geeren-zuid,Childcare,Daycare centres,Within 3 km,19.0
+1983,Geeren-zuid,Childcare,Daycare centres,Within 5 km,58.0
+1985,Geeren-zuid,Childcare,Out-of-school care,Within 1 km,1.9
+1986,Geeren-zuid,Childcare,Out-of-school care,Within 3 km,13.8
+1987,Geeren-zuid,Childcare,Out-of-school care,Within 5 km,47.9
+1990,Geeren-zuid,Education,Primary education,Within 1 km,3.1
+1991,Geeren-zuid,Education,Primary education,Within 3 km,9.8
+1992,Geeren-zuid,Education,Primary education,Within 5 km,25.6
+2022,Geeren-zuid,Health and well-being,General Practitioner's Practice,Within 1 km,2.0
+2023,Geeren-zuid,Health and well-being,General Practitioner's Practice,Within 3 km,7.7
+2024,Geeren-zuid,Health and well-being,General Practitioner's Practice,Within 5 km,22.6
+2026,Geeren-zuid,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+2027,Geeren-zuid,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2028,Geeren-zuid,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.2
+2030,Geeren-zuid,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+2031,Geeren-zuid,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+2032,Geeren-zuid,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.2
+2038,Geeren-zuid,Hospitality,Cafes etc.,Within 1 km,0.0
+2039,Geeren-zuid,Hospitality,Cafes etc.,Within 3 km,46.5
+2040,Geeren-zuid,Hospitality,Cafes etc.,Within 5 km,105.4
+2042,Geeren-zuid,Hospitality,Cafeterias etc.,Within 1 km,3.0
+2043,Geeren-zuid,Hospitality,Cafeterias etc.,Within 3 km,70.9
+2044,Geeren-zuid,Hospitality,Cafeterias etc.,Within 5 km,149.2
+2046,Geeren-zuid,Hospitality,Hotels etc.,Within 10 5km,19.0
+2047,Geeren-zuid,Hospitality,Hotels etc.,Within 20 km,42.0
+2048,Geeren-zuid,Hospitality,Hotels etc.,Within 5 km,13.0
+2050,Geeren-zuid,Hospitality,Restaurants,Within 1 km,1.9
+2051,Geeren-zuid,Hospitality,Restaurants,Within 3 km,72.2
+2052,Geeren-zuid,Hospitality,Restaurants,Within 5 km,170.6
+2054,Geeren-zuid,Leisure and culture,Cinema,Within 10 km,3.0
+2055,Geeren-zuid,Leisure and culture,Cinema,Within 20 km,4.0
+2056,Geeren-zuid,Leisure and culture,Cinema,Within 5 km,2.0
+2059,Geeren-zuid,Leisure and culture,Museum,Within 10 km,3.0
+2060,Geeren-zuid,Leisure and culture,Museum,Within 20 km,8.1
+2061,Geeren-zuid,Leisure and culture,Museum,Within 5 km,1.0
+2064,Geeren-zuid,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+2065,Geeren-zuid,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+2066,Geeren-zuid,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2070,Geeren-zuid,Leisure and culture,Recreation,Within 10 km,6.0
+2071,Geeren-zuid,Leisure and culture,Recreation,Within 20 km,10.0
+2072,Geeren-zuid,Leisure and culture,Recreation,Within 50 km,41.1
+2076,Geeren-zuid,Retail,Department store,Within 10 km,7.0
+2077,Geeren-zuid,Retail,Department store,Within 20 km,15.0
+2078,Geeren-zuid,Retail,Department store,Within 5 km,3.1
+2081,Geeren-zuid,Retail,Grocery stores,Within 1 km,2.2
+2082,Geeren-zuid,Retail,Grocery stores,Within 3 km,13.8
+2083,Geeren-zuid,Retail,Grocery stores,Within 5 km,34.1
+2084,Geeren-zuid,Retail,Grocery stores,Within 1 km,9.9
+2085,Geeren-zuid,Retail,Grocery stores,Within 3 km,54.7
+2086,Geeren-zuid,Retail,Grocery stores,Within 5 km,140.2
+2091,Ginneken,Childcare,Daycare centres,Within 1 km,7.6
+2092,Ginneken,Childcare,Daycare centres,Within 3 km,32.4
+2093,Ginneken,Childcare,Daycare centres,Within 5 km,63.2
+2095,Ginneken,Childcare,Out-of-school care,Within 1 km,5.9
+2096,Ginneken,Childcare,Out-of-school care,Within 3 km,29.5
+2097,Ginneken,Childcare,Out-of-school care,Within 5 km,57.1
+2100,Ginneken,Education,Primary education,Within 1 km,2.3
+2101,Ginneken,Education,Primary education,Within 3 km,10.7
+2102,Ginneken,Education,Primary education,Within 5 km,26.2
+2132,Ginneken,Health and well-being,General Practitioner's Practice,Within 1 km,1.9
+2133,Ginneken,Health and well-being,General Practitioner's Practice,Within 3 km,10.6
+2134,Ginneken,Health and well-being,General Practitioner's Practice,Within 5 km,23.7
+2136,Ginneken,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2137,Ginneken,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2138,Ginneken,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+2140,Ginneken,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.2
+2141,Ginneken,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+2142,Ginneken,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+2148,Ginneken,Hospitality,Cafes etc.,Within 1 km,4.5
+2149,Ginneken,Hospitality,Cafes etc.,Within 3 km,71.3
+2150,Ginneken,Hospitality,Cafes etc.,Within 5 km,116.5
+2152,Ginneken,Hospitality,Cafeterias etc.,Within 1 km,8.7
+2153,Ginneken,Hospitality,Cafeterias etc.,Within 3 km,94.8
+2154,Ginneken,Hospitality,Cafeterias etc.,Within 5 km,163.8
+2156,Ginneken,Hospitality,Hotels etc.,Within 10 5km,18.3
+2157,Ginneken,Hospitality,Hotels etc.,Within 20 km,43.1
+2158,Ginneken,Hospitality,Hotels etc.,Within 5 km,14.5
+2160,Ginneken,Hospitality,Restaurants,Within 1 km,11.3
+2161,Ginneken,Hospitality,Restaurants,Within 3 km,123.8
+2162,Ginneken,Hospitality,Restaurants,Within 5 km,193.0
+2164,Ginneken,Leisure and culture,Cinema,Within 10 km,3.0
+2165,Ginneken,Leisure and culture,Cinema,Within 20 km,4.0
+2166,Ginneken,Leisure and culture,Cinema,Within 5 km,3.0
+2169,Ginneken,Leisure and culture,Museum,Within 10 km,2.0
+2170,Ginneken,Leisure and culture,Museum,Within 20 km,9.2
+2171,Ginneken,Leisure and culture,Museum,Within 5 km,1.0
+2174,Ginneken,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+2175,Ginneken,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.3
+2176,Ginneken,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2180,Ginneken,Leisure and culture,Recreation,Within 10 km,6.3
+2181,Ginneken,Leisure and culture,Recreation,Within 20 km,10.0
+2182,Ginneken,Leisure and culture,Recreation,Within 50 km,34.5
+2186,Ginneken,Retail,Department store,Within 10 km,6.2
+2187,Ginneken,Retail,Department store,Within 20 km,16.0
+2188,Ginneken,Retail,Department store,Within 5 km,3.2
+2191,Ginneken,Retail,Grocery stores,Within 1 km,2.6
+2192,Ginneken,Retail,Grocery stores,Within 3 km,20.2
+2193,Ginneken,Retail,Grocery stores,Within 5 km,38.4
+2194,Ginneken,Retail,Grocery stores,Within 1 km,11.4
+2195,Ginneken,Retail,Grocery stores,Within 3 km,83.3
+2196,Ginneken,Retail,Grocery stores,Within 5 km,154.6
+2201,Haagpoort,Childcare,Daycare centres,Within 1 km,4.1
+2202,Haagpoort,Childcare,Daycare centres,Within 3 km,39.4
+2203,Haagpoort,Childcare,Daycare centres,Within 5 km,70.9
+2205,Haagpoort,Childcare,Out-of-school care,Within 1 km,3.7
+2206,Haagpoort,Childcare,Out-of-school care,Within 3 km,33.2
+2207,Haagpoort,Childcare,Out-of-school care,Within 5 km,60.7
+2210,Haagpoort,Education,Primary education,Within 1 km,1.2
+2211,Haagpoort,Education,Primary education,Within 3 km,14.6
+2212,Haagpoort,Education,Primary education,Within 5 km,28.6
+2242,Haagpoort,Health and well-being,General Practitioner's Practice,Within 1 km,3.5
+2243,Haagpoort,Health and well-being,General Practitioner's Practice,Within 3 km,12.1
+2244,Haagpoort,Health and well-being,General Practitioner's Practice,Within 5 km,28.1
+2246,Haagpoort,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2247,Haagpoort,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2248,Haagpoort,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+2250,Haagpoort,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+2251,Haagpoort,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+2252,Haagpoort,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+2258,Haagpoort,Hospitality,Cafes etc.,Within 1 km,9.6
+2259,Haagpoort,Hospitality,Cafes etc.,Within 3 km,106.1
+2260,Haagpoort,Hospitality,Cafes etc.,Within 5 km,117.4
+2262,Haagpoort,Hospitality,Cafeterias etc.,Within 1 km,14.7
+2263,Haagpoort,Hospitality,Cafeterias etc.,Within 3 km,139.2
+2264,Haagpoort,Hospitality,Cafeterias etc.,Within 5 km,171.9
+2266,Haagpoort,Hospitality,Hotels etc.,Within 10 5km,21.0
+2267,Haagpoort,Hospitality,Hotels etc.,Within 20 km,42.0
+2268,Haagpoort,Hospitality,Hotels etc.,Within 5 km,15.0
+2270,Haagpoort,Hospitality,Restaurants,Within 1 km,15.6
+2271,Haagpoort,Hospitality,Restaurants,Within 3 km,157.8
+2272,Haagpoort,Hospitality,Restaurants,Within 5 km,195.1
+2274,Haagpoort,Leisure and culture,Cinema,Within 10 km,3.9
+2275,Haagpoort,Leisure and culture,Cinema,Within 20 km,4.0
+2276,Haagpoort,Leisure and culture,Cinema,Within 5 km,2.0
+2279,Haagpoort,Leisure and culture,Museum,Within 10 km,4.0
+2280,Haagpoort,Leisure and culture,Museum,Within 20 km,10.0
+2281,Haagpoort,Leisure and culture,Museum,Within 5 km,1.0
+2284,Haagpoort,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+2285,Haagpoort,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+2286,Haagpoort,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2290,Haagpoort,Leisure and culture,Recreation,Within 10 km,5.2
+2291,Haagpoort,Leisure and culture,Recreation,Within 20 km,10.0
+2292,Haagpoort,Leisure and culture,Recreation,Within 50 km,38.0
+2296,Haagpoort,Retail,Department store,Within 10 km,6.7
+2297,Haagpoort,Retail,Department store,Within 20 km,16.0
+2298,Haagpoort,Retail,Department store,Within 5 km,5.0
+2301,Haagpoort,Retail,Grocery stores,Within 1 km,5.9
+2302,Haagpoort,Retail,Grocery stores,Within 3 km,25.4
+2303,Haagpoort,Retail,Grocery stores,Within 5 km,41.1
+2304,Haagpoort,Retail,Grocery stores,Within 1 km,17.5
+2305,Haagpoort,Retail,Grocery stores,Within 3 km,98.4
+2306,Haagpoort,Retail,Grocery stores,Within 5 km,160.0
+2311,Hagebeemd,Childcare,Daycare centres,Within 1 km,0.1
+2312,Hagebeemd,Childcare,Daycare centres,Within 3 km,5.3
+2313,Hagebeemd,Childcare,Daycare centres,Within 5 km,19.1
+2315,Hagebeemd,Childcare,Out-of-school care,Within 1 km,0.1
+2316,Hagebeemd,Childcare,Out-of-school care,Within 3 km,4.5
+2317,Hagebeemd,Childcare,Out-of-school care,Within 5 km,15.5
+2320,Hagebeemd,Education,Primary education,Within 1 km,0.1
+2321,Hagebeemd,Education,Primary education,Within 3 km,3.2
+2322,Hagebeemd,Education,Primary education,Within 5 km,10.0
+2352,Hagebeemd,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+2353,Hagebeemd,Health and well-being,General Practitioner's Practice,Within 3 km,1.9
+2354,Hagebeemd,Health and well-being,General Practitioner's Practice,Within 5 km,6.9
+2356,Hagebeemd,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2357,Hagebeemd,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2358,Hagebeemd,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+2360,Hagebeemd,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.3
+2361,Hagebeemd,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.6
+2362,Hagebeemd,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+2368,Hagebeemd,Hospitality,Cafes etc.,Within 1 km,0.1
+2369,Hagebeemd,Hospitality,Cafes etc.,Within 3 km,1.9
+2370,Hagebeemd,Hospitality,Cafes etc.,Within 5 km,12.6
+2372,Hagebeemd,Hospitality,Cafeterias etc.,Within 1 km,0.1
+2373,Hagebeemd,Hospitality,Cafeterias etc.,Within 3 km,3.1
+2374,Hagebeemd,Hospitality,Cafeterias etc.,Within 5 km,16.8
+2376,Hagebeemd,Hospitality,Hotels etc.,Within 10 5km,16.2
+2377,Hagebeemd,Hospitality,Hotels etc.,Within 20 km,39.0
+2378,Hagebeemd,Hospitality,Hotels etc.,Within 5 km,1.3
+2380,Hagebeemd,Hospitality,Restaurants,Within 1 km,0.0
+2381,Hagebeemd,Hospitality,Restaurants,Within 3 km,4.5
+2382,Hagebeemd,Hospitality,Restaurants,Within 5 km,19.1
+2384,Hagebeemd,Leisure and culture,Cinema,Within 10 km,2.1
+2385,Hagebeemd,Leisure and culture,Cinema,Within 20 km,4.0
+2386,Hagebeemd,Leisure and culture,Cinema,Within 5 km,0.0
+2389,Hagebeemd,Leisure and culture,Museum,Within 10 km,1.6
+2390,Hagebeemd,Leisure and culture,Museum,Within 20 km,9.8
+2391,Hagebeemd,Leisure and culture,Museum,Within 5 km,0.0
+2394,Hagebeemd,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+2395,Hagebeemd,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.7
+2396,Hagebeemd,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+2400,Hagebeemd,Leisure and culture,Recreation,Within 10 km,3.6
+2401,Hagebeemd,Leisure and culture,Recreation,Within 20 km,10.0
+2402,Hagebeemd,Leisure and culture,Recreation,Within 50 km,38.3
+2406,Hagebeemd,Retail,Department store,Within 10 km,5.9
+2407,Hagebeemd,Retail,Department store,Within 20 km,12.6
+2408,Hagebeemd,Retail,Department store,Within 5 km,1.9
+2411,Hagebeemd,Retail,Grocery stores,Within 1 km,0.0
+2412,Hagebeemd,Retail,Grocery stores,Within 3 km,1.7
+2413,Hagebeemd,Retail,Grocery stores,Within 5 km,8.0
+2414,Hagebeemd,Retail,Grocery stores,Within 1 km,0.2
+2415,Hagebeemd,Retail,Grocery stores,Within 3 km,5.3
+2416,Hagebeemd,Retail,Grocery stores,Within 5 km,25.8
+2421,Hazeldonk,Childcare,Daycare centres,Within 1 km,0.0
+2422,Hazeldonk,Childcare,Daycare centres,Within 3 km,0.5
+2423,Hazeldonk,Childcare,Daycare centres,Within 5 km,1.8
+2425,Hazeldonk,Childcare,Out-of-school care,Within 1 km,0.0
+2426,Hazeldonk,Childcare,Out-of-school care,Within 3 km,0.5
+2427,Hazeldonk,Childcare,Out-of-school care,Within 5 km,1.9
+2430,Hazeldonk,Education,Primary education,Within 1 km,0.0
+2431,Hazeldonk,Education,Primary education,Within 3 km,0.5
+2432,Hazeldonk,Education,Primary education,Within 5 km,1.5
+2462,Hazeldonk,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+2463,Hazeldonk,Health and well-being,General Practitioner's Practice,Within 3 km,0.0
+2464,Hazeldonk,Health and well-being,General Practitioner's Practice,Within 5 km,0.2
+2466,Hazeldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,1.3
+2467,Hazeldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,2.7
+2468,Hazeldonk,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+2470,Hazeldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,1.3
+2471,Hazeldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,4.7
+2472,Hazeldonk,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+2478,Hazeldonk,Hospitality,Cafes etc.,Within 1 km,0.0
+2479,Hazeldonk,Hospitality,Cafes etc.,Within 3 km,0.3
+2480,Hazeldonk,Hospitality,Cafes etc.,Within 5 km,5.6
+2482,Hazeldonk,Hospitality,Cafeterias etc.,Within 1 km,0.1
+2483,Hazeldonk,Hospitality,Cafeterias etc.,Within 3 km,1.8
+2484,Hazeldonk,Hospitality,Cafeterias etc.,Within 5 km,6.8
+2486,Hazeldonk,Hospitality,Hotels etc.,Within 10 5km,9.8
+2487,Hazeldonk,Hospitality,Hotels etc.,Within 20 km,31.0
+2488,Hazeldonk,Hospitality,Hotels etc.,Within 5 km,1.0
+2490,Hazeldonk,Hospitality,Restaurants,Within 1 km,0.7
+2491,Hazeldonk,Hospitality,Restaurants,Within 3 km,2.9
+2492,Hazeldonk,Hospitality,Restaurants,Within 5 km,9.1
+2494,Hazeldonk,Leisure and culture,Cinema,Within 10 km,0.9
+2495,Hazeldonk,Leisure and culture,Cinema,Within 20 km,4.0
+2496,Hazeldonk,Leisure and culture,Cinema,Within 5 km,0.0
+2499,Hazeldonk,Leisure and culture,Museum,Within 10 km,1.4
+2500,Hazeldonk,Leisure and culture,Museum,Within 20 km,6.5
+2501,Hazeldonk,Leisure and culture,Museum,Within 5 km,0.0
+2504,Hazeldonk,Leisure and culture,Performing arts (excl. festivals),Within 10 km,1.4
+2505,Hazeldonk,Leisure and culture,Performing arts (excl. festivals),Within 20 km,4.9
+2506,Hazeldonk,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+2510,Hazeldonk,Leisure and culture,Recreation,Within 10 km,1.4
+2511,Hazeldonk,Leisure and culture,Recreation,Within 20 km,7.9
+2512,Hazeldonk,Leisure and culture,Recreation,Within 50 km,27.8
+2516,Hazeldonk,Retail,Department store,Within 10 km,2.7
+2517,Hazeldonk,Retail,Department store,Within 20 km,10.8
+2518,Hazeldonk,Retail,Department store,Within 5 km,0.0
+2521,Hazeldonk,Retail,Grocery stores,Within 1 km,0.0
+2522,Hazeldonk,Retail,Grocery stores,Within 3 km,0.0
+2523,Hazeldonk,Retail,Grocery stores,Within 5 km,1.2
+2524,Hazeldonk,Retail,Grocery stores,Within 1 km,0.0
+2525,Hazeldonk,Retail,Grocery stores,Within 3 km,0.1
+2526,Hazeldonk,Retail,Grocery stores,Within 5 km,2.4
+2531,Heilaar,Childcare,Daycare centres,Within 1 km,0.8
+2532,Heilaar,Childcare,Daycare centres,Within 3 km,17.7
+2533,Heilaar,Childcare,Daycare centres,Within 5 km,55.6
+2535,Heilaar,Childcare,Out-of-school care,Within 1 km,0.8
+2536,Heilaar,Childcare,Out-of-school care,Within 3 km,16.0
+2537,Heilaar,Childcare,Out-of-school care,Within 5 km,47.8
+2540,Heilaar,Education,Primary education,Within 1 km,0.0
+2541,Heilaar,Education,Primary education,Within 3 km,5.7
+2542,Heilaar,Education,Primary education,Within 5 km,22.1
+2572,Heilaar,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+2573,Heilaar,Health and well-being,General Practitioner's Practice,Within 3 km,8.0
+2574,Heilaar,Health and well-being,General Practitioner's Practice,Within 5 km,18.3
+2576,Heilaar,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2577,Heilaar,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2578,Heilaar,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+2580,Heilaar,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+2581,Heilaar,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+2582,Heilaar,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+2588,Heilaar,Hospitality,Cafes etc.,Within 1 km,0.0
+2589,Heilaar,Hospitality,Cafes etc.,Within 3 km,33.2
+2590,Heilaar,Hospitality,Cafes etc.,Within 5 km,115.4
+2592,Heilaar,Hospitality,Cafeterias etc.,Within 1 km,0.1
+2593,Heilaar,Hospitality,Cafeterias etc.,Within 3 km,47.1
+2594,Heilaar,Hospitality,Cafeterias etc.,Within 5 km,156.3
+2596,Heilaar,Hospitality,Hotels etc.,Within 10 5km,21.0
+2597,Heilaar,Hospitality,Hotels etc.,Within 20 km,41.8
+2598,Heilaar,Hospitality,Hotels etc.,Within 5 km,13.0
+2600,Heilaar,Hospitality,Restaurants,Within 1 km,1.0
+2601,Heilaar,Hospitality,Restaurants,Within 3 km,47.5
+2602,Heilaar,Hospitality,Restaurants,Within 5 km,176.9
+2604,Heilaar,Leisure and culture,Cinema,Within 10 km,4.0
+2605,Heilaar,Leisure and culture,Cinema,Within 20 km,4.0
+2606,Heilaar,Leisure and culture,Cinema,Within 5 km,2.0
+2609,Heilaar,Leisure and culture,Museum,Within 10 km,3.0
+2610,Heilaar,Leisure and culture,Museum,Within 20 km,11.0
+2611,Heilaar,Leisure and culture,Museum,Within 5 km,1.0
+2614,Heilaar,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+2615,Heilaar,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.7
+2616,Heilaar,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2620,Heilaar,Leisure and culture,Recreation,Within 10 km,5.0
+2621,Heilaar,Leisure and culture,Recreation,Within 20 km,10.0
+2622,Heilaar,Leisure and culture,Recreation,Within 50 km,37.6
+2626,Heilaar,Retail,Department store,Within 10 km,7.0
+2627,Heilaar,Retail,Department store,Within 20 km,15.0
+2628,Heilaar,Retail,Department store,Within 5 km,3.2
+2631,Heilaar,Retail,Grocery stores,Within 1 km,0.0
+2632,Heilaar,Retail,Grocery stores,Within 3 km,13.7
+2633,Heilaar,Retail,Grocery stores,Within 5 km,31.9
+2634,Heilaar,Retail,Grocery stores,Within 1 km,0.0
+2635,Heilaar,Retail,Grocery stores,Within 3 km,48.7
+2636,Heilaar,Retail,Grocery stores,Within 5 km,121.1
+2641,Heksenwiel,Childcare,Daycare centres,Within 1 km,2.8
+2642,Heksenwiel,Childcare,Daycare centres,Within 3 km,11.7
+2643,Heksenwiel,Childcare,Daycare centres,Within 5 km,25.2
+2645,Heksenwiel,Childcare,Out-of-school care,Within 1 km,2.0
+2646,Heksenwiel,Childcare,Out-of-school care,Within 3 km,8.9
+2647,Heksenwiel,Childcare,Out-of-school care,Within 5 km,21.3
+2650,Heksenwiel,Education,Primary education,Within 1 km,2.0
+2651,Heksenwiel,Education,Primary education,Within 3 km,6.4
+2652,Heksenwiel,Education,Primary education,Within 5 km,13.9
+2682,Heksenwiel,Health and well-being,General Practitioner's Practice,Within 1 km,0.8
+2683,Heksenwiel,Health and well-being,General Practitioner's Practice,Within 3 km,4.5
+2684,Heksenwiel,Health and well-being,General Practitioner's Practice,Within 5 km,9.8
+2686,Heksenwiel,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2687,Heksenwiel,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2688,Heksenwiel,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+2690,Heksenwiel,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+2691,Heksenwiel,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.1
+2692,Heksenwiel,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+2698,Heksenwiel,Hospitality,Cafes etc.,Within 1 km,0.4
+2699,Heksenwiel,Hospitality,Cafes etc.,Within 3 km,2.0
+2700,Heksenwiel,Hospitality,Cafes etc.,Within 5 km,10.2
+2702,Heksenwiel,Hospitality,Cafeterias etc.,Within 1 km,1.3
+2703,Heksenwiel,Hospitality,Cafeterias etc.,Within 3 km,6.0
+2704,Heksenwiel,Hospitality,Cafeterias etc.,Within 5 km,25.7
+2706,Heksenwiel,Hospitality,Hotels etc.,Within 10 5km,17.5
+2707,Heksenwiel,Hospitality,Hotels etc.,Within 20 km,40.8
+2708,Heksenwiel,Hospitality,Hotels etc.,Within 5 km,1.1
+2710,Heksenwiel,Hospitality,Restaurants,Within 1 km,1.9
+2711,Heksenwiel,Hospitality,Restaurants,Within 3 km,7.8
+2712,Heksenwiel,Hospitality,Restaurants,Within 5 km,21.8
+2714,Heksenwiel,Leisure and culture,Cinema,Within 10 km,2.4
+2715,Heksenwiel,Leisure and culture,Cinema,Within 20 km,4.0
+2716,Heksenwiel,Leisure and culture,Cinema,Within 5 km,0.0
+2719,Heksenwiel,Leisure and culture,Museum,Within 10 km,1.1
+2720,Heksenwiel,Leisure and culture,Museum,Within 20 km,9.2
+2721,Heksenwiel,Leisure and culture,Museum,Within 5 km,0.0
+2724,Heksenwiel,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+2725,Heksenwiel,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.6
+2726,Heksenwiel,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+2730,Heksenwiel,Leisure and culture,Recreation,Within 10 km,4.3
+2731,Heksenwiel,Leisure and culture,Recreation,Within 20 km,10.0
+2732,Heksenwiel,Leisure and culture,Recreation,Within 50 km,38.1
+2736,Heksenwiel,Retail,Department store,Within 10 km,6.0
+2737,Heksenwiel,Retail,Department store,Within 20 km,13.4
+2738,Heksenwiel,Retail,Department store,Within 5 km,2.6
+2741,Heksenwiel,Retail,Grocery stores,Within 1 km,1.6
+2742,Heksenwiel,Retail,Grocery stores,Within 3 km,3.6
+2743,Heksenwiel,Retail,Grocery stores,Within 5 km,13.4
+2744,Heksenwiel,Retail,Grocery stores,Within 1 km,6.8
+2745,Heksenwiel,Retail,Grocery stores,Within 3 km,12.2
+2746,Heksenwiel,Retail,Grocery stores,Within 5 km,39.8
+2751,Heusdenhout,Childcare,Daycare centres,Within 1 km,2.3
+2752,Heusdenhout,Childcare,Daycare centres,Within 3 km,17.5
+2753,Heusdenhout,Childcare,Daycare centres,Within 5 km,63.4
+2755,Heusdenhout,Childcare,Out-of-school care,Within 1 km,2.0
+2756,Heusdenhout,Childcare,Out-of-school care,Within 3 km,13.8
+2757,Heusdenhout,Childcare,Out-of-school care,Within 5 km,53.4
+2760,Heusdenhout,Education,Primary education,Within 1 km,1.8
+2761,Heusdenhout,Education,Primary education,Within 3 km,7.7
+2762,Heusdenhout,Education,Primary education,Within 5 km,27.2
+2792,Heusdenhout,Health and well-being,General Practitioner's Practice,Within 1 km,1.9
+2793,Heusdenhout,Health and well-being,General Practitioner's Practice,Within 3 km,8.0
+2794,Heusdenhout,Health and well-being,General Practitioner's Practice,Within 5 km,22.2
+2796,Heusdenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+2797,Heusdenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.8
+2798,Heusdenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.4
+2800,Heusdenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+2801,Heusdenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.8
+2802,Heusdenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.4
+2808,Heusdenhout,Hospitality,Cafes etc.,Within 1 km,0.3
+2809,Heusdenhout,Hospitality,Cafes etc.,Within 3 km,11.0
+2810,Heusdenhout,Hospitality,Cafes etc.,Within 5 km,106.6
+2812,Heusdenhout,Hospitality,Cafeterias etc.,Within 1 km,1.6
+2813,Heusdenhout,Hospitality,Cafeterias etc.,Within 3 km,26.8
+2814,Heusdenhout,Hospitality,Cafeterias etc.,Within 5 km,149.7
+2816,Heusdenhout,Hospitality,Hotels etc.,Within 10 5km,19.0
+2817,Heusdenhout,Hospitality,Hotels etc.,Within 20 km,45.9
+2818,Heusdenhout,Hospitality,Hotels etc.,Within 5 km,13.7
+2820,Heusdenhout,Hospitality,Restaurants,Within 1 km,1.0
+2821,Heusdenhout,Hospitality,Restaurants,Within 3 km,29.9
+2822,Heusdenhout,Hospitality,Restaurants,Within 5 km,175.5
+2824,Heusdenhout,Leisure and culture,Cinema,Within 10 km,3.0
+2825,Heusdenhout,Leisure and culture,Cinema,Within 20 km,4.7
+2826,Heusdenhout,Leisure and culture,Cinema,Within 5 km,3.0
+2829,Heusdenhout,Leisure and culture,Museum,Within 10 km,3.0
+2830,Heusdenhout,Leisure and culture,Museum,Within 20 km,9.0
+2831,Heusdenhout,Leisure and culture,Museum,Within 5 km,1.0
+2834,Heusdenhout,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+2835,Heusdenhout,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.6
+2836,Heusdenhout,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2840,Heusdenhout,Leisure and culture,Recreation,Within 10 km,6.0
+2841,Heusdenhout,Leisure and culture,Recreation,Within 20 km,10.0
+2842,Heusdenhout,Leisure and culture,Recreation,Within 50 km,35.5
+2846,Heusdenhout,Retail,Department store,Within 10 km,8.0
+2847,Heusdenhout,Retail,Department store,Within 20 km,16.4
+2848,Heusdenhout,Retail,Department store,Within 5 km,3.0
+2851,Heusdenhout,Retail,Grocery stores,Within 1 km,1.0
+2852,Heusdenhout,Retail,Grocery stores,Within 3 km,7.9
+2853,Heusdenhout,Retail,Grocery stores,Within 5 km,35.6
+2854,Heusdenhout,Retail,Grocery stores,Within 1 km,6.4
+2855,Heusdenhout,Retail,Grocery stores,Within 3 km,34.6
+2856,Heusdenhout,Retail,Grocery stores,Within 5 km,144.8
+2861,Heuvel,Childcare,Daycare centres,Within 1 km,3.0
+2862,Heuvel,Childcare,Daycare centres,Within 3 km,31.3
+2863,Heuvel,Childcare,Daycare centres,Within 5 km,57.2
+2865,Heuvel,Childcare,Out-of-school care,Within 1 km,3.9
+2866,Heuvel,Childcare,Out-of-school care,Within 3 km,26.4
+2867,Heuvel,Childcare,Out-of-school care,Within 5 km,51.1
+2870,Heuvel,Education,Primary education,Within 1 km,1.5
+2871,Heuvel,Education,Primary education,Within 3 km,10.8
+2872,Heuvel,Education,Primary education,Within 5 km,21.3
+2902,Heuvel,Health and well-being,General Practitioner's Practice,Within 1 km,3.1
+2903,Heuvel,Health and well-being,General Practitioner's Practice,Within 3 km,9.2
+2904,Heuvel,Health and well-being,General Practitioner's Practice,Within 5 km,22.3
+2906,Heuvel,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+2907,Heuvel,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+2908,Heuvel,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+2910,Heuvel,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+2911,Heuvel,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+2912,Heuvel,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+2918,Heuvel,Hospitality,Cafes etc.,Within 1 km,2.9
+2919,Heuvel,Hospitality,Cafes etc.,Within 3 km,79.3
+2920,Heuvel,Hospitality,Cafes etc.,Within 5 km,116.9
+2922,Heuvel,Hospitality,Cafeterias etc.,Within 1 km,8.5
+2923,Heuvel,Hospitality,Cafeterias etc.,Within 3 km,100.3
+2924,Heuvel,Hospitality,Cafeterias etc.,Within 5 km,165.0
+2926,Heuvel,Hospitality,Hotels etc.,Within 10 5km,21.9
+2927,Heuvel,Hospitality,Hotels etc.,Within 20 km,41.7
+2928,Heuvel,Hospitality,Hotels etc.,Within 5 km,14.2
+2930,Heuvel,Hospitality,Restaurants,Within 1 km,4.4
+2931,Heuvel,Hospitality,Restaurants,Within 3 km,117.9
+2932,Heuvel,Hospitality,Restaurants,Within 5 km,188.7
+2934,Heuvel,Leisure and culture,Cinema,Within 10 km,4.0
+2935,Heuvel,Leisure and culture,Cinema,Within 20 km,4.0
+2936,Heuvel,Leisure and culture,Cinema,Within 5 km,2.0
+2939,Heuvel,Leisure and culture,Museum,Within 10 km,3.7
+2940,Heuvel,Leisure and culture,Museum,Within 20 km,9.6
+2941,Heuvel,Leisure and culture,Museum,Within 5 km,1.0
+2944,Heuvel,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.3
+2945,Heuvel,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.5
+2946,Heuvel,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+2950,Heuvel,Leisure and culture,Recreation,Within 10 km,6.0
+2951,Heuvel,Leisure and culture,Recreation,Within 20 km,10.0
+2952,Heuvel,Leisure and culture,Recreation,Within 50 km,37.6
+2956,Heuvel,Retail,Department store,Within 10 km,7.0
+2957,Heuvel,Retail,Department store,Within 20 km,15.2
+2958,Heuvel,Retail,Department store,Within 5 km,3.9
+2961,Heuvel,Retail,Grocery stores,Within 1 km,2.1
+2962,Heuvel,Retail,Grocery stores,Within 3 km,19.0
+2963,Heuvel,Retail,Grocery stores,Within 5 km,36.3
+2964,Heuvel,Retail,Grocery stores,Within 1 km,7.2
+2965,Heuvel,Retail,Grocery stores,Within 3 km,77.4
+2966,Heuvel,Retail,Grocery stores,Within 5 km,140.6
+2971,Hoogeind,Childcare,Daycare centres,Within 1 km,1.0
+2972,Hoogeind,Childcare,Daycare centres,Within 3 km,11.7
+2973,Hoogeind,Childcare,Daycare centres,Within 5 km,40.5
+2975,Hoogeind,Childcare,Out-of-school care,Within 1 km,0.0
+2976,Hoogeind,Childcare,Out-of-school care,Within 3 km,8.8
+2977,Hoogeind,Childcare,Out-of-school care,Within 5 km,34.9
+2980,Hoogeind,Education,Primary education,Within 1 km,0.0
+2981,Hoogeind,Education,Primary education,Within 3 km,4.6
+2982,Hoogeind,Education,Primary education,Within 5 km,18.5
+3012,Hoogeind,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+3013,Hoogeind,Health and well-being,General Practitioner's Practice,Within 3 km,4.1
+3014,Hoogeind,Health and well-being,General Practitioner's Practice,Within 5 km,16.2
+3016,Hoogeind,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.9
+3017,Hoogeind,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.9
+3018,Hoogeind,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+3020,Hoogeind,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.9
+3021,Hoogeind,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.9
+3022,Hoogeind,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+3028,Hoogeind,Hospitality,Cafes etc.,Within 1 km,0.0
+3029,Hoogeind,Hospitality,Cafes etc.,Within 3 km,1.8
+3030,Hoogeind,Hospitality,Cafes etc.,Within 5 km,61.3
+3032,Hoogeind,Hospitality,Cafeterias etc.,Within 1 km,0.4
+3033,Hoogeind,Hospitality,Cafeterias etc.,Within 3 km,10.6
+3034,Hoogeind,Hospitality,Cafeterias etc.,Within 5 km,92.1
+3036,Hoogeind,Hospitality,Hotels etc.,Within 10 5km,19.0
+3037,Hoogeind,Hospitality,Hotels etc.,Within 20 km,48.6
+3038,Hoogeind,Hospitality,Hotels etc.,Within 5 km,9.0
+3040,Hoogeind,Hospitality,Restaurants,Within 1 km,0.1
+3041,Hoogeind,Hospitality,Restaurants,Within 3 km,10.4
+3042,Hoogeind,Hospitality,Restaurants,Within 5 km,104.3
+3044,Hoogeind,Leisure and culture,Cinema,Within 10 km,2.9
+3045,Hoogeind,Leisure and culture,Cinema,Within 20 km,6.9
+3046,Hoogeind,Leisure and culture,Cinema,Within 5 km,2.9
+3049,Hoogeind,Leisure and culture,Museum,Within 10 km,2.9
+3050,Hoogeind,Leisure and culture,Museum,Within 20 km,10.4
+3051,Hoogeind,Leisure and culture,Museum,Within 5 km,1.0
+3054,Hoogeind,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.9
+3055,Hoogeind,Leisure and culture,Performing arts (excl. festivals),Within 20 km,11.4
+3056,Hoogeind,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.6
+3060,Hoogeind,Leisure and culture,Recreation,Within 10 km,5.9
+3061,Hoogeind,Leisure and culture,Recreation,Within 20 km,10.6
+3062,Hoogeind,Leisure and culture,Recreation,Within 50 km,35.7
+3066,Hoogeind,Retail,Department store,Within 10 km,7.5
+3067,Hoogeind,Retail,Department store,Within 20 km,16.4
+3068,Hoogeind,Retail,Department store,Within 5 km,1.8
+3071,Hoogeind,Retail,Grocery stores,Within 1 km,0.0
+3072,Hoogeind,Retail,Grocery stores,Within 3 km,4.0
+3073,Hoogeind,Retail,Grocery stores,Within 5 km,19.6
+3074,Hoogeind,Retail,Grocery stores,Within 1 km,0.0
+3075,Hoogeind,Retail,Grocery stores,Within 3 km,14.3
+3076,Hoogeind,Retail,Grocery stores,Within 5 km,87.2
+3081,Kesteren,Childcare,Daycare centres,Within 1 km,2.9
+3082,Kesteren,Childcare,Daycare centres,Within 3 km,14.9
+3083,Kesteren,Childcare,Daycare centres,Within 5 km,34.1
+3085,Kesteren,Childcare,Out-of-school care,Within 1 km,2.5
+3086,Kesteren,Childcare,Out-of-school care,Within 3 km,12.1
+3087,Kesteren,Childcare,Out-of-school care,Within 5 km,28.4
+3090,Kesteren,Education,Primary education,Within 1 km,1.3
+3091,Kesteren,Education,Primary education,Within 3 km,8.1
+3092,Kesteren,Education,Primary education,Within 5 km,13.8
+3122,Kesteren,Health and well-being,General Practitioner's Practice,Within 1 km,0.7
+3123,Kesteren,Health and well-being,General Practitioner's Practice,Within 3 km,6.1
+3124,Kesteren,Health and well-being,General Practitioner's Practice,Within 5 km,11.2
+3126,Kesteren,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3127,Kesteren,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3128,Kesteren,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+3130,Kesteren,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+3131,Kesteren,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+3132,Kesteren,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+3138,Kesteren,Hospitality,Cafes etc.,Within 1 km,0.0
+3139,Kesteren,Hospitality,Cafes etc.,Within 3 km,5.9
+3140,Kesteren,Hospitality,Cafes etc.,Within 5 km,51.2
+3142,Kesteren,Hospitality,Cafeterias etc.,Within 1 km,1.3
+3143,Kesteren,Hospitality,Cafeterias etc.,Within 3 km,9.9
+3144,Kesteren,Hospitality,Cafeterias etc.,Within 5 km,67.7
+3146,Kesteren,Hospitality,Hotels etc.,Within 10 5km,21.0
+3147,Kesteren,Hospitality,Hotels etc.,Within 20 km,41.5
+3148,Kesteren,Hospitality,Hotels etc.,Within 5 km,5.2
+3150,Kesteren,Hospitality,Restaurants,Within 1 km,2.2
+3151,Kesteren,Hospitality,Restaurants,Within 3 km,13.0
+3152,Kesteren,Hospitality,Restaurants,Within 5 km,69.1
+3154,Kesteren,Leisure and culture,Cinema,Within 10 km,3.3
+3155,Kesteren,Leisure and culture,Cinema,Within 20 km,4.0
+3156,Kesteren,Leisure and culture,Cinema,Within 5 km,0.0
+3159,Kesteren,Leisure and culture,Museum,Within 10 km,2.9
+3160,Kesteren,Leisure and culture,Museum,Within 20 km,11.0
+3161,Kesteren,Leisure and culture,Museum,Within 5 km,0.2
+3164,Kesteren,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+3165,Kesteren,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.9
+3166,Kesteren,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.2
+3170,Kesteren,Leisure and culture,Recreation,Within 10 km,4.4
+3171,Kesteren,Leisure and culture,Recreation,Within 20 km,10.0
+3172,Kesteren,Leisure and culture,Recreation,Within 50 km,38.3
+3176,Kesteren,Retail,Department store,Within 10 km,6.3
+3177,Kesteren,Retail,Department store,Within 20 km,14.6
+3178,Kesteren,Retail,Department store,Within 5 km,3.1
+3181,Kesteren,Retail,Grocery stores,Within 1 km,0.7
+3182,Kesteren,Retail,Grocery stores,Within 3 km,6.2
+3183,Kesteren,Retail,Grocery stores,Within 5 km,20.9
+3184,Kesteren,Retail,Grocery stores,Within 1 km,1.3
+3185,Kesteren,Retail,Grocery stores,Within 3 km,19.4
+3186,Kesteren,Retail,Grocery stores,Within 5 km,63.9
+3191,Kievitsloop,Childcare,Daycare centres,Within 1 km,2.7
+3192,Kievitsloop,Childcare,Daycare centres,Within 3 km,11.5
+3193,Kievitsloop,Childcare,Daycare centres,Within 5 km,41.4
+3195,Kievitsloop,Childcare,Out-of-school care,Within 1 km,1.4
+3196,Kievitsloop,Childcare,Out-of-school care,Within 3 km,10.3
+3197,Kievitsloop,Childcare,Out-of-school care,Within 5 km,34.1
+3200,Kievitsloop,Education,Primary education,Within 1 km,0.5
+3201,Kievitsloop,Education,Primary education,Within 3 km,6.5
+3202,Kievitsloop,Education,Primary education,Within 5 km,20.3
+3232,Kievitsloop,Health and well-being,General Practitioner's Practice,Within 1 km,1.5
+3233,Kievitsloop,Health and well-being,General Practitioner's Practice,Within 3 km,5.4
+3234,Kievitsloop,Health and well-being,General Practitioner's Practice,Within 5 km,17.3
+3236,Kievitsloop,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3237,Kievitsloop,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3238,Kievitsloop,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.2
+3240,Kievitsloop,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.1
+3241,Kievitsloop,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.7
+3242,Kievitsloop,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.2
+3248,Kievitsloop,Hospitality,Cafes etc.,Within 1 km,0.0
+3249,Kievitsloop,Hospitality,Cafes etc.,Within 3 km,2.5
+3250,Kievitsloop,Hospitality,Cafes etc.,Within 5 km,98.5
+3252,Kievitsloop,Hospitality,Cafeterias etc.,Within 1 km,1.1
+3253,Kievitsloop,Hospitality,Cafeterias etc.,Within 3 km,8.6
+3254,Kievitsloop,Hospitality,Cafeterias etc.,Within 5 km,124.3
+3256,Kievitsloop,Hospitality,Hotels etc.,Within 10 5km,18.0
+3257,Kievitsloop,Hospitality,Hotels etc.,Within 20 km,42.0
+3258,Kievitsloop,Hospitality,Hotels etc.,Within 5 km,9.1
+3260,Kievitsloop,Hospitality,Restaurants,Within 1 km,0.9
+3261,Kievitsloop,Hospitality,Restaurants,Within 3 km,7.4
+3262,Kievitsloop,Hospitality,Restaurants,Within 5 km,137.4
+3264,Kievitsloop,Leisure and culture,Cinema,Within 10 km,3.0
+3265,Kievitsloop,Leisure and culture,Cinema,Within 20 km,4.0
+3266,Kievitsloop,Leisure and culture,Cinema,Within 5 km,0.3
+3269,Kievitsloop,Leisure and culture,Museum,Within 10 km,2.6
+3270,Kievitsloop,Leisure and culture,Museum,Within 20 km,10.0
+3271,Kievitsloop,Leisure and culture,Museum,Within 5 km,0.8
+3274,Kievitsloop,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.1
+3275,Kievitsloop,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+3276,Kievitsloop,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.7
+3280,Kievitsloop,Leisure and culture,Recreation,Within 10 km,5.0
+3281,Kievitsloop,Leisure and culture,Recreation,Within 20 km,10.0
+3282,Kievitsloop,Leisure and culture,Recreation,Within 50 km,38.7
+3286,Kievitsloop,Retail,Department store,Within 10 km,6.0
+3287,Kievitsloop,Retail,Department store,Within 20 km,14.8
+3288,Kievitsloop,Retail,Department store,Within 5 km,3.7
+3291,Kievitsloop,Retail,Grocery stores,Within 1 km,0.4
+3292,Kievitsloop,Retail,Grocery stores,Within 3 km,4.2
+3293,Kievitsloop,Retail,Grocery stores,Within 5 km,28.9
+3294,Kievitsloop,Retail,Grocery stores,Within 1 km,0.8
+3295,Kievitsloop,Retail,Grocery stores,Within 3 km,12.9
+3296,Kievitsloop,Retail,Grocery stores,Within 5 km,109.1
+3301,Kroeten,Childcare,Daycare centres,Within 1 km,2.7
+3302,Kroeten,Childcare,Daycare centres,Within 3 km,9.0
+3303,Kroeten,Childcare,Daycare centres,Within 5 km,19.4
+3305,Kroeten,Childcare,Out-of-school care,Within 1 km,3.4
+3306,Kroeten,Childcare,Out-of-school care,Within 3 km,8.0
+3307,Kroeten,Childcare,Out-of-school care,Within 5 km,17.0
+3310,Kroeten,Education,Primary education,Within 1 km,2.4
+3311,Kroeten,Education,Primary education,Within 3 km,6.0
+3312,Kroeten,Education,Primary education,Within 5 km,10.3
+3342,Kroeten,Health and well-being,General Practitioner's Practice,Within 1 km,2.0
+3343,Kroeten,Health and well-being,General Practitioner's Practice,Within 3 km,2.9
+3344,Kroeten,Health and well-being,General Practitioner's Practice,Within 5 km,7.3
+3346,Kroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3347,Kroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3348,Kroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+3350,Kroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+3351,Kroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.9
+3352,Kroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+3358,Kroeten,Hospitality,Cafes etc.,Within 1 km,0.9
+3359,Kroeten,Hospitality,Cafes etc.,Within 3 km,2.0
+3360,Kroeten,Hospitality,Cafes etc.,Within 5 km,8.5
+3362,Kroeten,Hospitality,Cafeterias etc.,Within 1 km,0.0
+3363,Kroeten,Hospitality,Cafeterias etc.,Within 3 km,5.0
+3364,Kroeten,Hospitality,Cafeterias etc.,Within 5 km,13.7
+3366,Kroeten,Hospitality,Hotels etc.,Within 10 5km,17.2
+3367,Kroeten,Hospitality,Hotels etc.,Within 20 km,41.5
+3368,Kroeten,Hospitality,Hotels etc.,Within 5 km,1.0
+3370,Kroeten,Hospitality,Restaurants,Within 1 km,0.1
+3371,Kroeten,Hospitality,Restaurants,Within 3 km,6.0
+3372,Kroeten,Hospitality,Restaurants,Within 5 km,16.5
+3374,Kroeten,Leisure and culture,Cinema,Within 10 km,2.0
+3375,Kroeten,Leisure and culture,Cinema,Within 20 km,4.0
+3376,Kroeten,Leisure and culture,Cinema,Within 5 km,0.0
+3379,Kroeten,Leisure and culture,Museum,Within 10 km,1.9
+3380,Kroeten,Leisure and culture,Museum,Within 20 km,10.0
+3381,Kroeten,Leisure and culture,Museum,Within 5 km,0.0
+3384,Kroeten,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+3385,Kroeten,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+3386,Kroeten,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+3390,Kroeten,Leisure and culture,Recreation,Within 10 km,4.0
+3391,Kroeten,Leisure and culture,Recreation,Within 20 km,10.0
+3392,Kroeten,Leisure and culture,Recreation,Within 50 km,37.2
+3396,Kroeten,Retail,Department store,Within 10 km,6.0
+3397,Kroeten,Retail,Department store,Within 20 km,13.6
+3398,Kroeten,Retail,Department store,Within 5 km,2.0
+3401,Kroeten,Retail,Grocery stores,Within 1 km,0.0
+3402,Kroeten,Retail,Grocery stores,Within 3 km,3.0
+3403,Kroeten,Retail,Grocery stores,Within 5 km,7.3
+3404,Kroeten,Retail,Grocery stores,Within 1 km,0.0
+3405,Kroeten,Retail,Grocery stores,Within 3 km,11.0
+3406,Kroeten,Retail,Grocery stores,Within 5 km,23.7
+3411,Krogten,Childcare,Daycare centres,Within 1 km,1.5
+3412,Krogten,Childcare,Daycare centres,Within 3 km,16.6
+3413,Krogten,Childcare,Daycare centres,Within 5 km,58.9
+3415,Krogten,Childcare,Out-of-school care,Within 1 km,1.9
+3416,Krogten,Childcare,Out-of-school care,Within 3 km,12.9
+3417,Krogten,Childcare,Out-of-school care,Within 5 km,50.0
+3420,Krogten,Education,Primary education,Within 1 km,0.9
+3421,Krogten,Education,Primary education,Within 3 km,8.2
+3422,Krogten,Education,Primary education,Within 5 km,29.6
+3452,Krogten,Health and well-being,General Practitioner's Practice,Within 1 km,0.6
+3453,Krogten,Health and well-being,General Practitioner's Practice,Within 3 km,8.1
+3454,Krogten,Health and well-being,General Practitioner's Practice,Within 5 km,24.2
+3456,Krogten,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.3
+3457,Krogten,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3458,Krogten,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.4
+3460,Krogten,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.3
+3461,Krogten,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.2
+3462,Krogten,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.4
+3468,Krogten,Hospitality,Cafes etc.,Within 1 km,0.9
+3469,Krogten,Hospitality,Cafes etc.,Within 3 km,62.2
+3470,Krogten,Hospitality,Cafes etc.,Within 5 km,98.1
+3472,Krogten,Hospitality,Cafeterias etc.,Within 1 km,3.3
+3473,Krogten,Hospitality,Cafeterias etc.,Within 3 km,77.8
+3474,Krogten,Hospitality,Cafeterias etc.,Within 5 km,138.8
+3476,Krogten,Hospitality,Hotels etc.,Within 10 5km,20.9
+3477,Krogten,Hospitality,Hotels etc.,Within 20 km,42.5
+3478,Krogten,Hospitality,Hotels etc.,Within 5 km,10.2
+3480,Krogten,Hospitality,Restaurants,Within 1 km,1.5
+3481,Krogten,Hospitality,Restaurants,Within 3 km,87.8
+3482,Krogten,Hospitality,Restaurants,Within 5 km,159.0
+3484,Krogten,Leisure and culture,Cinema,Within 10 km,3.0
+3485,Krogten,Leisure and culture,Cinema,Within 20 km,4.0
+3486,Krogten,Leisure and culture,Cinema,Within 5 km,1.8
+3489,Krogten,Leisure and culture,Museum,Within 10 km,3.0
+3490,Krogten,Leisure and culture,Museum,Within 20 km,8.9
+3491,Krogten,Leisure and culture,Museum,Within 5 km,1.0
+3494,Krogten,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.9
+3495,Krogten,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.6
+3496,Krogten,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.7
+3500,Krogten,Leisure and culture,Recreation,Within 10 km,5.0
+3501,Krogten,Leisure and culture,Recreation,Within 20 km,9.8
+3502,Krogten,Leisure and culture,Recreation,Within 50 km,41.0
+3506,Krogten,Retail,Department store,Within 10 km,7.8
+3507,Krogten,Retail,Department store,Within 20 km,14.7
+3508,Krogten,Retail,Department store,Within 5 km,3.8
+3511,Krogten,Retail,Grocery stores,Within 1 km,1.3
+3512,Krogten,Retail,Grocery stores,Within 3 km,15.8
+3513,Krogten,Retail,Grocery stores,Within 5 km,33.8
+3514,Krogten,Retail,Grocery stores,Within 1 km,1.6
+3515,Krogten,Retail,Grocery stores,Within 3 km,60.3
+3516,Krogten,Retail,Grocery stores,Within 5 km,129.8
+3521,Liesbos,Childcare,Daycare centres,Within 1 km,0.2
+3522,Liesbos,Childcare,Daycare centres,Within 3 km,6.3
+3523,Liesbos,Childcare,Daycare centres,Within 5 km,28.2
+3525,Liesbos,Childcare,Out-of-school care,Within 1 km,0.2
+3526,Liesbos,Childcare,Out-of-school care,Within 3 km,6.9
+3527,Liesbos,Childcare,Out-of-school care,Within 5 km,27.8
+3530,Liesbos,Education,Primary education,Within 1 km,0.0
+3531,Liesbos,Education,Primary education,Within 3 km,1.7
+3532,Liesbos,Education,Primary education,Within 5 km,11.6
+3562,Liesbos,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+3563,Liesbos,Health and well-being,General Practitioner's Practice,Within 3 km,1.3
+3564,Liesbos,Health and well-being,General Practitioner's Practice,Within 5 km,9.1
+3566,Liesbos,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3567,Liesbos,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3568,Liesbos,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.7
+3570,Liesbos,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+3571,Liesbos,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+3572,Liesbos,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.7
+3578,Liesbos,Hospitality,Cafes etc.,Within 1 km,0.0
+3579,Liesbos,Hospitality,Cafes etc.,Within 3 km,3.7
+3580,Liesbos,Hospitality,Cafes etc.,Within 5 km,40.4
+3582,Liesbos,Hospitality,Cafeterias etc.,Within 1 km,0.3
+3583,Liesbos,Hospitality,Cafeterias etc.,Within 3 km,9.1
+3584,Liesbos,Hospitality,Cafeterias etc.,Within 5 km,57.0
+3586,Liesbos,Hospitality,Hotels etc.,Within 10 5km,20.6
+3587,Liesbos,Hospitality,Hotels etc.,Within 20 km,40.2
+3588,Liesbos,Hospitality,Hotels etc.,Within 5 km,6.6
+3590,Liesbos,Hospitality,Restaurants,Within 1 km,0.3
+3591,Liesbos,Hospitality,Restaurants,Within 3 km,7.3
+3592,Liesbos,Hospitality,Restaurants,Within 5 km,59.1
+3594,Liesbos,Leisure and culture,Cinema,Within 10 km,3.6
+3595,Liesbos,Leisure and culture,Cinema,Within 20 km,4.0
+3596,Liesbos,Leisure and culture,Cinema,Within 5 km,0.1
+3599,Liesbos,Leisure and culture,Museum,Within 10 km,3.0
+3600,Liesbos,Leisure and culture,Museum,Within 20 km,10.0
+3601,Liesbos,Leisure and culture,Museum,Within 5 km,0.7
+3604,Liesbos,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+3605,Liesbos,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.5
+3606,Liesbos,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.4
+3610,Liesbos,Leisure and culture,Recreation,Within 10 km,4.9
+3611,Liesbos,Leisure and culture,Recreation,Within 20 km,9.1
+3612,Liesbos,Leisure and culture,Recreation,Within 50 km,36.6
+3616,Liesbos,Retail,Department store,Within 10 km,6.9
+3617,Liesbos,Retail,Department store,Within 20 km,13.5
+3618,Liesbos,Retail,Department store,Within 5 km,1.9
+3621,Liesbos,Retail,Grocery stores,Within 1 km,0.0
+3622,Liesbos,Retail,Grocery stores,Within 3 km,2.4
+3623,Liesbos,Retail,Grocery stores,Within 5 km,15.3
+3624,Liesbos,Retail,Grocery stores,Within 1 km,0.0
+3625,Liesbos,Retail,Grocery stores,Within 3 km,9.2
+3626,Liesbos,Retail,Grocery stores,Within 5 km,54.2
+3631,Mastbos,Childcare,Daycare centres,Within 1 km,0.0
+3632,Mastbos,Childcare,Daycare centres,Within 3 km,5.3
+3633,Mastbos,Childcare,Daycare centres,Within 5 km,24.9
+3635,Mastbos,Childcare,Out-of-school care,Within 1 km,0.0
+3636,Mastbos,Childcare,Out-of-school care,Within 3 km,4.2
+3637,Mastbos,Childcare,Out-of-school care,Within 5 km,22.1
+3640,Mastbos,Education,Primary education,Within 1 km,0.0
+3641,Mastbos,Education,Primary education,Within 3 km,2.0
+3642,Mastbos,Education,Primary education,Within 5 km,9.1
+3672,Mastbos,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+3673,Mastbos,Health and well-being,General Practitioner's Practice,Within 3 km,1.2
+3674,Mastbos,Health and well-being,General Practitioner's Practice,Within 5 km,7.2
+3676,Mastbos,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3677,Mastbos,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3678,Mastbos,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.8
+3680,Mastbos,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.4
+3681,Mastbos,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.1
+3682,Mastbos,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.8
+3688,Mastbos,Hospitality,Cafes etc.,Within 1 km,0.4
+3689,Mastbos,Hospitality,Cafes etc.,Within 3 km,3.7
+3690,Mastbos,Hospitality,Cafes etc.,Within 5 km,40.2
+3692,Mastbos,Hospitality,Cafeterias etc.,Within 1 km,0.2
+3693,Mastbos,Hospitality,Cafeterias etc.,Within 3 km,5.7
+3694,Mastbos,Hospitality,Cafeterias etc.,Within 5 km,55.2
+3696,Mastbos,Hospitality,Hotels etc.,Within 10 5km,18.0
+3697,Mastbos,Hospitality,Hotels etc.,Within 20 km,36.2
+3698,Mastbos,Hospitality,Hotels etc.,Within 5 km,5.0
+3700,Mastbos,Hospitality,Restaurants,Within 1 km,0.6
+3701,Mastbos,Hospitality,Restaurants,Within 3 km,8.6
+3702,Mastbos,Hospitality,Restaurants,Within 5 km,70.8
+3704,Mastbos,Leisure and culture,Cinema,Within 10 km,3.0
+3705,Mastbos,Leisure and culture,Cinema,Within 20 km,4.0
+3706,Mastbos,Leisure and culture,Cinema,Within 5 km,0.5
+3709,Mastbos,Leisure and culture,Museum,Within 10 km,1.1
+3710,Mastbos,Leisure and culture,Museum,Within 20 km,7.7
+3711,Mastbos,Leisure and culture,Museum,Within 5 km,0.3
+3714,Mastbos,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+3715,Mastbos,Leisure and culture,Performing arts (excl. festivals),Within 20 km,5.3
+3716,Mastbos,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.8
+3720,Mastbos,Leisure and culture,Recreation,Within 10 km,5.3
+3721,Mastbos,Leisure and culture,Recreation,Within 20 km,7.8
+3722,Mastbos,Leisure and culture,Recreation,Within 50 km,28.8
+3726,Mastbos,Retail,Department store,Within 10 km,4.9
+3727,Mastbos,Retail,Department store,Within 20 km,13.4
+3728,Mastbos,Retail,Department store,Within 5 km,1.6
+3731,Mastbos,Retail,Grocery stores,Within 1 km,0.0
+3732,Mastbos,Retail,Grocery stores,Within 3 km,1.4
+3733,Mastbos,Retail,Grocery stores,Within 5 km,12.5
+3734,Mastbos,Retail,Grocery stores,Within 1 km,0.2
+3735,Mastbos,Retail,Grocery stores,Within 3 km,6.8
+3736,Mastbos,Retail,Grocery stores,Within 5 km,50.8
+3741,Moleneind-oost,Childcare,Daycare centres,Within 1 km,3.4
+3742,Moleneind-oost,Childcare,Daycare centres,Within 3 km,19.1
+3743,Moleneind-oost,Childcare,Daycare centres,Within 5 km,59.6
+3745,Moleneind-oost,Childcare,Out-of-school care,Within 1 km,1.7
+3746,Moleneind-oost,Childcare,Out-of-school care,Within 3 km,16.8
+3747,Moleneind-oost,Childcare,Out-of-school care,Within 5 km,50.0
+3750,Moleneind-oost,Education,Primary education,Within 1 km,1.6
+3751,Moleneind-oost,Education,Primary education,Within 3 km,9.4
+3752,Moleneind-oost,Education,Primary education,Within 5 km,26.0
+3782,Moleneind-oost,Health and well-being,General Practitioner's Practice,Within 1 km,1.7
+3783,Moleneind-oost,Health and well-being,General Practitioner's Practice,Within 3 km,6.7
+3784,Moleneind-oost,Health and well-being,General Practitioner's Practice,Within 5 km,20.4
+3786,Moleneind-oost,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+3787,Moleneind-oost,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,4.0
+3788,Moleneind-oost,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+3790,Moleneind-oost,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+3791,Moleneind-oost,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+3792,Moleneind-oost,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+3798,Moleneind-oost,Hospitality,Cafes etc.,Within 1 km,0.0
+3799,Moleneind-oost,Hospitality,Cafes etc.,Within 3 km,9.1
+3800,Moleneind-oost,Hospitality,Cafes etc.,Within 5 km,103.6
+3802,Moleneind-oost,Hospitality,Cafeterias etc.,Within 1 km,1.6
+3803,Moleneind-oost,Hospitality,Cafeterias etc.,Within 3 km,21.2
+3804,Moleneind-oost,Hospitality,Cafeterias etc.,Within 5 km,147.0
+3806,Moleneind-oost,Hospitality,Hotels etc.,Within 10 5km,19.0
+3807,Moleneind-oost,Hospitality,Hotels etc.,Within 20 km,50.0
+3808,Moleneind-oost,Hospitality,Hotels etc.,Within 5 km,12.9
+3810,Moleneind-oost,Hospitality,Restaurants,Within 1 km,0.9
+3811,Moleneind-oost,Hospitality,Restaurants,Within 3 km,26.0
+3812,Moleneind-oost,Hospitality,Restaurants,Within 5 km,167.2
+3814,Moleneind-oost,Leisure and culture,Cinema,Within 10 km,3.0
+3815,Moleneind-oost,Leisure and culture,Cinema,Within 20 km,6.9
+3816,Moleneind-oost,Leisure and culture,Cinema,Within 5 km,3.0
+3819,Moleneind-oost,Leisure and culture,Museum,Within 10 km,3.0
+3820,Moleneind-oost,Leisure and culture,Museum,Within 20 km,11.0
+3821,Moleneind-oost,Leisure and culture,Museum,Within 5 km,1.2
+3824,Moleneind-oost,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+3825,Moleneind-oost,Leisure and culture,Performing arts (excl. festivals),Within 20 km,10.9
+3826,Moleneind-oost,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+3830,Moleneind-oost,Leisure and culture,Recreation,Within 10 km,6.0
+3831,Moleneind-oost,Leisure and culture,Recreation,Within 20 km,10.0
+3832,Moleneind-oost,Leisure and culture,Recreation,Within 50 km,36.8
+3836,Moleneind-oost,Retail,Department store,Within 10 km,8.0
+3837,Moleneind-oost,Retail,Department store,Within 20 km,16.9
+3838,Moleneind-oost,Retail,Department store,Within 5 km,3.0
+3841,Moleneind-oost,Retail,Grocery stores,Within 1 km,0.9
+3842,Moleneind-oost,Retail,Grocery stores,Within 3 km,6.9
+3843,Moleneind-oost,Retail,Grocery stores,Within 5 km,33.7
+3844,Moleneind-oost,Retail,Grocery stores,Within 1 km,5.2
+3845,Moleneind-oost,Retail,Grocery stores,Within 3 km,34.6
+3846,Moleneind-oost,Retail,Grocery stores,Within 5 km,133.9
+3851,Muizenberg,Childcare,Daycare centres,Within 1 km,1.9
+3852,Muizenberg,Childcare,Daycare centres,Within 3 km,10.8
+3853,Muizenberg,Childcare,Daycare centres,Within 5 km,21.5
+3855,Muizenberg,Childcare,Out-of-school care,Within 1 km,2.1
+3856,Muizenberg,Childcare,Out-of-school care,Within 3 km,9.6
+3857,Muizenberg,Childcare,Out-of-school care,Within 5 km,18.2
+3860,Muizenberg,Education,Primary education,Within 1 km,2.0
+3861,Muizenberg,Education,Primary education,Within 3 km,6.7
+3862,Muizenberg,Education,Primary education,Within 5 km,10.4
+3892,Muizenberg,Health and well-being,General Practitioner's Practice,Within 1 km,1.2
+3893,Muizenberg,Health and well-being,General Practitioner's Practice,Within 3 km,3.0
+3894,Muizenberg,Health and well-being,General Practitioner's Practice,Within 5 km,7.4
+3896,Muizenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+3897,Muizenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+3898,Muizenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+3900,Muizenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.2
+3901,Muizenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+3902,Muizenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+3908,Muizenberg,Hospitality,Cafes etc.,Within 1 km,1.0
+3909,Muizenberg,Hospitality,Cafes etc.,Within 3 km,2.4
+3910,Muizenberg,Hospitality,Cafes etc.,Within 5 km,10.3
+3912,Muizenberg,Hospitality,Cafeterias etc.,Within 1 km,1.2
+3913,Muizenberg,Hospitality,Cafeterias etc.,Within 3 km,5.3
+3914,Muizenberg,Hospitality,Cafeterias etc.,Within 5 km,19.0
+3916,Muizenberg,Hospitality,Hotels etc.,Within 10 5km,18.4
+3917,Muizenberg,Hospitality,Hotels etc.,Within 20 km,41.6
+3918,Muizenberg,Hospitality,Hotels etc.,Within 5 km,1.0
+3920,Muizenberg,Hospitality,Restaurants,Within 1 km,1.3
+3921,Muizenberg,Hospitality,Restaurants,Within 3 km,7.0
+3922,Muizenberg,Hospitality,Restaurants,Within 5 km,18.1
+3924,Muizenberg,Leisure and culture,Cinema,Within 10 km,2.0
+3925,Muizenberg,Leisure and culture,Cinema,Within 20 km,4.0
+3926,Muizenberg,Leisure and culture,Cinema,Within 5 km,0.0
+3929,Muizenberg,Leisure and culture,Museum,Within 10 km,2.0
+3930,Muizenberg,Leisure and culture,Museum,Within 20 km,10.7
+3931,Muizenberg,Leisure and culture,Museum,Within 5 km,0.0
+3934,Muizenberg,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.3
+3935,Muizenberg,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+3936,Muizenberg,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+3940,Muizenberg,Leisure and culture,Recreation,Within 10 km,4.0
+3941,Muizenberg,Leisure and culture,Recreation,Within 20 km,10.0
+3942,Muizenberg,Leisure and culture,Recreation,Within 50 km,38.0
+3946,Muizenberg,Retail,Department store,Within 10 km,6.0
+3947,Muizenberg,Retail,Department store,Within 20 km,14.4
+3948,Muizenberg,Retail,Department store,Within 5 km,2.0
+3951,Muizenberg,Retail,Grocery stores,Within 1 km,0.9
+3952,Muizenberg,Retail,Grocery stores,Within 3 km,3.6
+3953,Muizenberg,Retail,Grocery stores,Within 5 km,8.9
+3954,Muizenberg,Retail,Grocery stores,Within 1 km,1.9
+3955,Muizenberg,Retail,Grocery stores,Within 3 km,12.3
+3956,Muizenberg,Retail,Grocery stores,Within 5 km,25.8
+3961,Nieuw Wolfslaar,Childcare,Daycare centres,Within 1 km,0.5
+3962,Nieuw Wolfslaar,Childcare,Daycare centres,Within 3 km,16.1
+3963,Nieuw Wolfslaar,Childcare,Daycare centres,Within 5 km,44.6
+3965,Nieuw Wolfslaar,Childcare,Out-of-school care,Within 1 km,0.1
+3966,Nieuw Wolfslaar,Childcare,Out-of-school care,Within 3 km,18.2
+3967,Nieuw Wolfslaar,Childcare,Out-of-school care,Within 5 km,40.2
+3970,Nieuw Wolfslaar,Education,Primary education,Within 1 km,0.0
+3971,Nieuw Wolfslaar,Education,Primary education,Within 3 km,6.1
+3972,Nieuw Wolfslaar,Education,Primary education,Within 5 km,17.4
+4002,Nieuw Wolfslaar,Health and well-being,General Practitioner's Practice,Within 1 km,0.1
+4003,Nieuw Wolfslaar,Health and well-being,General Practitioner's Practice,Within 3 km,7.4
+4004,Nieuw Wolfslaar,Health and well-being,General Practitioner's Practice,Within 5 km,16.0
+4006,Nieuw Wolfslaar,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4007,Nieuw Wolfslaar,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4008,Nieuw Wolfslaar,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.7
+4010,Nieuw Wolfslaar,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+4011,Nieuw Wolfslaar,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+4012,Nieuw Wolfslaar,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.7
+4018,Nieuw Wolfslaar,Hospitality,Cafes etc.,Within 1 km,0.0
+4019,Nieuw Wolfslaar,Hospitality,Cafes etc.,Within 3 km,8.6
+4020,Nieuw Wolfslaar,Hospitality,Cafes etc.,Within 5 km,88.8
+4022,Nieuw Wolfslaar,Hospitality,Cafeterias etc.,Within 1 km,0.3
+4023,Nieuw Wolfslaar,Hospitality,Cafeterias etc.,Within 3 km,14.5
+4024,Nieuw Wolfslaar,Hospitality,Cafeterias etc.,Within 5 km,116.7
+4026,Nieuw Wolfslaar,Hospitality,Hotels etc.,Within 10 5km,17.6
+4027,Nieuw Wolfslaar,Hospitality,Hotels etc.,Within 20 km,42.2
+4028,Nieuw Wolfslaar,Hospitality,Hotels etc.,Within 5 km,10.6
+4030,Nieuw Wolfslaar,Hospitality,Restaurants,Within 1 km,0.0
+4031,Nieuw Wolfslaar,Hospitality,Restaurants,Within 3 km,17.4
+4032,Nieuw Wolfslaar,Hospitality,Restaurants,Within 5 km,152.4
+4034,Nieuw Wolfslaar,Leisure and culture,Cinema,Within 10 km,3.0
+4035,Nieuw Wolfslaar,Leisure and culture,Cinema,Within 20 km,4.0
+4036,Nieuw Wolfslaar,Leisure and culture,Cinema,Within 5 km,3.0
+4039,Nieuw Wolfslaar,Leisure and culture,Museum,Within 10 km,2.0
+4040,Nieuw Wolfslaar,Leisure and culture,Museum,Within 20 km,8.0
+4041,Nieuw Wolfslaar,Leisure and culture,Museum,Within 5 km,1.0
+4044,Nieuw Wolfslaar,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.9
+4045,Nieuw Wolfslaar,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+4046,Nieuw Wolfslaar,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4050,Nieuw Wolfslaar,Leisure and culture,Recreation,Within 10 km,6.0
+4051,Nieuw Wolfslaar,Leisure and culture,Recreation,Within 20 km,8.7
+4052,Nieuw Wolfslaar,Leisure and culture,Recreation,Within 50 km,33.1
+4056,Nieuw Wolfslaar,Retail,Department store,Within 10 km,6.3
+4057,Nieuw Wolfslaar,Retail,Department store,Within 20 km,16.8
+4058,Nieuw Wolfslaar,Retail,Department store,Within 5 km,2.0
+4061,Nieuw Wolfslaar,Retail,Grocery stores,Within 1 km,0.0
+4062,Nieuw Wolfslaar,Retail,Grocery stores,Within 3 km,6.9
+4063,Nieuw Wolfslaar,Retail,Grocery stores,Within 5 km,24.3
+4064,Nieuw Wolfslaar,Retail,Grocery stores,Within 1 km,0.1
+4065,Nieuw Wolfslaar,Retail,Grocery stores,Within 3 km,29.5
+4066,Nieuw Wolfslaar,Retail,Grocery stores,Within 5 km,109.3
+4071,Overakker,Childcare,Daycare centres,Within 1 km,5.7
+4072,Overakker,Childcare,Daycare centres,Within 3 km,28.0
+4073,Overakker,Childcare,Daycare centres,Within 5 km,57.1
+4075,Overakker,Childcare,Out-of-school care,Within 1 km,5.1
+4076,Overakker,Childcare,Out-of-school care,Within 3 km,27.0
+4077,Overakker,Childcare,Out-of-school care,Within 5 km,49.6
+4080,Overakker,Education,Primary education,Within 1 km,0.3
+4081,Overakker,Education,Primary education,Within 3 km,9.5
+4082,Overakker,Education,Primary education,Within 5 km,22.5
+4112,Overakker,Health and well-being,General Practitioner's Practice,Within 1 km,1.2
+4113,Overakker,Health and well-being,General Practitioner's Practice,Within 3 km,8.0
+4114,Overakker,Health and well-being,General Practitioner's Practice,Within 5 km,22.2
+4116,Overakker,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4117,Overakker,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4118,Overakker,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+4120,Overakker,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+4121,Overakker,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+4122,Overakker,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+4128,Overakker,Hospitality,Cafes etc.,Within 1 km,0.7
+4129,Overakker,Hospitality,Cafes etc.,Within 3 km,18.6
+4130,Overakker,Hospitality,Cafes etc.,Within 5 km,113.1
+4132,Overakker,Hospitality,Cafeterias etc.,Within 1 km,3.1
+4133,Overakker,Hospitality,Cafeterias etc.,Within 3 km,37.6
+4134,Overakker,Hospitality,Cafeterias etc.,Within 5 km,153.6
+4136,Overakker,Hospitality,Hotels etc.,Within 10 5km,18.0
+4137,Overakker,Hospitality,Hotels etc.,Within 20 km,43.7
+4138,Overakker,Hospitality,Hotels etc.,Within 5 km,14.7
+4140,Overakker,Hospitality,Restaurants,Within 1 km,2.7
+4141,Overakker,Hospitality,Restaurants,Within 3 km,54.8
+4142,Overakker,Hospitality,Restaurants,Within 5 km,186.4
+4144,Overakker,Leisure and culture,Cinema,Within 10 km,3.0
+4145,Overakker,Leisure and culture,Cinema,Within 20 km,4.0
+4146,Overakker,Leisure and culture,Cinema,Within 5 km,3.0
+4149,Overakker,Leisure and culture,Museum,Within 10 km,2.0
+4150,Overakker,Leisure and culture,Museum,Within 20 km,8.5
+4151,Overakker,Leisure and culture,Museum,Within 5 km,1.0
+4154,Overakker,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+4155,Overakker,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+4156,Overakker,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4160,Overakker,Leisure and culture,Recreation,Within 10 km,6.4
+4161,Overakker,Leisure and culture,Recreation,Within 20 km,9.9
+4162,Overakker,Leisure and culture,Recreation,Within 50 km,33.7
+4166,Overakker,Retail,Department store,Within 10 km,6.1
+4167,Overakker,Retail,Department store,Within 20 km,16.0
+4168,Overakker,Retail,Department store,Within 5 km,2.6
+4171,Overakker,Retail,Grocery stores,Within 1 km,3.2
+4172,Overakker,Retail,Grocery stores,Within 3 km,11.4
+4173,Overakker,Retail,Grocery stores,Within 5 km,34.2
+4174,Overakker,Retail,Grocery stores,Within 1 km,9.2
+4175,Overakker,Retail,Grocery stores,Within 3 km,48.9
+4176,Overakker,Retail,Grocery stores,Within 5 km,140.3
+4181,Overkroeten,Childcare,Daycare centres,Within 1 km,2.3
+4182,Overkroeten,Childcare,Daycare centres,Within 3 km,8.8
+4183,Overkroeten,Childcare,Daycare centres,Within 5 km,17.9
+4185,Overkroeten,Childcare,Out-of-school care,Within 1 km,2.2
+4186,Overkroeten,Childcare,Out-of-school care,Within 3 km,7.5
+4187,Overkroeten,Childcare,Out-of-school care,Within 5 km,16.1
+4190,Overkroeten,Education,Primary education,Within 1 km,2.0
+4191,Overkroeten,Education,Primary education,Within 3 km,5.4
+4192,Overkroeten,Education,Primary education,Within 5 km,9.7
+4222,Overkroeten,Health and well-being,General Practitioner's Practice,Within 1 km,0.7
+4223,Overkroeten,Health and well-being,General Practitioner's Practice,Within 3 km,2.2
+4224,Overkroeten,Health and well-being,General Practitioner's Practice,Within 5 km,7.5
+4226,Overkroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4227,Overkroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4228,Overkroeten,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.0
+4230,Overkroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+4231,Overkroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.1
+4232,Overkroeten,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.0
+4238,Overkroeten,Hospitality,Cafes etc.,Within 1 km,0.1
+4239,Overkroeten,Hospitality,Cafes etc.,Within 3 km,2.0
+4240,Overkroeten,Hospitality,Cafes etc.,Within 5 km,5.4
+4242,Overkroeten,Hospitality,Cafeterias etc.,Within 1 km,0.2
+4243,Overkroeten,Hospitality,Cafeterias etc.,Within 3 km,5.1
+4244,Overkroeten,Hospitality,Cafeterias etc.,Within 5 km,13.7
+4246,Overkroeten,Hospitality,Hotels etc.,Within 10 5km,17.4
+4247,Overkroeten,Hospitality,Hotels etc.,Within 20 km,40.4
+4248,Overkroeten,Hospitality,Hotels etc.,Within 5 km,1.0
+4250,Overkroeten,Hospitality,Restaurants,Within 1 km,0.7
+4251,Overkroeten,Hospitality,Restaurants,Within 3 km,6.0
+4252,Overkroeten,Hospitality,Restaurants,Within 5 km,14.2
+4254,Overkroeten,Leisure and culture,Cinema,Within 10 km,2.0
+4255,Overkroeten,Leisure and culture,Cinema,Within 20 km,4.0
+4256,Overkroeten,Leisure and culture,Cinema,Within 5 km,0.0
+4259,Overkroeten,Leisure and culture,Museum,Within 10 km,1.0
+4260,Overkroeten,Leisure and culture,Museum,Within 20 km,8.5
+4261,Overkroeten,Leisure and culture,Museum,Within 5 km,0.0
+4264,Overkroeten,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+4265,Overkroeten,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.4
+4266,Overkroeten,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+4270,Overkroeten,Leisure and culture,Recreation,Within 10 km,4.0
+4271,Overkroeten,Leisure and culture,Recreation,Within 20 km,10.0
+4272,Overkroeten,Leisure and culture,Recreation,Within 50 km,37.3
+4276,Overkroeten,Retail,Department store,Within 10 km,6.0
+4277,Overkroeten,Retail,Department store,Within 20 km,13.0
+4278,Overkroeten,Retail,Department store,Within 5 km,1.7
+4281,Overkroeten,Retail,Grocery stores,Within 1 km,1.0
+4282,Overkroeten,Retail,Grocery stores,Within 3 km,3.0
+4283,Overkroeten,Retail,Grocery stores,Within 5 km,7.9
+4284,Overkroeten,Retail,Grocery stores,Within 1 km,3.7
+4285,Overkroeten,Retail,Grocery stores,Within 3 km,11.0
+4286,Overkroeten,Retail,Grocery stores,Within 5 km,21.7
+4291,Princenhage,Childcare,Daycare centres,Within 1 km,4.3
+4292,Princenhage,Childcare,Daycare centres,Within 3 km,20.0
+4293,Princenhage,Childcare,Daycare centres,Within 5 km,52.8
+4295,Princenhage,Childcare,Out-of-school care,Within 1 km,5.9
+4296,Princenhage,Childcare,Out-of-school care,Within 3 km,19.6
+4297,Princenhage,Childcare,Out-of-school care,Within 5 km,46.2
+4300,Princenhage,Education,Primary education,Within 1 km,1.9
+4301,Princenhage,Education,Primary education,Within 3 km,7.5
+4302,Princenhage,Education,Primary education,Within 5 km,19.9
+4332,Princenhage,Health and well-being,General Practitioner's Practice,Within 1 km,1.6
+4333,Princenhage,Health and well-being,General Practitioner's Practice,Within 3 km,7.2
+4334,Princenhage,Health and well-being,General Practitioner's Practice,Within 5 km,17.9
+4336,Princenhage,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4337,Princenhage,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4338,Princenhage,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.4
+4340,Princenhage,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+4341,Princenhage,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+4342,Princenhage,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.4
+4348,Princenhage,Hospitality,Cafes etc.,Within 1 km,2.5
+4349,Princenhage,Hospitality,Cafes etc.,Within 3 km,33.0
+4350,Princenhage,Hospitality,Cafes etc.,Within 5 km,114.5
+4352,Princenhage,Hospitality,Cafeterias etc.,Within 1 km,6.1
+4353,Princenhage,Hospitality,Cafeterias etc.,Within 3 km,49.0
+4354,Princenhage,Hospitality,Cafeterias etc.,Within 5 km,154.7
+4356,Princenhage,Hospitality,Hotels etc.,Within 10 5km,22.0
+4357,Princenhage,Hospitality,Hotels etc.,Within 20 km,41.0
+4358,Princenhage,Hospitality,Hotels etc.,Within 5 km,13.3
+4360,Princenhage,Hospitality,Restaurants,Within 1 km,4.6
+4361,Princenhage,Hospitality,Restaurants,Within 3 km,50.1
+4362,Princenhage,Hospitality,Restaurants,Within 5 km,176.7
+4364,Princenhage,Leisure and culture,Cinema,Within 10 km,4.0
+4365,Princenhage,Leisure and culture,Cinema,Within 20 km,4.0
+4366,Princenhage,Leisure and culture,Cinema,Within 5 km,2.0
+4369,Princenhage,Leisure and culture,Museum,Within 10 km,3.1
+4370,Princenhage,Leisure and culture,Museum,Within 20 km,9.1
+4371,Princenhage,Leisure and culture,Museum,Within 5 km,1.0
+4374,Princenhage,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+4375,Princenhage,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.1
+4376,Princenhage,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4380,Princenhage,Leisure and culture,Recreation,Within 10 km,6.0
+4381,Princenhage,Leisure and culture,Recreation,Within 20 km,10.0
+4382,Princenhage,Leisure and culture,Recreation,Within 50 km,36.6
+4386,Princenhage,Retail,Department store,Within 10 km,7.0
+4387,Princenhage,Retail,Department store,Within 20 km,14.9
+4388,Princenhage,Retail,Department store,Within 5 km,3.9
+4391,Princenhage,Retail,Grocery stores,Within 1 km,1.8
+4392,Princenhage,Retail,Grocery stores,Within 3 km,11.6
+4393,Princenhage,Retail,Grocery stores,Within 5 km,32.3
+4394,Princenhage,Retail,Grocery stores,Within 1 km,7.5
+4395,Princenhage,Retail,Grocery stores,Within 3 km,44.8
+4396,Princenhage,Retail,Grocery stores,Within 5 km,121.8
+4401,Prinsenbeek,Childcare,Daycare centres,Within 1 km,2.5
+4402,Prinsenbeek,Childcare,Daycare centres,Within 3 km,7.9
+4403,Prinsenbeek,Childcare,Daycare centres,Within 5 km,26.6
+4405,Prinsenbeek,Childcare,Out-of-school care,Within 1 km,2.2
+4406,Prinsenbeek,Childcare,Out-of-school care,Within 3 km,6.7
+4407,Prinsenbeek,Childcare,Out-of-school care,Within 5 km,24.4
+4410,Prinsenbeek,Education,Primary education,Within 1 km,1.2
+4411,Prinsenbeek,Education,Primary education,Within 3 km,2.7
+4412,Prinsenbeek,Education,Primary education,Within 5 km,10.5
+4442,Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 1 km,0.5
+4443,Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 3 km,1.5
+4444,Prinsenbeek,Health and well-being,General Practitioner's Practice,Within 5 km,9.2
+4446,Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4447,Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4448,Prinsenbeek,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.1
+4450,Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+4451,Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+4452,Prinsenbeek,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.1
+4458,Prinsenbeek,Hospitality,Cafes etc.,Within 1 km,2.8
+4459,Prinsenbeek,Hospitality,Cafes etc.,Within 3 km,6.1
+4460,Prinsenbeek,Hospitality,Cafes etc.,Within 5 km,21.2
+4462,Prinsenbeek,Hospitality,Cafeterias etc.,Within 1 km,2.1
+4463,Prinsenbeek,Hospitality,Cafeterias etc.,Within 3 km,6.3
+4464,Prinsenbeek,Hospitality,Cafeterias etc.,Within 5 km,33.8
+4466,Prinsenbeek,Hospitality,Hotels etc.,Within 10 5km,20.8
+4467,Prinsenbeek,Hospitality,Hotels etc.,Within 20 km,38.9
+4468,Prinsenbeek,Hospitality,Hotels etc.,Within 5 km,3.2
+4470,Prinsenbeek,Hospitality,Restaurants,Within 1 km,2.8
+4471,Prinsenbeek,Hospitality,Restaurants,Within 3 km,8.8
+4472,Prinsenbeek,Hospitality,Restaurants,Within 5 km,32.3
+4474,Prinsenbeek,Leisure and culture,Cinema,Within 10 km,3.0
+4475,Prinsenbeek,Leisure and culture,Cinema,Within 20 km,4.0
+4476,Prinsenbeek,Leisure and culture,Cinema,Within 5 km,0.0
+4479,Prinsenbeek,Leisure and culture,Museum,Within 10 km,3.0
+4480,Prinsenbeek,Leisure and culture,Museum,Within 20 km,10.0
+4481,Prinsenbeek,Leisure and culture,Museum,Within 5 km,0.1
+4484,Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.0
+4485,Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+4486,Prinsenbeek,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.0
+4490,Prinsenbeek,Leisure and culture,Recreation,Within 10 km,4.0
+4491,Prinsenbeek,Leisure and culture,Recreation,Within 20 km,9.8
+4492,Prinsenbeek,Leisure and culture,Recreation,Within 50 km,39.0
+4496,Prinsenbeek,Retail,Department store,Within 10 km,7.2
+4497,Prinsenbeek,Retail,Department store,Within 20 km,13.4
+4498,Prinsenbeek,Retail,Department store,Within 5 km,2.0
+4501,Prinsenbeek,Retail,Grocery stores,Within 1 km,1.5
+4502,Prinsenbeek,Retail,Grocery stores,Within 3 km,3.3
+4503,Prinsenbeek,Retail,Grocery stores,Within 5 km,12.7
+4504,Prinsenbeek,Retail,Grocery stores,Within 1 km,5.3
+4505,Prinsenbeek,Retail,Grocery stores,Within 3 km,10.6
+4506,Prinsenbeek,Retail,Grocery stores,Within 5 km,37.0
+4511,Ruitersbos,Childcare,Daycare centres,Within 1 km,3.9
+4512,Ruitersbos,Childcare,Daycare centres,Within 3 km,30.5
+4513,Ruitersbos,Childcare,Daycare centres,Within 5 km,59.5
+4515,Ruitersbos,Childcare,Out-of-school care,Within 1 km,1.6
+4516,Ruitersbos,Childcare,Out-of-school care,Within 3 km,28.0
+4517,Ruitersbos,Childcare,Out-of-school care,Within 5 km,54.9
+4520,Ruitersbos,Education,Primary education,Within 1 km,0.9
+4521,Ruitersbos,Education,Primary education,Within 3 km,10.7
+4522,Ruitersbos,Education,Primary education,Within 5 km,24.0
+4552,Ruitersbos,Health and well-being,General Practitioner's Practice,Within 1 km,0.4
+4553,Ruitersbos,Health and well-being,General Practitioner's Practice,Within 3 km,10.8
+4554,Ruitersbos,Health and well-being,General Practitioner's Practice,Within 5 km,21.5
+4556,Ruitersbos,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4557,Ruitersbos,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4558,Ruitersbos,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.9
+4560,Ruitersbos,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.4
+4561,Ruitersbos,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.7
+4562,Ruitersbos,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.9
+4568,Ruitersbos,Hospitality,Cafes etc.,Within 1 km,2.2
+4569,Ruitersbos,Hospitality,Cafes etc.,Within 3 km,79.8
+4570,Ruitersbos,Hospitality,Cafes etc.,Within 5 km,114.7
+4572,Ruitersbos,Hospitality,Cafeterias etc.,Within 1 km,3.3
+4573,Ruitersbos,Hospitality,Cafeterias etc.,Within 3 km,100.5
+4574,Ruitersbos,Hospitality,Cafeterias etc.,Within 5 km,162.2
+4576,Ruitersbos,Hospitality,Hotels etc.,Within 10 5km,20.0
+4577,Ruitersbos,Hospitality,Hotels etc.,Within 20 km,43.0
+4578,Ruitersbos,Hospitality,Hotels etc.,Within 5 km,13.8
+4580,Ruitersbos,Hospitality,Restaurants,Within 1 km,4.5
+4581,Ruitersbos,Hospitality,Restaurants,Within 3 km,127.1
+4582,Ruitersbos,Hospitality,Restaurants,Within 5 km,187.1
+4584,Ruitersbos,Leisure and culture,Cinema,Within 10 km,3.0
+4585,Ruitersbos,Leisure and culture,Cinema,Within 20 km,4.0
+4586,Ruitersbos,Leisure and culture,Cinema,Within 5 km,2.4
+4589,Ruitersbos,Leisure and culture,Museum,Within 10 km,2.6
+4590,Ruitersbos,Leisure and culture,Museum,Within 20 km,9.8
+4591,Ruitersbos,Leisure and culture,Museum,Within 5 km,1.0
+4594,Ruitersbos,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.7
+4595,Ruitersbos,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.8
+4596,Ruitersbos,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4600,Ruitersbos,Leisure and culture,Recreation,Within 10 km,6.0
+4601,Ruitersbos,Leisure and culture,Recreation,Within 20 km,9.9
+4602,Ruitersbos,Leisure and culture,Recreation,Within 50 km,34.5
+4606,Ruitersbos,Retail,Department store,Within 10 km,6.0
+4607,Ruitersbos,Retail,Department store,Within 20 km,16.1
+4608,Ruitersbos,Retail,Department store,Within 5 km,3.1
+4611,Ruitersbos,Retail,Grocery stores,Within 1 km,0.2
+4612,Ruitersbos,Retail,Grocery stores,Within 3 km,19.2
+4613,Ruitersbos,Retail,Grocery stores,Within 5 km,36.5
+4614,Ruitersbos,Retail,Grocery stores,Within 1 km,3.7
+4615,Ruitersbos,Retail,Grocery stores,Within 3 km,82.0
+4616,Ruitersbos,Retail,Grocery stores,Within 5 km,143.8
+4621,Schorsmolen,Childcare,Daycare centres,Within 1 km,3.1
+4622,Schorsmolen,Childcare,Daycare centres,Within 3 km,37.1
+4623,Schorsmolen,Childcare,Daycare centres,Within 5 km,74.3
+4625,Schorsmolen,Childcare,Out-of-school care,Within 1 km,2.3
+4626,Schorsmolen,Childcare,Out-of-school care,Within 3 km,31.4
+4627,Schorsmolen,Childcare,Out-of-school care,Within 5 km,62.4
+4630,Schorsmolen,Education,Primary education,Within 1 km,0.9
+4631,Schorsmolen,Education,Primary education,Within 3 km,15.8
+4632,Schorsmolen,Education,Primary education,Within 5 km,30.1
+4662,Schorsmolen,Health and well-being,General Practitioner's Practice,Within 1 km,1.0
+4663,Schorsmolen,Health and well-being,General Practitioner's Practice,Within 3 km,15.0
+4664,Schorsmolen,Health and well-being,General Practitioner's Practice,Within 5 km,28.3
+4666,Schorsmolen,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4667,Schorsmolen,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4668,Schorsmolen,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+4670,Schorsmolen,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+4671,Schorsmolen,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+4672,Schorsmolen,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+4678,Schorsmolen,Hospitality,Cafes etc.,Within 1 km,68.4
+4679,Schorsmolen,Hospitality,Cafes etc.,Within 3 km,106.3
+4680,Schorsmolen,Hospitality,Cafes etc.,Within 5 km,114.8
+4682,Schorsmolen,Hospitality,Cafeterias etc.,Within 1 km,61.8
+4683,Schorsmolen,Hospitality,Cafeterias etc.,Within 3 km,145.4
+4684,Schorsmolen,Hospitality,Cafeterias etc.,Within 5 km,173.8
+4686,Schorsmolen,Hospitality,Hotels etc.,Within 10 5km,20.5
+4687,Schorsmolen,Hospitality,Hotels etc.,Within 20 km,43.0
+4688,Schorsmolen,Hospitality,Hotels etc.,Within 5 km,15.4
+4690,Schorsmolen,Hospitality,Restaurants,Within 1 km,72.8
+4691,Schorsmolen,Hospitality,Restaurants,Within 3 km,164.2
+4692,Schorsmolen,Hospitality,Restaurants,Within 5 km,192.9
+4694,Schorsmolen,Leisure and culture,Cinema,Within 10 km,3.0
+4695,Schorsmolen,Leisure and culture,Cinema,Within 20 km,4.0
+4696,Schorsmolen,Leisure and culture,Cinema,Within 5 km,2.0
+4699,Schorsmolen,Leisure and culture,Museum,Within 10 km,3.0
+4700,Schorsmolen,Leisure and culture,Museum,Within 20 km,10.0
+4701,Schorsmolen,Leisure and culture,Museum,Within 5 km,1.0
+4704,Schorsmolen,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.1
+4705,Schorsmolen,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+4706,Schorsmolen,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4710,Schorsmolen,Leisure and culture,Recreation,Within 10 km,5.0
+4711,Schorsmolen,Leisure and culture,Recreation,Within 20 km,10.0
+4712,Schorsmolen,Leisure and culture,Recreation,Within 50 km,39.1
+4716,Schorsmolen,Retail,Department store,Within 10 km,7.0
+4717,Schorsmolen,Retail,Department store,Within 20 km,16.0
+4718,Schorsmolen,Retail,Department store,Within 5 km,4.4
+4721,Schorsmolen,Retail,Grocery stores,Within 1 km,8.6
+4722,Schorsmolen,Retail,Grocery stores,Within 3 km,28.6
+4723,Schorsmolen,Retail,Grocery stores,Within 5 km,40.8
+4724,Schorsmolen,Retail,Grocery stores,Within 1 km,34.3
+4725,Schorsmolen,Retail,Grocery stores,Within 3 km,113.0
+4726,Schorsmolen,Retail,Grocery stores,Within 5 km,160.6
+4731,Sportpark,Childcare,Daycare centres,Within 1 km,4.1
+4732,Sportpark,Childcare,Daycare centres,Within 3 km,43.4
+4733,Sportpark,Childcare,Daycare centres,Within 5 km,74.4
+4735,Sportpark,Childcare,Out-of-school care,Within 1 km,4.9
+4736,Sportpark,Childcare,Out-of-school care,Within 3 km,35.7
+4737,Sportpark,Childcare,Out-of-school care,Within 5 km,64.3
+4740,Sportpark,Education,Primary education,Within 1 km,2.4
+4741,Sportpark,Education,Primary education,Within 3 km,15.6
+4742,Sportpark,Education,Primary education,Within 5 km,32.5
+4772,Sportpark,Health and well-being,General Practitioner's Practice,Within 1 km,1.0
+4773,Sportpark,Health and well-being,General Practitioner's Practice,Within 3 km,15.4
+4774,Sportpark,Health and well-being,General Practitioner's Practice,Within 5 km,27.4
+4776,Sportpark,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.1
+4777,Sportpark,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4778,Sportpark,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+4780,Sportpark,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.1
+4781,Sportpark,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+4782,Sportpark,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+4788,Sportpark,Hospitality,Cafes etc.,Within 1 km,2.9
+4789,Sportpark,Hospitality,Cafes etc.,Within 3 km,101.3
+4790,Sportpark,Hospitality,Cafes etc.,Within 5 km,117.9
+4792,Sportpark,Hospitality,Cafeterias etc.,Within 1 km,7.8
+4793,Sportpark,Hospitality,Cafeterias etc.,Within 3 km,134.5
+4794,Sportpark,Hospitality,Cafeterias etc.,Within 5 km,172.2
+4796,Sportpark,Hospitality,Hotels etc.,Within 10 5km,19.1
+4797,Sportpark,Hospitality,Hotels etc.,Within 20 km,43.9
+4798,Sportpark,Hospitality,Hotels etc.,Within 5 km,15.4
+4800,Sportpark,Hospitality,Restaurants,Within 1 km,10.6
+4801,Sportpark,Hospitality,Restaurants,Within 3 km,159.2
+4802,Sportpark,Hospitality,Restaurants,Within 5 km,194.9
+4804,Sportpark,Leisure and culture,Cinema,Within 10 km,3.0
+4805,Sportpark,Leisure and culture,Cinema,Within 20 km,4.0
+4806,Sportpark,Leisure and culture,Cinema,Within 5 km,3.0
+4809,Sportpark,Leisure and culture,Museum,Within 10 km,2.9
+4810,Sportpark,Leisure and culture,Museum,Within 20 km,9.1
+4811,Sportpark,Leisure and culture,Museum,Within 5 km,1.0
+4814,Sportpark,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+4815,Sportpark,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.1
+4816,Sportpark,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4820,Sportpark,Leisure and culture,Recreation,Within 10 km,5.9
+4821,Sportpark,Leisure and culture,Recreation,Within 20 km,10.0
+4822,Sportpark,Leisure and culture,Recreation,Within 50 km,38.2
+4826,Sportpark,Retail,Department store,Within 10 km,7.0
+4827,Sportpark,Retail,Department store,Within 20 km,15.1
+4828,Sportpark,Retail,Department store,Within 5 km,4.0
+4831,Sportpark,Retail,Grocery stores,Within 1 km,1.8
+4832,Sportpark,Retail,Grocery stores,Within 3 km,28.0
+4833,Sportpark,Retail,Grocery stores,Within 5 km,41.8
+4834,Sportpark,Retail,Grocery stores,Within 1 km,5.2
+4835,Sportpark,Retail,Grocery stores,Within 3 km,117.1
+4836,Sportpark,Retail,Grocery stores,Within 5 km,166.7
+4841,Station,Childcare,Daycare centres,Within 1 km,3.3
+4842,Station,Childcare,Daycare centres,Within 3 km,35.7
+4843,Station,Childcare,Daycare centres,Within 5 km,76.7
+4845,Station,Childcare,Out-of-school care,Within 1 km,1.6
+4846,Station,Childcare,Out-of-school care,Within 3 km,27.2
+4847,Station,Childcare,Out-of-school care,Within 5 km,65.8
+4850,Station,Education,Primary education,Within 1 km,0.9
+4851,Station,Education,Primary education,Within 3 km,16.7
+4852,Station,Education,Primary education,Within 5 km,31.2
+4882,Station,Health and well-being,General Practitioner's Practice,Within 1 km,1.6
+4883,Station,Health and well-being,General Practitioner's Practice,Within 3 km,14.4
+4884,Station,Health and well-being,General Practitioner's Practice,Within 5 km,28.2
+4886,Station,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.5
+4887,Station,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4888,Station,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+4890,Station,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.8
+4891,Station,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.3
+4892,Station,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+4898,Station,Hospitality,Cafes etc.,Within 1 km,24.2
+4899,Station,Hospitality,Cafes etc.,Within 3 km,100.7
+4900,Station,Hospitality,Cafes etc.,Within 5 km,112.2
+4902,Station,Hospitality,Cafeterias etc.,Within 1 km,29.7
+4903,Station,Hospitality,Cafeterias etc.,Within 3 km,135.0
+4904,Station,Hospitality,Cafeterias etc.,Within 5 km,171.5
+4906,Station,Hospitality,Hotels etc.,Within 10 5km,19.9
+4907,Station,Hospitality,Hotels etc.,Within 20 km,43.6
+4908,Station,Hospitality,Hotels etc.,Within 5 km,15.6
+4910,Station,Hospitality,Restaurants,Within 1 km,32.8
+4911,Station,Hospitality,Restaurants,Within 3 km,157.0
+4912,Station,Hospitality,Restaurants,Within 5 km,187.0
+4914,Station,Leisure and culture,Cinema,Within 10 km,3.0
+4915,Station,Leisure and culture,Cinema,Within 20 km,4.0
+4916,Station,Leisure and culture,Cinema,Within 5 km,2.6
+4919,Station,Leisure and culture,Museum,Within 10 km,3.3
+4920,Station,Leisure and culture,Museum,Within 20 km,9.6
+4921,Station,Leisure and culture,Museum,Within 5 km,1.0
+4924,Station,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+4925,Station,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.7
+4926,Station,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+4930,Station,Leisure and culture,Recreation,Within 10 km,5.9
+4931,Station,Leisure and culture,Recreation,Within 20 km,10.0
+4932,Station,Leisure and culture,Recreation,Within 50 km,42.3
+4936,Station,Retail,Department store,Within 10 km,7.1
+4937,Station,Retail,Department store,Within 20 km,15.3
+4938,Station,Retail,Department store,Within 5 km,4.0
+4941,Station,Retail,Grocery stores,Within 1 km,3.6
+4942,Station,Retail,Grocery stores,Within 3 km,28.6
+4943,Station,Retail,Grocery stores,Within 5 km,40.1
+4944,Station,Retail,Grocery stores,Within 1 km,15.2
+4945,Station,Retail,Grocery stores,Within 3 km,112.8
+4946,Station,Retail,Grocery stores,Within 5 km,158.0
+4951,Steenakker,Childcare,Daycare centres,Within 1 km,0.0
+4952,Steenakker,Childcare,Daycare centres,Within 3 km,20.1
+4953,Steenakker,Childcare,Daycare centres,Within 5 km,58.1
+4955,Steenakker,Childcare,Out-of-school care,Within 1 km,0.0
+4956,Steenakker,Childcare,Out-of-school care,Within 3 km,16.2
+4957,Steenakker,Childcare,Out-of-school care,Within 5 km,49.5
+4960,Steenakker,Education,Primary education,Within 1 km,0.0
+4961,Steenakker,Education,Primary education,Within 3 km,7.0
+4962,Steenakker,Education,Primary education,Within 5 km,23.3
+4992,Steenakker,Health and well-being,General Practitioner's Practice,Within 1 km,0.0
+4993,Steenakker,Health and well-being,General Practitioner's Practice,Within 3 km,7.4
+4994,Steenakker,Health and well-being,General Practitioner's Practice,Within 5 km,20.6
+4996,Steenakker,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+4997,Steenakker,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+4998,Steenakker,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.5
+5000,Steenakker,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+5001,Steenakker,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+5002,Steenakker,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.5
+5008,Steenakker,Hospitality,Cafes etc.,Within 1 km,1.4
+5009,Steenakker,Hospitality,Cafes etc.,Within 3 km,49.8
+5010,Steenakker,Hospitality,Cafes etc.,Within 5 km,101.0
+5012,Steenakker,Hospitality,Cafeterias etc.,Within 1 km,1.6
+5013,Steenakker,Hospitality,Cafeterias etc.,Within 3 km,67.4
+5014,Steenakker,Hospitality,Cafeterias etc.,Within 5 km,135.4
+5016,Steenakker,Hospitality,Hotels etc.,Within 10 5km,21.0
+5017,Steenakker,Hospitality,Hotels etc.,Within 20 km,41.1
+5018,Steenakker,Hospitality,Hotels etc.,Within 5 km,11.4
+5020,Steenakker,Hospitality,Restaurants,Within 1 km,1.0
+5021,Steenakker,Hospitality,Restaurants,Within 3 km,74.6
+5022,Steenakker,Hospitality,Restaurants,Within 5 km,148.7
+5024,Steenakker,Leisure and culture,Cinema,Within 10 km,3.5
+5025,Steenakker,Leisure and culture,Cinema,Within 20 km,4.0
+5026,Steenakker,Leisure and culture,Cinema,Within 5 km,1.1
+5029,Steenakker,Leisure and culture,Museum,Within 10 km,3.5
+5030,Steenakker,Leisure and culture,Museum,Within 20 km,10.1
+5031,Steenakker,Leisure and culture,Museum,Within 5 km,0.6
+5034,Steenakker,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.5
+5035,Steenakker,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.6
+5036,Steenakker,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.2
+5040,Steenakker,Leisure and culture,Recreation,Within 10 km,5.0
+5041,Steenakker,Leisure and culture,Recreation,Within 20 km,10.0
+5042,Steenakker,Leisure and culture,Recreation,Within 50 km,38.6
+5046,Steenakker,Retail,Department store,Within 10 km,6.4
+5047,Steenakker,Retail,Department store,Within 20 km,15.0
+5048,Steenakker,Retail,Department store,Within 5 km,4.6
+5051,Steenakker,Retail,Grocery stores,Within 1 km,0.5
+5052,Steenakker,Retail,Grocery stores,Within 3 km,13.5
+5053,Steenakker,Retail,Grocery stores,Within 5 km,33.7
+5054,Steenakker,Retail,Grocery stores,Within 1 km,1.3
+5055,Steenakker,Retail,Grocery stores,Within 3 km,46.8
+5056,Steenakker,Retail,Grocery stores,Within 5 km,124.4
+5061,Teteringen,Childcare,Daycare centres,Within 1 km,2.8
+5062,Teteringen,Childcare,Daycare centres,Within 3 km,14.7
+5063,Teteringen,Childcare,Daycare centres,Within 5 km,43.5
+5065,Teteringen,Childcare,Out-of-school care,Within 1 km,2.7
+5066,Teteringen,Childcare,Out-of-school care,Within 3 km,11.5
+5067,Teteringen,Childcare,Out-of-school care,Within 5 km,35.3
+5070,Teteringen,Education,Primary education,Within 1 km,1.3
+5071,Teteringen,Education,Primary education,Within 3 km,7.2
+5072,Teteringen,Education,Primary education,Within 5 km,22.2
+5102,Teteringen,Health and well-being,General Practitioner's Practice,Within 1 km,0.7
+5103,Teteringen,Health and well-being,General Practitioner's Practice,Within 3 km,4.4
+5104,Teteringen,Health and well-being,General Practitioner's Practice,Within 5 km,17.5
+5106,Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+5107,Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5108,Teteringen,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+5110,Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+5111,Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5112,Teteringen,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+5118,Teteringen,Hospitality,Cafes etc.,Within 1 km,0.7
+5119,Teteringen,Hospitality,Cafes etc.,Within 3 km,1.9
+5120,Teteringen,Hospitality,Cafes etc.,Within 5 km,66.1
+5122,Teteringen,Hospitality,Cafeterias etc.,Within 1 km,1.2
+5123,Teteringen,Hospitality,Cafeterias etc.,Within 3 km,8.3
+5124,Teteringen,Hospitality,Cafeterias etc.,Within 5 km,103.6
+5126,Teteringen,Hospitality,Hotels etc.,Within 10 5km,20.2
+5127,Teteringen,Hospitality,Hotels etc.,Within 20 km,44.2
+5128,Teteringen,Hospitality,Hotels etc.,Within 5 km,9.4
+5130,Teteringen,Hospitality,Restaurants,Within 1 km,1.3
+5131,Teteringen,Hospitality,Restaurants,Within 3 km,11.8
+5132,Teteringen,Hospitality,Restaurants,Within 5 km,118.0
+5134,Teteringen,Leisure and culture,Cinema,Within 10 km,3.0
+5135,Teteringen,Leisure and culture,Cinema,Within 20 km,4.0
+5136,Teteringen,Leisure and culture,Cinema,Within 5 km,2.5
+5139,Teteringen,Leisure and culture,Museum,Within 10 km,3.3
+5140,Teteringen,Leisure and culture,Museum,Within 20 km,7.2
+5141,Teteringen,Leisure and culture,Museum,Within 5 km,1.9
+5144,Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+5145,Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.7
+5146,Teteringen,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.5
+5150,Teteringen,Leisure and culture,Recreation,Within 10 km,6.0
+5151,Teteringen,Leisure and culture,Recreation,Within 20 km,9.3
+5152,Teteringen,Leisure and culture,Recreation,Within 50 km,36.9
+5156,Teteringen,Retail,Department store,Within 10 km,8.4
+5157,Teteringen,Retail,Department store,Within 20 km,15.4
+5158,Teteringen,Retail,Department store,Within 5 km,2.2
+5161,Teteringen,Retail,Grocery stores,Within 1 km,0.5
+5162,Teteringen,Retail,Grocery stores,Within 3 km,3.7
+5163,Teteringen,Retail,Grocery stores,Within 5 km,23.0
+5164,Teteringen,Retail,Grocery stores,Within 1 km,2.1
+5165,Teteringen,Retail,Grocery stores,Within 3 km,15.9
+5166,Teteringen,Retail,Grocery stores,Within 5 km,92.6
+5171,Tuinzigt,Childcare,Daycare centres,Within 1 km,4.0
+5172,Tuinzigt,Childcare,Daycare centres,Within 3 km,33.7
+5173,Tuinzigt,Childcare,Daycare centres,Within 5 km,73.0
+5175,Tuinzigt,Childcare,Out-of-school care,Within 1 km,2.6
+5176,Tuinzigt,Childcare,Out-of-school care,Within 3 km,29.0
+5177,Tuinzigt,Childcare,Out-of-school care,Within 5 km,62.4
+5180,Tuinzigt,Education,Primary education,Within 1 km,1.3
+5181,Tuinzigt,Education,Primary education,Within 3 km,12.2
+5182,Tuinzigt,Education,Primary education,Within 5 km,29.4
+5212,Tuinzigt,Health and well-being,General Practitioner's Practice,Within 1 km,1.7
+5213,Tuinzigt,Health and well-being,General Practitioner's Practice,Within 3 km,12.0
+5214,Tuinzigt,Health and well-being,General Practitioner's Practice,Within 5 km,26.8
+5216,Tuinzigt,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+5217,Tuinzigt,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5218,Tuinzigt,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+5220,Tuinzigt,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+5221,Tuinzigt,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+5222,Tuinzigt,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+5228,Tuinzigt,Hospitality,Cafes etc.,Within 1 km,12.6
+5229,Tuinzigt,Hospitality,Cafes etc.,Within 3 km,102.4
+5230,Tuinzigt,Hospitality,Cafes etc.,Within 5 km,116.7
+5232,Tuinzigt,Hospitality,Cafeterias etc.,Within 1 km,14.5
+5233,Tuinzigt,Hospitality,Cafeterias etc.,Within 3 km,138.1
+5234,Tuinzigt,Hospitality,Cafeterias etc.,Within 5 km,172.2
+5236,Tuinzigt,Hospitality,Hotels etc.,Within 10 5km,20.9
+5237,Tuinzigt,Hospitality,Hotels etc.,Within 20 km,42.2
+5238,Tuinzigt,Hospitality,Hotels etc.,Within 5 km,15.0
+5240,Tuinzigt,Hospitality,Restaurants,Within 1 km,14.0
+5241,Tuinzigt,Hospitality,Restaurants,Within 3 km,152.9
+5242,Tuinzigt,Hospitality,Restaurants,Within 5 km,191.8
+5244,Tuinzigt,Leisure and culture,Cinema,Within 10 km,3.8
+5245,Tuinzigt,Leisure and culture,Cinema,Within 20 km,4.0
+5246,Tuinzigt,Leisure and culture,Cinema,Within 5 km,2.0
+5249,Tuinzigt,Leisure and culture,Museum,Within 10 km,3.8
+5250,Tuinzigt,Leisure and culture,Museum,Within 20 km,10.0
+5251,Tuinzigt,Leisure and culture,Museum,Within 5 km,1.0
+5254,Tuinzigt,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.9
+5255,Tuinzigt,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+5256,Tuinzigt,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+5260,Tuinzigt,Leisure and culture,Recreation,Within 10 km,5.1
+5261,Tuinzigt,Leisure and culture,Recreation,Within 20 km,10.0
+5262,Tuinzigt,Leisure and culture,Recreation,Within 50 km,38.6
+5266,Tuinzigt,Retail,Department store,Within 10 km,6.7
+5267,Tuinzigt,Retail,Department store,Within 20 km,15.9
+5268,Tuinzigt,Retail,Department store,Within 5 km,4.9
+5271,Tuinzigt,Retail,Grocery stores,Within 1 km,4.5
+5272,Tuinzigt,Retail,Grocery stores,Within 3 km,25.8
+5273,Tuinzigt,Retail,Grocery stores,Within 5 km,41.7
+5274,Tuinzigt,Retail,Grocery stores,Within 1 km,14.3
+5275,Tuinzigt,Retail,Grocery stores,Within 3 km,96.5
+5276,Tuinzigt,Retail,Grocery stores,Within 5 km,160.6
+5281,Ulvenhout,Childcare,Daycare centres,Within 1 km,2.6
+5282,Ulvenhout,Childcare,Daycare centres,Within 3 km,8.2
+5283,Ulvenhout,Childcare,Daycare centres,Within 5 km,31.1
+5285,Ulvenhout,Childcare,Out-of-school care,Within 1 km,2.6
+5286,Ulvenhout,Childcare,Out-of-school care,Within 3 km,9.1
+5287,Ulvenhout,Childcare,Out-of-school care,Within 5 km,30.1
+5290,Ulvenhout,Education,Primary education,Within 1 km,1.6
+5291,Ulvenhout,Education,Primary education,Within 3 km,2.8
+5292,Ulvenhout,Education,Primary education,Within 5 km,12.6
+5322,Ulvenhout,Health and well-being,General Practitioner's Practice,Within 1 km,0.6
+5323,Ulvenhout,Health and well-being,General Practitioner's Practice,Within 3 km,2.2
+5324,Ulvenhout,Health and well-being,General Practitioner's Practice,Within 5 km,9.2
+5326,Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+5327,Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5328,Ulvenhout,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+5330,Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+5331,Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5332,Ulvenhout,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+5338,Ulvenhout,Hospitality,Cafes etc.,Within 1 km,0.9
+5339,Ulvenhout,Hospitality,Cafes etc.,Within 3 km,4.3
+5340,Ulvenhout,Hospitality,Cafes etc.,Within 5 km,28.1
+5342,Ulvenhout,Hospitality,Cafeterias etc.,Within 1 km,2.6
+5343,Ulvenhout,Hospitality,Cafeterias etc.,Within 3 km,8.3
+5344,Ulvenhout,Hospitality,Cafeterias etc.,Within 5 km,46.7
+5346,Ulvenhout,Hospitality,Hotels etc.,Within 10 5km,17.7
+5347,Ulvenhout,Hospitality,Hotels etc.,Within 20 km,37.8
+5348,Ulvenhout,Hospitality,Hotels etc.,Within 5 km,3.7
+5350,Ulvenhout,Hospitality,Restaurants,Within 1 km,4.6
+5351,Ulvenhout,Hospitality,Restaurants,Within 3 km,12.7
+5352,Ulvenhout,Hospitality,Restaurants,Within 5 km,66.9
+5354,Ulvenhout,Leisure and culture,Cinema,Within 10 km,3.0
+5355,Ulvenhout,Leisure and culture,Cinema,Within 20 km,4.0
+5356,Ulvenhout,Leisure and culture,Cinema,Within 5 km,0.3
+5359,Ulvenhout,Leisure and culture,Museum,Within 10 km,1.0
+5360,Ulvenhout,Leisure and culture,Museum,Within 20 km,7.0
+5361,Ulvenhout,Leisure and culture,Museum,Within 5 km,0.1
+5364,Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 10 km,2.0
+5365,Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 20 km,5.0
+5366,Ulvenhout,Leisure and culture,Performing arts (excl. festivals),Within 5 km,0.8
+5370,Ulvenhout,Leisure and culture,Recreation,Within 10 km,6.5
+5371,Ulvenhout,Leisure and culture,Recreation,Within 20 km,7.2
+5372,Ulvenhout,Leisure and culture,Recreation,Within 50 km,32.1
+5376,Ulvenhout,Retail,Department store,Within 10 km,4.4
+5377,Ulvenhout,Retail,Department store,Within 20 km,14.8
+5378,Ulvenhout,Retail,Department store,Within 5 km,1.6
+5381,Ulvenhout,Retail,Grocery stores,Within 1 km,1.0
+5382,Ulvenhout,Retail,Grocery stores,Within 3 km,4.2
+5383,Ulvenhout,Retail,Grocery stores,Within 5 km,14.5
+5384,Ulvenhout,Retail,Grocery stores,Within 1 km,2.8
+5385,Ulvenhout,Retail,Grocery stores,Within 3 km,11.0
+5386,Ulvenhout,Retail,Grocery stores,Within 5 km,59.2
+5391,Valkenberg,Childcare,Daycare centres,Within 1 km,2.9
+5392,Valkenberg,Childcare,Daycare centres,Within 3 km,41.3
+5393,Valkenberg,Childcare,Daycare centres,Within 5 km,76.3
+5395,Valkenberg,Childcare,Out-of-school care,Within 1 km,1.9
+5396,Valkenberg,Childcare,Out-of-school care,Within 3 km,33.8
+5397,Valkenberg,Childcare,Out-of-school care,Within 5 km,66.3
+5400,Valkenberg,Education,Primary education,Within 1 km,0.9
+5401,Valkenberg,Education,Primary education,Within 3 km,19.1
+5402,Valkenberg,Education,Primary education,Within 5 km,31.9
+5432,Valkenberg,Health and well-being,General Practitioner's Practice,Within 1 km,1.4
+5433,Valkenberg,Health and well-being,General Practitioner's Practice,Within 3 km,17.7
+5434,Valkenberg,Health and well-being,General Practitioner's Practice,Within 5 km,28.9
+5436,Valkenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.6
+5437,Valkenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5438,Valkenberg,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+5440,Valkenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+5441,Valkenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5442,Valkenberg,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+5448,Valkenberg,Hospitality,Cafes etc.,Within 1 km,61.7
+5449,Valkenberg,Hospitality,Cafes etc.,Within 3 km,104.5
+5450,Valkenberg,Hospitality,Cafes etc.,Within 5 km,114.6
+5452,Valkenberg,Hospitality,Cafeterias etc.,Within 1 km,63.9
+5453,Valkenberg,Hospitality,Cafeterias etc.,Within 3 km,141.1
+5454,Valkenberg,Hospitality,Cafeterias etc.,Within 5 km,173.2
+5456,Valkenberg,Hospitality,Hotels etc.,Within 10 5km,19.9
+5457,Valkenberg,Hospitality,Hotels etc.,Within 20 km,43.7
+5458,Valkenberg,Hospitality,Hotels etc.,Within 5 km,15.7
+5460,Valkenberg,Hospitality,Restaurants,Within 1 km,72.9
+5461,Valkenberg,Hospitality,Restaurants,Within 3 km,163.3
+5462,Valkenberg,Hospitality,Restaurants,Within 5 km,191.2
+5464,Valkenberg,Leisure and culture,Cinema,Within 10 km,3.0
+5465,Valkenberg,Leisure and culture,Cinema,Within 20 km,4.0
+5466,Valkenberg,Leisure and culture,Cinema,Within 5 km,3.0
+5469,Valkenberg,Leisure and culture,Museum,Within 10 km,3.0
+5470,Valkenberg,Leisure and culture,Museum,Within 20 km,9.6
+5471,Valkenberg,Leisure and culture,Museum,Within 5 km,1.0
+5474,Valkenberg,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+5475,Valkenberg,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.8
+5476,Valkenberg,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+5480,Valkenberg,Leisure and culture,Recreation,Within 10 km,6.0
+5481,Valkenberg,Leisure and culture,Recreation,Within 20 km,10.0
+5482,Valkenberg,Leisure and culture,Recreation,Within 50 km,42.2
+5486,Valkenberg,Retail,Department store,Within 10 km,7.0
+5487,Valkenberg,Retail,Department store,Within 20 km,15.0
+5488,Valkenberg,Retail,Department store,Within 5 km,4.0
+5491,Valkenberg,Retail,Grocery stores,Within 1 km,4.7
+5492,Valkenberg,Retail,Grocery stores,Within 3 km,30.2
+5493,Valkenberg,Retail,Grocery stores,Within 5 km,40.2
+5494,Valkenberg,Retail,Grocery stores,Within 1 km,26.7
+5495,Valkenberg,Retail,Grocery stores,Within 3 km,124.1
+5496,Valkenberg,Retail,Grocery stores,Within 5 km,159.8
+5501,Vuchtpolder,Childcare,Daycare centres,Within 1 km,0.3
+5502,Vuchtpolder,Childcare,Daycare centres,Within 3 km,3.5
+5503,Vuchtpolder,Childcare,Daycare centres,Within 5 km,23.4
+5505,Vuchtpolder,Childcare,Out-of-school care,Within 1 km,0.1
+5506,Vuchtpolder,Childcare,Out-of-school care,Within 3 km,3.1
+5507,Vuchtpolder,Childcare,Out-of-school care,Within 5 km,19.4
+5510,Vuchtpolder,Education,Primary education,Within 1 km,0.0
+5511,Vuchtpolder,Education,Primary education,Within 3 km,1.4
+5512,Vuchtpolder,Education,Primary education,Within 5 km,12.5
+5542,Vuchtpolder,Health and well-being,General Practitioner's Practice,Within 1 km,0.1
+5543,Vuchtpolder,Health and well-being,General Practitioner's Practice,Within 3 km,0.6
+5544,Vuchtpolder,Health and well-being,General Practitioner's Practice,Within 5 km,7.9
+5546,Vuchtpolder,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+5547,Vuchtpolder,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5548,Vuchtpolder,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.1
+5550,Vuchtpolder,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+5551,Vuchtpolder,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5552,Vuchtpolder,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.1
+5558,Vuchtpolder,Hospitality,Cafes etc.,Within 1 km,0.1
+5559,Vuchtpolder,Hospitality,Cafes etc.,Within 3 km,0.6
+5560,Vuchtpolder,Hospitality,Cafes etc.,Within 5 km,11.6
+5562,Vuchtpolder,Hospitality,Cafeterias etc.,Within 1 km,0.2
+5563,Vuchtpolder,Hospitality,Cafeterias etc.,Within 3 km,1.5
+5564,Vuchtpolder,Hospitality,Cafeterias etc.,Within 5 km,24.1
+5566,Vuchtpolder,Hospitality,Hotels etc.,Within 10 5km,19.0
+5567,Vuchtpolder,Hospitality,Hotels etc.,Within 20 km,42.3
+5568,Vuchtpolder,Hospitality,Hotels etc.,Within 5 km,1.8
+5570,Vuchtpolder,Hospitality,Restaurants,Within 1 km,1.3
+5571,Vuchtpolder,Hospitality,Restaurants,Within 3 km,6.7
+5572,Vuchtpolder,Hospitality,Restaurants,Within 5 km,33.5
+5574,Vuchtpolder,Leisure and culture,Cinema,Within 10 km,3.0
+5575,Vuchtpolder,Leisure and culture,Cinema,Within 20 km,4.0
+5576,Vuchtpolder,Leisure and culture,Cinema,Within 5 km,0.3
+5579,Vuchtpolder,Leisure and culture,Museum,Within 10 km,3.1
+5580,Vuchtpolder,Leisure and culture,Museum,Within 20 km,7.0
+5581,Vuchtpolder,Leisure and culture,Museum,Within 5 km,1.2
+5584,Vuchtpolder,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+5585,Vuchtpolder,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.4
+5586,Vuchtpolder,Leisure and culture,Performing arts (excl. festivals),Within 5 km,1.2
+5590,Vuchtpolder,Leisure and culture,Recreation,Within 10 km,5.2
+5591,Vuchtpolder,Leisure and culture,Recreation,Within 20 km,9.0
+5592,Vuchtpolder,Leisure and culture,Recreation,Within 50 km,40.2
+5596,Vuchtpolder,Retail,Department store,Within 10 km,6.7
+5597,Vuchtpolder,Retail,Department store,Within 20 km,15.0
+5598,Vuchtpolder,Retail,Department store,Within 5 km,0.5
+5601,Vuchtpolder,Retail,Grocery stores,Within 1 km,0.0
+5602,Vuchtpolder,Retail,Grocery stores,Within 3 km,0.3
+5603,Vuchtpolder,Retail,Grocery stores,Within 5 km,7.8
+5604,Vuchtpolder,Retail,Grocery stores,Within 1 km,0.4
+5605,Vuchtpolder,Retail,Grocery stores,Within 3 km,2.0
+5606,Vuchtpolder,Retail,Grocery stores,Within 5 km,23.4
+5611,Waterdonken,Childcare,Daycare centres,Within 1 km,1.5
+5612,Waterdonken,Childcare,Daycare centres,Within 3 km,14.5
+5613,Waterdonken,Childcare,Daycare centres,Within 5 km,44.4
+5615,Waterdonken,Childcare,Out-of-school care,Within 1 km,0.5
+5616,Waterdonken,Childcare,Out-of-school care,Within 3 km,9.6
+5617,Waterdonken,Childcare,Out-of-school care,Within 5 km,37.5
+5620,Waterdonken,Education,Primary education,Within 1 km,0.7
+5621,Waterdonken,Education,Primary education,Within 3 km,9.0
+5622,Waterdonken,Education,Primary education,Within 5 km,20.6
+5652,Waterdonken,Health and well-being,General Practitioner's Practice,Within 1 km,0.7
+5653,Waterdonken,Health and well-being,General Practitioner's Practice,Within 3 km,6.7
+5654,Waterdonken,Health and well-being,General Practitioner's Practice,Within 5 km,16.4
+5656,Waterdonken,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,3.0
+5657,Waterdonken,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5658,Waterdonken,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.0
+5660,Waterdonken,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,3.0
+5661,Waterdonken,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5662,Waterdonken,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.0
+5668,Waterdonken,Hospitality,Cafes etc.,Within 1 km,0.0
+5669,Waterdonken,Hospitality,Cafes etc.,Within 3 km,4.4
+5670,Waterdonken,Hospitality,Cafes etc.,Within 5 km,94.0
+5672,Waterdonken,Hospitality,Cafeterias etc.,Within 1 km,0.6
+5673,Waterdonken,Hospitality,Cafeterias etc.,Within 3 km,17.7
+5674,Waterdonken,Hospitality,Cafeterias etc.,Within 5 km,128.7
+5676,Waterdonken,Hospitality,Hotels etc.,Within 10 5km,19.0
+5677,Waterdonken,Hospitality,Hotels etc.,Within 20 km,40.9
+5678,Waterdonken,Hospitality,Hotels etc.,Within 5 km,12.3
+5680,Waterdonken,Hospitality,Restaurants,Within 1 km,0.0
+5681,Waterdonken,Hospitality,Restaurants,Within 3 km,16.6
+5682,Waterdonken,Hospitality,Restaurants,Within 5 km,147.8
+5684,Waterdonken,Leisure and culture,Cinema,Within 10 km,3.0
+5685,Waterdonken,Leisure and culture,Cinema,Within 20 km,4.0
+5686,Waterdonken,Leisure and culture,Cinema,Within 5 km,2.0
+5689,Waterdonken,Leisure and culture,Museum,Within 10 km,3.0
+5690,Waterdonken,Leisure and culture,Museum,Within 20 km,7.7
+5691,Waterdonken,Leisure and culture,Museum,Within 5 km,1.0
+5694,Waterdonken,Leisure and culture,Performing arts (excl. festivals),Within 10 km,4.0
+5695,Waterdonken,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+5696,Waterdonken,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+5700,Waterdonken,Leisure and culture,Recreation,Within 10 km,5.7
+5701,Waterdonken,Leisure and culture,Recreation,Within 20 km,9.0
+5702,Waterdonken,Leisure and culture,Recreation,Within 50 km,37.5
+5706,Waterdonken,Retail,Department store,Within 10 km,7.0
+5707,Waterdonken,Retail,Department store,Within 20 km,14.5
+5708,Waterdonken,Retail,Department store,Within 5 km,2.5
+5711,Waterdonken,Retail,Grocery stores,Within 1 km,0.0
+5712,Waterdonken,Retail,Grocery stores,Within 3 km,7.1
+5713,Waterdonken,Retail,Grocery stores,Within 5 km,26.8
+5714,Waterdonken,Retail,Grocery stores,Within 1 km,0.0
+5715,Waterdonken,Retail,Grocery stores,Within 3 km,32.7
+5716,Waterdonken,Retail,Grocery stores,Within 5 km,110.5
+5721,Westerpark,Childcare,Daycare centres,Within 1 km,1.9
+5722,Westerpark,Childcare,Daycare centres,Within 3 km,21.8
+5723,Westerpark,Childcare,Daycare centres,Within 5 km,63.4
+5725,Westerpark,Childcare,Out-of-school care,Within 1 km,1.6
+5726,Westerpark,Childcare,Out-of-school care,Within 3 km,19.5
+5727,Westerpark,Childcare,Out-of-school care,Within 5 km,53.0
+5730,Westerpark,Education,Primary education,Within 1 km,0.8
+5731,Westerpark,Education,Primary education,Within 3 km,6.5
+5732,Westerpark,Education,Primary education,Within 5 km,25.0
+5762,Westerpark,Health and well-being,General Practitioner's Practice,Within 1 km,0.7
+5763,Westerpark,Health and well-being,General Practitioner's Practice,Within 3 km,9.1
+5764,Westerpark,Health and well-being,General Practitioner's Practice,Within 5 km,21.7
+5766,Westerpark,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+5767,Westerpark,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5768,Westerpark,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,1.8
+5770,Westerpark,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,4.0
+5771,Westerpark,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,6.0
+5772,Westerpark,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,1.8
+5778,Westerpark,Hospitality,Cafes etc.,Within 1 km,1.6
+5779,Westerpark,Hospitality,Cafes etc.,Within 3 km,86.2
+5780,Westerpark,Hospitality,Cafes etc.,Within 5 km,116.4
+5782,Westerpark,Hospitality,Cafeterias etc.,Within 1 km,1.7
+5783,Westerpark,Hospitality,Cafeterias etc.,Within 3 km,101.9
+5784,Westerpark,Hospitality,Cafeterias etc.,Within 5 km,165.5
+5786,Westerpark,Hospitality,Hotels etc.,Within 10 5km,21.0
+5787,Westerpark,Hospitality,Hotels etc.,Within 20 km,42.0
+5788,Westerpark,Hospitality,Hotels etc.,Within 5 km,14.3
+5790,Westerpark,Hospitality,Restaurants,Within 1 km,1.0
+5791,Westerpark,Hospitality,Restaurants,Within 3 km,112.0
+5792,Westerpark,Hospitality,Restaurants,Within 5 km,187.1
+5794,Westerpark,Leisure and culture,Cinema,Within 10 km,4.0
+5795,Westerpark,Leisure and culture,Cinema,Within 20 km,4.0
+5796,Westerpark,Leisure and culture,Cinema,Within 5 km,2.0
+5799,Westerpark,Leisure and culture,Museum,Within 10 km,3.9
+5800,Westerpark,Leisure and culture,Museum,Within 20 km,10.1
+5801,Westerpark,Leisure and culture,Museum,Within 5 km,1.0
+5804,Westerpark,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.2
+5805,Westerpark,Leisure and culture,Performing arts (excl. festivals),Within 20 km,7.0
+5806,Westerpark,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+5810,Westerpark,Leisure and culture,Recreation,Within 10 km,5.0
+5811,Westerpark,Leisure and culture,Recreation,Within 20 km,10.0
+5812,Westerpark,Leisure and culture,Recreation,Within 50 km,38.4
+5816,Westerpark,Retail,Department store,Within 10 km,7.0
+5817,Westerpark,Retail,Department store,Within 20 km,15.0
+5818,Westerpark,Retail,Department store,Within 5 km,4.0
+5821,Westerpark,Retail,Grocery stores,Within 1 km,0.6
+5822,Westerpark,Retail,Grocery stores,Within 3 km,19.3
+5823,Westerpark,Retail,Grocery stores,Within 5 km,36.4
+5824,Westerpark,Retail,Grocery stores,Within 1 km,2.0
+5825,Westerpark,Retail,Grocery stores,Within 3 km,69.8
+5826,Westerpark,Retail,Grocery stores,Within 5 km,141.1
+5831,Wisselaar,Childcare,Daycare centres,Within 1 km,2.2
+5832,Wisselaar,Childcare,Daycare centres,Within 3 km,13.4
+5833,Wisselaar,Childcare,Daycare centres,Within 5 km,51.0
+5835,Wisselaar,Childcare,Out-of-school care,Within 1 km,2.4
+5836,Wisselaar,Childcare,Out-of-school care,Within 3 km,11.3
+5837,Wisselaar,Childcare,Out-of-school care,Within 5 km,38.8
+5840,Wisselaar,Education,Primary education,Within 1 km,2.0
+5841,Wisselaar,Education,Primary education,Within 3 km,8.6
+5842,Wisselaar,Education,Primary education,Within 5 km,25.2
+5872,Wisselaar,Health and well-being,General Practitioner's Practice,Within 1 km,1.5
+5873,Wisselaar,Health and well-being,General Practitioner's Practice,Within 3 km,6.3
+5874,Wisselaar,Health and well-being,General Practitioner's Practice,Within 5 km,18.5
+5876,Wisselaar,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.2
+5877,Wisselaar,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5878,Wisselaar,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,0.9
+5880,Wisselaar,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.2
+5881,Wisselaar,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5882,Wisselaar,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,0.9
+5888,Wisselaar,Hospitality,Cafes etc.,Within 1 km,0.0
+5889,Wisselaar,Hospitality,Cafes etc.,Within 3 km,8.4
+5890,Wisselaar,Hospitality,Cafes etc.,Within 5 km,102.3
+5892,Wisselaar,Hospitality,Cafeterias etc.,Within 1 km,1.7
+5893,Wisselaar,Hospitality,Cafeterias etc.,Within 3 km,24.4
+5894,Wisselaar,Hospitality,Cafeterias etc.,Within 5 km,137.9
+5896,Wisselaar,Hospitality,Hotels etc.,Within 10 5km,20.2
+5897,Wisselaar,Hospitality,Hotels etc.,Within 20 km,41.3
+5898,Wisselaar,Hospitality,Hotels etc.,Within 5 km,11.3
+5900,Wisselaar,Hospitality,Restaurants,Within 1 km,1.1
+5901,Wisselaar,Hospitality,Restaurants,Within 3 km,20.8
+5902,Wisselaar,Hospitality,Restaurants,Within 5 km,162.8
+5904,Wisselaar,Leisure and culture,Cinema,Within 10 km,3.0
+5905,Wisselaar,Leisure and culture,Cinema,Within 20 km,4.0
+5906,Wisselaar,Leisure and culture,Cinema,Within 5 km,2.0
+5909,Wisselaar,Leisure and culture,Museum,Within 10 km,2.6
+5910,Wisselaar,Leisure and culture,Museum,Within 20 km,8.0
+5911,Wisselaar,Leisure and culture,Museum,Within 5 km,1.0
+5914,Wisselaar,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.9
+5915,Wisselaar,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+5916,Wisselaar,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+5920,Wisselaar,Leisure and culture,Recreation,Within 10 km,5.0
+5921,Wisselaar,Leisure and culture,Recreation,Within 20 km,10.0
+5922,Wisselaar,Leisure and culture,Recreation,Within 50 km,40.8
+5926,Wisselaar,Retail,Department store,Within 10 km,7.7
+5927,Wisselaar,Retail,Department store,Within 20 km,15.0
+5928,Wisselaar,Retail,Department store,Within 5 km,3.0
+5931,Wisselaar,Retail,Grocery stores,Within 1 km,1.7
+5932,Wisselaar,Retail,Grocery stores,Within 3 km,8.2
+5933,Wisselaar,Retail,Grocery stores,Within 5 km,31.9
+5934,Wisselaar,Retail,Grocery stores,Within 1 km,6.8
+5935,Wisselaar,Retail,Grocery stores,Within 3 km,31.3
+5936,Wisselaar,Retail,Grocery stores,Within 5 km,122.1
+5941,Ypelaar,Childcare,Daycare centres,Within 1 km,4.2
+5942,Ypelaar,Childcare,Daycare centres,Within 3 km,27.1
+5943,Ypelaar,Childcare,Daycare centres,Within 5 km,59.0
+5945,Ypelaar,Childcare,Out-of-school care,Within 1 km,3.6
+5946,Ypelaar,Childcare,Out-of-school care,Within 3 km,24.8
+5947,Ypelaar,Childcare,Out-of-school care,Within 5 km,48.9
+5950,Ypelaar,Education,Primary education,Within 1 km,1.2
+5951,Ypelaar,Education,Primary education,Within 3 km,9.9
+5952,Ypelaar,Education,Primary education,Within 5 km,25.1
+5982,Ypelaar,Health and well-being,General Practitioner's Practice,Within 1 km,1.7
+5983,Ypelaar,Health and well-being,General Practitioner's Practice,Within 3 km,9.7
+5984,Ypelaar,Health and well-being,General Practitioner's Practice,Within 5 km,22.3
+5986,Ypelaar,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+5987,Ypelaar,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+5988,Ypelaar,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+5990,Ypelaar,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.0
+5991,Ypelaar,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.0
+5992,Ypelaar,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+5998,Ypelaar,Hospitality,Cafes etc.,Within 1 km,0.1
+5999,Ypelaar,Hospitality,Cafes etc.,Within 3 km,19.5
+6000,Ypelaar,Hospitality,Cafes etc.,Within 5 km,111.2
+6002,Ypelaar,Hospitality,Cafeterias etc.,Within 1 km,2.3
+6003,Ypelaar,Hospitality,Cafeterias etc.,Within 3 km,41.5
+6004,Ypelaar,Hospitality,Cafeterias etc.,Within 5 km,153.6
+6006,Ypelaar,Hospitality,Hotels etc.,Within 10 5km,18.2
+6007,Ypelaar,Hospitality,Hotels etc.,Within 20 km,43.5
+6008,Ypelaar,Hospitality,Hotels etc.,Within 5 km,14.4
+6010,Ypelaar,Hospitality,Restaurants,Within 1 km,1.4
+6011,Ypelaar,Hospitality,Restaurants,Within 3 km,53.6
+6012,Ypelaar,Hospitality,Restaurants,Within 5 km,184.5
+6014,Ypelaar,Leisure and culture,Cinema,Within 10 km,3.0
+6015,Ypelaar,Leisure and culture,Cinema,Within 20 km,4.0
+6016,Ypelaar,Leisure and culture,Cinema,Within 5 km,3.0
+6019,Ypelaar,Leisure and culture,Museum,Within 10 km,2.1
+6020,Ypelaar,Leisure and culture,Museum,Within 20 km,8.0
+6021,Ypelaar,Leisure and culture,Museum,Within 5 km,1.0
+6024,Ypelaar,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.2
+6025,Ypelaar,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.0
+6026,Ypelaar,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+6030,Ypelaar,Leisure and culture,Recreation,Within 10 km,6.0
+6031,Ypelaar,Leisure and culture,Recreation,Within 20 km,9.4
+6032,Ypelaar,Leisure and culture,Recreation,Within 50 km,34.8
+6036,Ypelaar,Retail,Department store,Within 10 km,7.2
+6037,Ypelaar,Retail,Department store,Within 20 km,16.1
+6038,Ypelaar,Retail,Department store,Within 5 km,2.4
+6041,Ypelaar,Retail,Grocery stores,Within 1 km,2.3
+6042,Ypelaar,Retail,Grocery stores,Within 3 km,12.3
+6043,Ypelaar,Retail,Grocery stores,Within 5 km,34.8
+6044,Ypelaar,Retail,Grocery stores,Within 1 km,9.6
+6045,Ypelaar,Retail,Grocery stores,Within 3 km,52.3
+6046,Ypelaar,Retail,Grocery stores,Within 5 km,143.1
+6051,Zandberg,Childcare,Daycare centres,Within 1 km,9.8
+6052,Zandberg,Childcare,Daycare centres,Within 3 km,40.0
+6053,Zandberg,Childcare,Daycare centres,Within 5 km,71.2
+6055,Zandberg,Childcare,Out-of-school care,Within 1 km,7.2
+6056,Zandberg,Childcare,Out-of-school care,Within 3 km,33.7
+6057,Zandberg,Childcare,Out-of-school care,Within 5 km,60.8
+6060,Zandberg,Education,Primary education,Within 1 km,4.4
+6061,Zandberg,Education,Primary education,Within 3 km,12.7
+6062,Zandberg,Education,Primary education,Within 5 km,30.5
+6092,Zandberg,Health and well-being,General Practitioner's Practice,Within 1 km,1.3
+6093,Zandberg,Health and well-being,General Practitioner's Practice,Within 3 km,15.1
+6094,Zandberg,Health and well-being,General Practitioner's Practice,Within 5 km,27.2
+6096,Zandberg,Health and well-being,Hospital (excl. outpatient clinics),Within 10 km,2.0
+6097,Zandberg,Health and well-being,Hospital (excl. outpatient clinics),Within 20 km,3.0
+6098,Zandberg,Health and well-being,Hospital (excl. outpatient clinics),Within 5 km,2.0
+6100,Zandberg,Health and well-being,Hospital (incl. outpatient clinics),Within 10 km,2.7
+6101,Zandberg,Health and well-being,Hospital (incl. outpatient clinics),Within 20 km,5.2
+6102,Zandberg,Health and well-being,Hospital (incl. outpatient clinics),Within 5 km,2.0
+6108,Zandberg,Hospitality,Cafes etc.,Within 1 km,6.9
+6109,Zandberg,Hospitality,Cafes etc.,Within 3 km,103.1
+6110,Zandberg,Hospitality,Cafes etc.,Within 5 km,116.8
+6112,Zandberg,Hospitality,Cafeterias etc.,Within 1 km,16.4
+6113,Zandberg,Hospitality,Cafeterias etc.,Within 3 km,136.5
+6114,Zandberg,Hospitality,Cafeterias etc.,Within 5 km,173.4
+6116,Zandberg,Hospitality,Hotels etc.,Within 10 5km,19.1
+6117,Zandberg,Hospitality,Hotels etc.,Within 20 km,44.6
+6118,Zandberg,Hospitality,Hotels etc.,Within 5 km,15.0
+6120,Zandberg,Hospitality,Restaurants,Within 1 km,26.3
+6121,Zandberg,Hospitality,Restaurants,Within 3 km,160.8
+6122,Zandberg,Hospitality,Restaurants,Within 5 km,196.0
+6124,Zandberg,Leisure and culture,Cinema,Within 10 km,3.0
+6125,Zandberg,Leisure and culture,Cinema,Within 20 km,4.0
+6126,Zandberg,Leisure and culture,Cinema,Within 5 km,3.0
+6129,Zandberg,Leisure and culture,Museum,Within 10 km,2.2
+6130,Zandberg,Leisure and culture,Museum,Within 20 km,9.8
+6131,Zandberg,Leisure and culture,Museum,Within 5 km,1.0
+6134,Zandberg,Leisure and culture,Performing arts (excl. festivals),Within 10 km,3.1
+6135,Zandberg,Leisure and culture,Performing arts (excl. festivals),Within 20 km,6.8
+6136,Zandberg,Leisure and culture,Performing arts (excl. festivals),Within 5 km,2.0
+6140,Zandberg,Leisure and culture,Recreation,Within 10 km,5.7
+6141,Zandberg,Leisure and culture,Recreation,Within 20 km,10.0
+6142,Zandberg,Leisure and culture,Recreation,Within 50 km,37.5
+6146,Zandberg,Retail,Department store,Within 10 km,6.9
+6147,Zandberg,Retail,Department store,Within 20 km,15.6
+6148,Zandberg,Retail,Department store,Within 5 km,4.0
+6151,Zandberg,Retail,Grocery stores,Within 1 km,3.8
+6152,Zandberg,Retail,Grocery stores,Within 3 km,28.4
+6153,Zandberg,Retail,Grocery stores,Within 5 km,41.3
+6154,Zandberg,Retail,Grocery stores,Within 1 km,16.8
+6155,Zandberg,Retail,Grocery stores,Within 3 km,111.5
+6156,Zandberg,Retail,Grocery stores,Within 5 km,164.3
